@@ -23,7 +23,7 @@ Scroll down and Select **Highlights**
 **What if the page doesn't load?** Sometimes the highlights don't load. Refresh the page and try again. Otherwise 
 {% endhint %}
 
-Here are the Piano Q&A Highlights that need to be added
+Here are the Piano Q&A Highlights that need to be added \(you can check these boxes once finished\).
 
 * [ ] Highlight 9
 * [ ] Highlight 10
@@ -46,6 +46,14 @@ Look for questions and answers in the chat like this:
 ## Step 2: Paste 
 
 ### a. Paste the question into [Gitbook \(login here\)](https://app.gitbook.com/login)
+
+{% hint style="success" %}
+Choose the appropriate category \(this requires your expertise\)
+{% endhint %}
+
+![](https://i.gyazo.com/52bd3b84e4ad0b749ce28a845fd965f0.gif)
+
+
 
 Use the dropdown for different text:
 
