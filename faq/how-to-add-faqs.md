@@ -45,7 +45,7 @@ Look for questions and answers in the chat like this:
 
 ## Step 2: Paste 
 
-### Paste the question into [Gitbook \(login here\)](https://app.gitbook.com/login)
+### a. Paste the question into [Gitbook \(login here\)](https://app.gitbook.com/login)
 
 Use the dropdown for different text:
 
@@ -76,11 +76,21 @@ For example:
 | Undo | CTRL + Z |
 | Redo | CTRL + SHIFT + Z |
 | Save Draft | CTRL + S |
+| Merge | Click on Merge |
+| Find Text | CTRL + F |
 | Show Commands | CTRL + / |
 
 
 
-### Pasting a Story Video
+### b. Pasting a Picture
+
+Copy Image &gt; Paste 
+
+![](https://i.gyazo.com/2eaf0fdd18589b75d99e0c4aea9df519.gif)
+
+### 
+
+### c. Pasting a Story Video
 
 Some questions don't make sense without the videos. 
 
@@ -88,7 +98,7 @@ We will need to upload videos to Google Drive and paste the videos.
 
 Here's the final result:
 
-{% embed url="https://drive.google.com/file/d/1eDsahTyvsm\_b-r5oPIEBaENv1on53Gpm/view?usp=sharing" %}
+{% embed url="https://drive.google.com/file/d/1eDsahTyvsm\_b-r5oPIEBaENv1on53Gpm/view?usp=sharing" caption="River Flows in You - Feedback for @wannabe\_jain" %}
 
 #### How to add videos to Gitbook
 
@@ -108,11 +118,9 @@ Here's the final result:
 
 4. Navigate back to Gitbook &gt; Paste &gt; **Hit** **Enter**
 
+Here's the final result again:
 
-
-
-
-
+{% embed url="https://drive.google.com/file/d/1eDsahTyvsm\_b-r5oPIEBaENv1on53Gpm/view?usp=sharing" caption="River Flows in You - Feedback for @wannabe\_jain" %}
 
 
 
@@ -120,7 +128,11 @@ Here's the final result:
 
 ## Step 3: Save
 
-**Save** and **Merge** changes after each question.
+**Save Draft** and **Merge** changes after each question is added.
+
+You can use CTRL+S to Save Draft fast.
+
+Click on Merge 
 
 ![](https://i.gyazo.com/964783f56f43eae537476ea62dbd0739.gif)
 
