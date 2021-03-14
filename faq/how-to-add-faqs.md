@@ -45,9 +45,73 @@ Look for questions and answers in the chat like this:
 
 ## Step 2: Paste 
 
-Paste the question into Gitbook
+#### Paste the question into [Gitbook \(login here\)](https://app.gitbook.com/login)
 
-[https://app.gitbook.com/login](https://app.gitbook.com/login)
+Use the dropdown for different text:
+
+![](../.gitbook/assets/image%20%281%29.png)
+
+{% hint style="info" %}
+**Heading 1** for Question  
+**Heading 2** for Steps like 1, 2, 3  
+**Heading 3** for Subcategories   
+  
+Look at the examples already in the FAQs
+{% endhint %}
+
+
+
+For example:
+
+![](https://i.gyazo.com/43c5b070b2361573a181f426c2b29877.gif)
+
+| Action | Shortcut |
+| :--- | :--- |
+| Copy | CTRL + C |
+| Paste | CTRL + V |
+| Undo | CTRL + Z |
+| Redo | CTRL + SHIFT + Z |
+
+{% hint style="danger" %}
+**Made a mistake?** Use CTRL + Z to undo  
+  
+Other shortcuts:  
+  
+CTRL + C   
+CTRL + V: Paste  
+CTRL + Z: Undo  
+CTRL + SHIFT Z: Redo
+{% endhint %}
+
+#### 
+
+#### Ps
+
+
+
+
+
+
+
+
+
+
+
+## I can read notes but I use memory more. Any tips?
+
+Learning piano without reading notes is like learning
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
