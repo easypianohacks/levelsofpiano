@@ -2,8 +2,6 @@
 
 Here are 3 steps to add [frequently asked questions from Instagram ](https://www.instagram.com/easypianohacks/)to the FAQ:
 
-{% embed url="https://www.youtube.com/watch?v=FdCChJU3-sA" %}
-
 ## Step 1: Copy
 
 Go to Story Saver   
