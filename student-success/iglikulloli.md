@@ -6,17 +6,36 @@ description: Albani
 
 ## Student increases Finger Speed by 52% in 3 weeks \(using this Ancient method\)
 
-What is the ancient method?  
-Hanon exercises, est. since 1873 \(included in every level 😉\)  
-  
+{% hint style="success" %}
+1. Igli achieved a **52% increase in speed** by counting out loud with the metronome.
+2. Igli started at less than 100bpm, with **uneven notes and no counting.** 
+3. Igli is now able to ****achieve **100% accuracy at more than 152bpm**
+{% endhint %}
+
+### What is the ancient method?
+
+Hanon exercises, est. since 1873 \(included in every level 😉\)
+
+{% page-ref page="../guides/hanon.md" %}
+
 I'd like you to meet student [@iglikullolli](https://www.instagram.com/iglikullolli/) from Albania
 
 ![](https://i.gyazo.com/2999f5c8c2f6d5083f93f485faad4691.gif)
 
-## **Before** 
+### **Before**
 
-Here's how Igli went from...  
-﻿﻿
+Here's how Igli went from...
+
+> I feel depressed... I don't have support... my hands are shaking and I can't concentrate"
+
+{% embed url="https://coachtestprep.s3.amazonaws.com/direct-uploads/user-76755/be3f52d8-6271-4256-9872-107fd2186fa4/before20using20a20metronome20-at-iglikullolli\_StQK3lHI\_okvu.mp4" %}
+
+{% hint style="danger" %}
+**Metronome is on**, but not playing on time.  
+**Not counting out loud,** unsure where notes align.
+{% endhint %}
+
+
 
 ![](https://i.gyazo.com/4edf7d116f3af610090f5b32eb75ecb4.png)
 
@@ -24,31 +43,36 @@ Here's how Igli went from...
 
 ![](https://i.gyazo.com/c506c9097a2f1b46bbfa62bae5149098.png)
 
-### Dec 05, 2021
-
-Hanon No. 6 at 72bpm
-
-{% embed url="https://coachtestprep.s3.amazonaws.com/direct-uploads/user-76755/3c776ec2-eb88-4428-94e8-b743e1ba0848/Hanon%20No.%206%20@iglikullolli%20Dec%205%202020%20\(72bpm\).mp4" %}
 
 
+### ﻿**After**
 
-## ﻿**After**
+And transformed his technique into this...
 
-### ﻿﻿
+> "You're going to make me cry, I'm speechless for real"
+
+###  **🏆 Achievement**
+
+This is Hanon No. 6 at **172 bpm** - one of the fastest tempos on the metronome.
+
+{% embed url="https://coachtestprep.s3.amazonaws.com/direct-uploads/user-76755/0ea4cf1e-9437-4d18-b293-3a3d27573a2b/Hanon%20No.%206%20more%20than%20172.mp4" %}
+
+{% hint style="success" %}
+**Playing with the metronome** - not before the tick, not after, but ON the tick. 
+
+**Counting out loud -** if you can say you can play it
+
+**Counting subdivisions** - in this case, that's sixteenth notes: 1e+a 2e+a 3e+a 4e+a 
+{% endhint %}
+
+
 
 ![](https://i.gyazo.com/c8944fcb1153b7d586bf1a41813a1cb7.png)
 
 
 
-
-
 ## **The Problem**
 
-![](https://i.gyazo.com/8bab2c384ebabc3eff336131e53da6b2.png)
-
-  
-﻿﻿  
-  
 Here are the facts:
 
 ![](https://i.gyazo.com/c506c9097a2f1b46bbfa62bae5149098.png)
@@ -61,8 +85,8 @@ Here are the facts:
 * Igli loves to play repertoire like River Flows in You, Mariage D'amour, but there was a huge issue...
 
 {% hint style="danger" %}
-Igli's playing was messy, uneven, and his fingers felt weak.  
-****He did not know how to count or use a metronome.
+Igli's playing was **messy, uneven, and his fingers felt weak.**  
+He did not know how to count or use a metronome.
 {% endhint %}
 
   
@@ -91,15 +115,13 @@ He knew he had a problem and wanted to fix it, so...
 
 ![](https://i.gyazo.com/c8944fcb1153b7d586bf1a41813a1cb7.png)
 
-## **Stronger, Faster Fingers in 3 weeks**
+## **The Plan**
+
+### **Faster Fingers in 3 Weeks**
 
 1. Igli achieved a 52% increase in speed by counting out loud with the metronome by Hanon No. 6.
 2. Igli started at less than 100bpm, with uneven notes and no counting. 
 3. Igli is now able to achieve 100% accuracy at 152bpm.
-
-  
-  
-****
 
 ## **WEEK 1**
 
@@ -203,8 +225,6 @@ Dec 29 at 152bpm
 
 \*\*\*\*
 
-### Jan 2, 2021
-
 On Jan 2, 2021 Igli sends this video of Hanon No. 6 at 152bpm.
 
 {% embed url="https://coachtestprep.s3.amazonaws.com/direct-uploads/user-76755/e8fff68e-29b3-4885-8b38-32b0005a7c78/Hanon%20No.%206%20@iglikullolli%20Jan%202,%202020%20\(152bpm\).mp4" %}
@@ -213,20 +233,39 @@ On Jan 2, 2021 Igli sends this video of Hanon No. 6 at 152bpm.
 In 3 weeks of starting Hanon with the metronome, Igli achieved a **52% increase in finger speed + control using Hanon No. 6.**
 {% endhint %}
 
-
+> "You're going to make me cry, I'm speechless for real"
 
 ![](https://i.gyazo.com/8bab2c384ebabc3eff336131e53da6b2.png)
+
+
+
+### 172 bpm
+
+**🏆 Achievement** 
+
+This is Hanon No. 6 at **172 bpm** - one of the fastest tempos on the metronome.
+
+{% embed url="https://coachtestprep.s3.amazonaws.com/direct-uploads/user-76755/0ea4cf1e-9437-4d18-b293-3a3d27573a2b/Hanon%20No.%206%20more%20than%20172.mp4" %}
+
+{% hint style="success" %}
+**Playing with the metronome** - not before the tick, not after, but ON the tick. 
+
+**Counting out loud -** if you can say you can play it
+
+**Counting subdivisions** - in this case, that's sixteenth notes: 1e+a 2e+a 3e+a 4e+a 
+{% endhint %}
+
+
 
 ![](https://i.gyazo.com/c8944fcb1153b7d586bf1a41813a1cb7.png)
 
   
   
 ****Now you might be wondering...  
-****What is student @iglikullolli up to now?
+****What is student @iglikullolli up to now? Why is he trying to play faster?
 
 ## **The Dream**
 
-  
 Since I met Igli in September 2020....
 
 @iglikulloli's dream was to play [Maksim Mrvica's version of Pirates of the Caribbean](https://www.youtube.com/watch?v=BWnrQFtTMI4)
@@ -235,16 +274,24 @@ Since I met Igli in September 2020....
 
 ![](https://i.gyazo.com/516b486c1655966989145e92618e70c3.png)
 
-## **The Solution**
+{% embed url="https://www.youtube.com/watch?v=BWnrQFtTMI4" %}
+
+
+
+If he wants to play this, he needs to learn how to count and play with the metronome.
+
+This piece is fast.
 
 To achieve this, he needs to:
 
 * learn how to count in 12/8 time 
 * learn how to count with the metronome
-* improve his finger speed + control
+* improve his finger speed + control﻿﻿
 
-﻿![](https://i.gyazo.com/a9a13271cde63e80f16b8c7e1626330a.png)﻿  
-  
+![](https://i.gyazo.com/a9a13271cde63e80f16b8c7e1626330a.png)
+
+##  **What can you learn from this?**
+
   
 Like a lot of self taught pianists, Igli has lots of songs and piece he likes. He loves playing repertoire like:
 
@@ -253,16 +300,16 @@ Like a lot of self taught pianists, Igli has lots of songs and piece he likes. H
 * Chopin Nocturne No. 20  
 
 But he suffered from 2 main problems:  
-  
-**1. Slow Finger Syndrome**﻿﻿﻿﻿  
-  
-  
-**Slow Finger Syndrome is easy to fix...**  
-...if you know what to practice  
-  
-**If you want to:**
+
+
+### **1. Slow Finger Syndrome**﻿﻿﻿﻿
+
+**Slow Finger Syndrome is easy to fix** if you know what to practice  
+
 
 ![](https://i.gyazo.com/47e0346820a23734fced05fd54384586.png)
+
+**If you want to:**
 
 * have no problem playing 95% of all sheet music online... 
 * play with evenness and 100% rhythm accuracy   
@@ -276,22 +323,29 @@ But he suffered from 2 main problems:
 If you can master a new exercise from Hanon every week, you will finish Level 10 in less than 1 year.  
   
   
-**2.** **Low Progress Disorder**﻿![](https://i.gyazo.com/4edf7d116f3af610090f5b32eb75ecb4.png)﻿  
-  
-Here's what I said...  
-﻿![](https://i.gyazo.com/f32930e9010db542ad443d9049cb2ef2.png)﻿  
-"You're 7 months \[in\] playing something that took me 7 years. You're doing fine."  
-  
-﻿![](https://i.gyazo.com/ddd8054f2891ac8ccb8403351c10bb3c.png)﻿  
-  
-﻿![](https://i.gyazo.com/e6f2a0e66232fc38a8dbeae33a53f865.png)﻿  
-  
-﻿![](https://i.gyazo.com/d6b44c2fad12caa0642611ec891fb58e.png)﻿  
-  
-  
 
 
-## **What can you learn from this?**
+### **2.** **Low Progress Disorder**﻿﻿ 
+
+Symptoms of low progress disorder:
+
+![](https://i.gyazo.com/4edf7d116f3af610090f5b32eb75ecb4.png)
+
+Here's what I said...
+
+{% hint style="success" %}
+You're 7 months in **playing something that took me 7 years.** You're doing fine.
+{% endhint %}
+
+![](https://i.gyazo.com/f32930e9010db542ad443d9049cb2ef2.png)
+
+![](https://i.gyazo.com/ddd8054f2891ac8ccb8403351c10bb3c.png)
+
+![](https://i.gyazo.com/e6f2a0e66232fc38a8dbeae33a53f865.png)
+
+![](https://i.gyazo.com/d6b44c2fad12caa0642611ec891fb58e.png)
+
+## **Your Practice Plan**
 
   
 Here's the plan:
