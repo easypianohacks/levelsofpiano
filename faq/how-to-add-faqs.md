@@ -82,15 +82,43 @@ For example:
 
 ### Pasting a Story Video
 
+Some questions don't make sense without the videos. 
+
+We will need to upload videos to Google Drive and paste the videos. 
+
+Here's the final result:
+
+{% embed url="https://drive.google.com/file/d/1eDsahTyvsm\_b-r5oPIEBaENv1on53Gpm/view?usp=sharing" %}
+
+#### How to add videos to Gitbook
+
+1. Download the video from StorySaver.
+
+![](https://i.gyazo.com/5e6d3417e4ca4f7c2fc5872b5f59bcab.gif)
+
+
+
+2. Upload the video to [this Google Drive Folder](https://drive.google.com/drive/u/0/folders/10_uw1kXduKJOx95RgO1jKCQ5maa123OD)
+
+{% embed url="https://drive.google.com/drive/u/0/folders/10\_uw1kXduKJOx95RgO1jKCQ5maa123OD" %}
+
+3. Right click the video file &gt; Get Link &gt; **Copy Link**  
+
+![](https://i.gyazo.com/6d63b8d8f85dc9073c5799a0e31c7a4b.gif)
+
+4. Navigate back to Gitbook &gt; Paste &gt; **Hit** **Enter**
 
 
 
 
-{% embed url="https://drive.google.com/file/d/1eDsahTyvsm\_b-r5oPIEBaENv1on53Gpm/view?url=mp4" %}
 
 
 
-### Step 3: Save
+
+
+
+
+## Step 3: Save
 
 **Save** and **Merge** changes after each question.
 
