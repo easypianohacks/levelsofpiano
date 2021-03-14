@@ -4,8 +4,9 @@ Here are 3 steps to add [frequently asked questions from Instagram ](https://www
 
 ## Step 1: Copy
 
-Go to Story Saver   
-[`https://www.storysaver.net/`](https://www.storysaver.net/)
+Use an Instagram Story Highlights downloader:  
+
+[https://aloinstagram.com/download-instagram-highlights/](https://aloinstagram.com/download-instagram-highlights/)
 
 Type in:
 
