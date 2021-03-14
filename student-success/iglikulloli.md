@@ -115,7 +115,7 @@ He knew he had a problem and wanted to fix it, so...
 
 ![](https://i.gyazo.com/c8944fcb1153b7d586bf1a41813a1cb7.png)
 
-## **The Plan**
+\*\*\*\*
 
 ### **Faster Fingers in 3 Weeks**
 
