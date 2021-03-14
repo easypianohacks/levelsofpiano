@@ -24,3 +24,11 @@ I can read notes but when I play I only use memory
 
 Learning piano without reading notes
 
+
+
+## Question
+
+Answer
+
+
+

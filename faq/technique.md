@@ -118,7 +118,15 @@ If you are reading the music, you should be able to keep track of which note you
 
 Familiarize yourself with the octaves for each note. A good exercise is to find middle C, go up an octave to the next C, and then the next C above that.
 
-## HEading
+## How do I play faster with less mistakes?
 
-### 1. f
+You must play slow and accurately before you can play fast.
+
+{% embed url="https://drive.google.com/file/d/1WcQ1WxDySTWbnsbk3YuQyWfTtUSp5gPi/view?usp=sharing" %}
+
+
+
+
+
+
 
