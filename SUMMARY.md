@@ -10,7 +10,7 @@
 
 ## FAQ
 
-* [How to add FAQs](faq/how-to-add-faqs.md)
+* [💡 How to add FAQs ✅](faq/how-to-add-faqs.md)
 * [🖐 Technique](faq/technique.md)
 * [🎼 Sight Reading](faq/sight-reading.md)
 * [🎹 Repertoire](faq/repertoire.md)

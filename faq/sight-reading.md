@@ -14,7 +14,7 @@ If you want to improve your reading ability and familiarity with the keys, a goo
 
 
 
-## I can't read music'
+## I can't read music.
 
 I can read notes but when I play I only use memory
 
@@ -23,6 +23,4 @@ I can read notes but when I play I only use memory
 {% endhint %}
 
 Learning piano without reading notes
-
-![](../.gitbook/assets/image.png)
 
