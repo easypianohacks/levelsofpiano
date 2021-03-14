@@ -1,5 +1,8 @@
 ---
-description: Albani
+description: >-
+  This is a story of how Igli from Albania increased his finger speed by
+  counting and using the metronome, and how you can do the same with these
+  ancient piano methods.
 ---
 
 # 🏆 Increase Finger Speed
