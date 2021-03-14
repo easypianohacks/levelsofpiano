@@ -2,7 +2,7 @@
 description: Albani
 ---
 
-# 🏆 @iglikulloli
+# 🏆 Increase Finger Speed
 
 ## Student increases Finger Speed by 52% in 3 weeks \(using this Ancient method\)
 

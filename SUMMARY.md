@@ -10,7 +10,7 @@
 
 ## Student Success
 
-* [🏆 @iglikulloli](student-success/iglikulloli.md)
+* [🏆 Increase Finger Speed](student-success/piano-student-increases-finger-speed-using-hanon.md)
 
 ## FAQ
 
