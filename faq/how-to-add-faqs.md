@@ -1,13 +1,13 @@
 # 💡 How to add FAQs ✅
 
-Here are 3 steps to add frequently asked questions to the FAQ
+Here are 3 steps to add [frequently asked questions from Instagram ](https://www.instagram.com/easypianohacks/)to the FAQ:
 
 {% embed url="https://www.youtube.com/watch?v=FdCChJU3-sA" %}
 
 ## Step 1: Copy
 
 Go to Story Saver   
-[https://www.storysaver.net/](https://www.storysaver.net/) 
+[`https://www.storysaver.net/`](https://www.storysaver.net/)
 
 Type in:
 
@@ -84,7 +84,7 @@ For example:
 
 ### b. Pasting a Picture
 
-Copy Image &gt; Paste 
+Copy Image &gt; Paste  `CTRL + V`
 
 ![](https://i.gyazo.com/2eaf0fdd18589b75d99e0c4aea9df519.gif)
 
@@ -94,9 +94,7 @@ Copy Image &gt; Paste
 
 Some questions don't make sense without the videos. 
 
-We will need to upload videos to Google Drive and paste the videos. 
-
-Here's the final result:
+We will need to upload videos to Google Drive and paste the videos. Here's the final result:
 
 {% embed url="https://drive.google.com/file/d/1eDsahTyvsm\_b-r5oPIEBaENv1on53Gpm/view?usp=sharing" caption="River Flows in You - Feedback for @wannabe\_jain" %}
 
@@ -112,11 +110,11 @@ Here's the final result:
 
 {% embed url="https://drive.google.com/drive/u/0/folders/10\_uw1kXduKJOx95RgO1jKCQ5maa123OD" %}
 
-3. Right click the video file &gt; Get Link &gt; **Copy Link**  
+3. `Right click` the video file &gt; Get Link &gt; **Copy Link**  
 
 ![](https://i.gyazo.com/6d63b8d8f85dc9073c5799a0e31c7a4b.gif)
 
-4. Navigate back to Gitbook &gt; Paste &gt; **Hit** **Enter**
+4. Navigate back to Gitbook &gt; Paste `CTRL + V` &gt; **Hit** **`Enter`**
 
 Here's the final result again:
 
@@ -130,9 +128,9 @@ Here's the final result again:
 
 **Save Draft** and **Merge** changes after each question is added.
 
-You can use CTRL+S to Save Draft fast.
+You can use **`CTRL+S`** to Save Draft fast.
 
-Click on Merge 
+Click on **Merge** to Publish Changes.
 
 ![](https://i.gyazo.com/964783f56f43eae537476ea62dbd0739.gif)
 
