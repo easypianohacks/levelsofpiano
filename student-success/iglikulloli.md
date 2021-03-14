@@ -105,12 +105,11 @@ He knew he had a problem and wanted to fix it, so...
 
 After learning Hanon No. 1 to 5 in Level 1...  
   
-Igli started Hanon No. 6 with a metronome...  
-﻿![](https://i.gyazo.com/745395853f2fabff245cba0ee2177309.png)﻿  
-  
-****Like everyone else, he struggled to play in time with the metronome, so  
-****  
+Igli started Hanon No. 6 with a metronome...
 
+![](https://i.gyazo.com/745395853f2fabff245cba0ee2177309.png)
+
+Like everyone else, he struggled to play in time with the metronome, so
 
 * he clapped
 * he counted out loud
@@ -138,10 +137,13 @@ He had trouble making transitions in time...
 
 Dec 16, 2020
 
-1 week later, Igli is playing Hanon No. 6 at 96bpm and 112bpm. Watch his fingers begin to develop strength.  
-
+1 week later, Igli is playing Hanon No. 6 at 96bpm and 112bpm. 
 
 ### **96bpm**
+
+{% hint style="info" %}
+Watch his fingers begin to develop strength.
+{% endhint %}
 
 {% embed url="https://coachtestprep.s3.amazonaws.com/direct-uploads/user-76755/d325acce-f083-4ab6-a638-07f83efb9f68/Hanon%20No.%206%20@iglikullolli%20Dec%2016%202020%20\(96bpm\).mp4" %}
 
@@ -150,9 +152,11 @@ Dec 16, 2020
 {% embed url="https://coachtestprep.s3.amazonaws.com/direct-uploads/user-76755/240ccc52-48c7-41b7-a1f1-32829126cc20/Hanon%20No.%206%20@iglikullolli%20Dec%2016%202020%20\(112bpm\).mp4" %}
 
 {% hint style="success" %}
-* It's hard, but he counts out loud
-* He masters accuracy at each metronome speed
-* When comfortable, he increases the speed \(1 tick = 1/16th note\)
+Here's what Igli is doing right so far:
+
+* It's hard, but he **counts out loud**
+* He masters accuracy **at each metronome speed**
+* **When comfortable**, he increases the speed \(1 tick = 1/16th note\)
 {% endhint %}
 
 ﻿﻿
@@ -179,36 +183,29 @@ Dec 28, 2020
 
 ###  144 bpm
 
+Dec 29 with Hanon No. 6 at 144bpm 
+
 {% embed url="https://coachtestprep.s3.amazonaws.com/direct-uploads/user-76755/866d13ac-17e1-46a2-aad6-56a388ebace1/Hanon%20No.%206%20@iglikullolli%20Dec%2028%202020%20\(144bpm\).mp4" %}
 
 
-
-﻿  
-****﻿[Hanon No. 6 @iglikullolli Dec 29, 2020 \(152bpm\).mp4 711.67 KB](https://coachtestprep.s3.amazonaws.com/direct-uploads/user-76755/74b3ef02-e09a-4cc8-ab29-9b63dffc83fb/Hanon%20No.%206%20@iglikullolli%20Dec%2029,%202020%20%28152bpm%29.mp4)﻿  
-  
-****Dec 29 at 152bpm is nearly there, but still raw.  
-  
-On Jan 2, 2021 Igli sends this video of Hanon No. 6 at 152bpm.  
-  
-﻿[Hanon No. 6 @iglikullolli Jan 2, 2020 \(152bpm\).mp4 676.87 KB](https://coachtestprep.s3.amazonaws.com/direct-uploads/user-76755/e8fff68e-29b3-4885-8b38-32b0005a7c78/Hanon%20No.%206%20@iglikullolli%20Jan%202,%202020%20%28152bpm%29.mp4)
 
 
 
 ### **152 bpm**
 
-\*\*\*\*
+Dec 29 at 152bpm 
 
 {% embed url="https://coachtestprep.s3.amazonaws.com/direct-uploads/user-76755/74b3ef02-e09a-4cc8-ab29-9b63dffc83fb/Hanon%20No.%206%20@iglikullolli%20Dec%2029,%202020%20\(152bpm\).mp4" %}
 
-\*\*\*\*
+{% hint style="warning" %}
+**Nearly there, but still raw**. Needs more repetition.
+{% endhint %}
 
 \*\*\*\*
 
-Jan 2, 2021
+### Jan 2, 2021
 
-Hanon No. 6 at 152bpm
-
-
+On Jan 2, 2021 Igli sends this video of Hanon No. 6 at 152bpm.
 
 {% embed url="https://coachtestprep.s3.amazonaws.com/direct-uploads/user-76755/e8fff68e-29b3-4885-8b38-32b0005a7c78/Hanon%20No.%206%20@iglikullolli%20Jan%202,%202020%20\(152bpm\).mp4" %}
 
