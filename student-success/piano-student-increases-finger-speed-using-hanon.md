@@ -305,7 +305,7 @@ Like a lot of self taught pianists, Igli has lots of songs and piece he likes. H
 But he suffered from 2 main problems:  
 
 
-### **1. Slow Finger Syndrome**﻿﻿﻿﻿
+### **1. Slow Finger Syndrome 🖐**﻿﻿﻿﻿
 
 **Slow Finger Syndrome is easy to fix** if you know what to practice  
 
@@ -328,7 +328,7 @@ If you can master a new exercise from Hanon every week, you will finish Level 10
   
 
 
-### **2.** **Low Progress Disorder**﻿﻿ 
+### **2.** **Low Progress Disorder**﻿ ﻿**🧠🎹** 
 
 Symptoms of low progress disorder:
 
