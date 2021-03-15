@@ -10,6 +10,8 @@ Wrong.
 
 Why does this happen?
 
+![](../.gitbook/assets/image%20%285%29.png)
+
 ### Fear of Judgement
 
 Why does our performance fall apart when we play in public? 
