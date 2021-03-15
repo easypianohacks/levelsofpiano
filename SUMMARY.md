@@ -19,7 +19,8 @@
 * [🎼 Sight Reading](faq/sight-reading.md)
 * [🎹 Repertoire](faq/repertoire.md)
 * [🥁 Rhythm](faq/rhythm.md)
-* [💸 Value](faq/value.md)
+* [💸 Free Stuff](faq/value.md)
+* [🎩 Performing](faq/performing.md)
 * [🧠 Mindset](faq/mindset.md)
 
 ## Levels
@@ -31,4 +32,8 @@
 * [Hanon](guides/hanon.md)
 * [💨 How to play faster without mistakes](guides/basics/README.md)
   * [💪 3 Levels of Technique Exercises](guides/basics/3-levels-of-technique-exercises.md)
+
+---
+
+* [😱 How to be more confident & overcome performance anxiety](how-to-be-more-confident-and-overcome-performance-anxiety.md)
 

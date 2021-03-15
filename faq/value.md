@@ -1,4 +1,4 @@
-# 💸 Value
+# 💸 Free Stuff
 
 ## Where can I download sheet music?
 
