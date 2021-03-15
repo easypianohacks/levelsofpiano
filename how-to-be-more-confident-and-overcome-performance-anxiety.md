@@ -40,13 +40,13 @@ I went from being a piano teacher afraid to admit his fear of performing in fron
 To getting "standing ovations" in public.  
 This is how you can overcome performance anxiety.
 
-### August 2009
+## August 2009
 
 After 20 years of playing, and having never gotten over my fear of performing in public...
 
 I decided to brave my fears one summer day in August 2019...
 
-
+### Feeling Nervous
 
 {% hint style="danger" %}
 **The most exciting part -** approaching the bench can make you feel nervous at first.   
@@ -61,7 +61,7 @@ Once I did this, I knew that the worse that could happen is **people walk on by 
 
 {% embed url="https://youtu.be/IwLkoLgvaRw" %}
 
-
+### Nobody cares
 
 {% hint style="success" %}
 **If you make mistakes, nobody even notices.** Other people have their own anxiety.   
@@ -74,9 +74,11 @@ Anyone who actually "hates on you" has to have _a lot of pain_ inside in order f
 
 
 
-### September 2009
+## September 2009
 
-Having realized nothing bad happens, I got momentum from my performance in Vancouver... 
+Having realized nothing bad happens, I felt momentum from my performance in Vancouver... 
+
+### Feeling Excited
 
 While travelling in San Francisco, I stumbled upon a beautiful white Yamaha grand piano.
 
@@ -88,14 +90,62 @@ Instead of feeling fear, I felt excitement as I approached the bench.
 
 {% embed url="https://youtu.be/\_42TdJdIsyY" %}
 
-You'll want to play at least 3 different pieces. 
+### Your Performance Plan
 
-1. **Grab Attention**  I warmed up with something to get people's attention.  In my case, that's Fantaisie Impromptu.   A couple people stopped to watch. 
-2. **Draw the Crowd** Play some recognizable, popular tunes that people know. Let the crowd grow and accumulate. ****
-3. 
+You'll want to play at least 3 different pieces. The order matters:
+
+### **1. Grab Attention 👀**
+
+I warmed up with something to get people's attention.   
+In my case, that's Fantaisie Impromptu by Chopin - technical and beautiful 💖  
+  
+A couple people stopped to watch. 
+
+{% hint style="info" %}
+**You don't need to play the whole thing.** Feel the energy in the room and adapt.
+{% endhint %}
+
+### **2. Draw the Crowd 😳**
+
+Play some recognizable, popular tunes that people know.  
+Let the crowd grow and accumulate.
+
+I played the Avengers Theme arranged by Patrik Pietschmann 🦸‍♀️🦸‍♂️  
+****
+
+### **3. Finish with a Bang** 💥
+
+Have a big ending to tell people when to clap. I sat on the piano. 
+
+\*\*\*\*
+
+## December 2019
+
+Every time I performed I felt a surge in energy that kept me up for weeks. 
+
+This kind of experience brought me many rewards in life, like 
+
+* better random opportunities that just happen
+* better relationships with people
+* better overall confidence in everything I did
+
+With more confidence, I decided to take it to the next level:
+
+{% embed url="https://youtu.be/sFkWwmLWuwg" %}
+
+{% embed url="https://www.tiktok.com/@levelsofpiano/video/6773018337350814981?is\_copy\_url=0&is\_from\_webapp=v2&sender\_device=pc&sender\_web\_id=6891766269700654598" %}
+
+## What if I can't find public pianos?
+
+You can perform on Omegle. Same rush.
+
+{% embed url="https://youtu.be/B3Qomc81wt8" %}
 
 
-a couple  
 
-It wasn't until I finished performing
+
+
+
+
+
 
