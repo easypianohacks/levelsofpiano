@@ -2,36 +2,45 @@
 
 ## What is tension? How do I prevent it?
 
-"There's a difference between strain and muscle soreness.   
-There 2 kinds of ""tension"" people refer to.
+### There's a difference between strain and muscle soreness.  There 2 kinds of ""tension"" people refer to.
 
-#### 1. Bad Form
+#### 1. 👎 Bad Form
 
 This is when you have bad posture, or incorrect hand form. Wrists should be level, and fingers should be curved.
 
-#### 2. Muscular Endurance
+#### 2. 💪 Muscular Endurance
 
 This is the same soreness you feel when you lift a heavy weight at the gym, or run for a long time.
 
 This is okay, and your endurance increases as you play more
 
-Hard time relaxing wrist and fingers when playing octaves? Repeated broken octaves can get tiring. Once you hit your limit, just pause and shake it out. Rest. Don't keep pushing it. You'll play more accurately if you rest and recharge.
-
 Just like working out in the gym, or running outside!
+
+{% hint style="success" %}
+**Hard time relaxing wrist and fingers when playing octaves?** Repeated broken octaves can get tiring. Once you hit your limit, just pause and shake it out. Rest. Don't keep pushing it. You'll play more accurately if you rest and recharge.
+{% endhint %}
 
 ## Am I playing these scales correctly with the metronome?
 
-Good example of mastery over C major scale, played hands together evenly. Now you can level up by:
+## Good example of mastery over C major scale, played hands together evenly. 
 
-1. playing different keys
-2. counting subdivisions like 1+2+3+4+
-3. increasing the tempo / speed 
+### Now you can level up by:
 
-Make sure to count out loud!
+1. Playing different keys
+2. Counting subdivisions like 1+2+3+4+
+3. Increasing the tempo / speed 
+
+#### Make sure to count out loud!
+
+{% embed url="https://drive.google.com/file/d/1Is36XF25-1AYZxi12tl67WQHscKDySK6/view?usp=sharing" caption="Played hands together evenly" %}
+
+{% embed url="https://drive.google.com/file/d/11qhZZ4BL97xNoXGrAcNk-lMxmiEJlKS0/view?usp=sharing" caption="Mastery over C major scale - Now you can level up!" %}
+
+
 
 ## What is arm weight?
 
-Arm weight is a technique using the shoulder or weight of arm to play, instead of just using the fingers. To experience arm weight - do the following:
+### Arm weight is a technique using the shoulder or weight of arm to play, instead of just using the fingers. To experience arm weight - do the following:
 
 1. hold your right arm with your left hand at the wrist 
 2. let go of all control of your right arm, let it go limp 
@@ -39,7 +48,15 @@ Arm weight is a technique using the shoulder or weight of arm to play, instead o
 4. let your right drop onto your lap - that's arm weight
 5. use arm weight when playing piano to not overstrain the fingers
 
-Arm weight is to help you rotate your arm freely, so your arm is not stuck to your body at the sides. You should be able to move freely and use the entire weight of your arm to play the piano when you need to play louder or softer. 
+{% hint style="info" %}
+**Arm weight is to help you rotate your arm freely, so your arm is not stuck to your body at the sides.** You should be able to move freely and use the entire weight of your arm to play the piano when you need to play louder or softer. 
+{% endhint %}
+
+#### 
+
+{% embed url="https://drive.google.com/file/d/12RRWltfE1MB5letpjW1O2\_BDgLvm-UCC/view?usp=sharing" %}
+
+
 
 ## How can I learn dynamics?
 

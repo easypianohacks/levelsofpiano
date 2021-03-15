@@ -80,7 +80,33 @@ once all weak spots are gone, then you will have mastery, and win the game
   
 6. Also make sure to count and play the metronome when you play
 
+## How do you count bars 19, 46 and 53 in Pirates of the Caribbean \(arranged by Jarrod Radnich?
+
+![](../.gitbook/assets/image%20%286%29.png)
+
+![](../.gitbook/assets/image%20%288%29.png)
+
+![](../.gitbook/assets/image%20%289%29.png)
+
+## Counting in Grande Sonate Pathetique
+
+Check your notes and rhythm
+
+{% embed url="https://drive.google.com/file/d/1BqphCIbzEdS5XaRyNrxwjHu66xRX0yVM/view?usp=sharing" %}
 
 
 
+1. Missing the B flat and A flat - also no extra turn
+2. Count 1-2-3
+3. Stop on each beat if you need
+4. Count before you play
+5. Start and stop on each beat
+6. Start 1st, Stop 2nd
+7. Start 2nd, Stop 3rd
+8. Start 3rd, Stop 1st
+9. Rep it out til rhythm is perfect
+10. Once you have it down...listen to a recording
+11. We must know what the rules are before we start tastefully breaking them
+
+Craft first. Must bake the cake before the icing.
 
