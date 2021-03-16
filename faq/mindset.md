@@ -1,5 +1,17 @@
 # 🧠 Mindset
 
+## Am I too old to learn piano?
+
+### People say that you have to start learning at an early age to become good at piano. Am I too late?
+
+{% hint style="success" %}
+#### Never too late. My oldest students are retired. 
+{% endhint %}
+
+My mom started last year and learned Fur Elise.
+
+When people say **YOU** can't, it means they think **THEY** can't. They're just projecting what they believe of themselves onto you. 
+
 ## Any tips for breaking out of a rut when you stop progressing?
 
 ### Have a piano teacher look at it for you. 

@@ -22,21 +22,19 @@ Just like working out in the gym, or running outside!
 
 ## Am I playing these scales correctly with the metronome?
 
-## Good example of mastery over C major scale, played hands together evenly. 
+### Good example of mastery over C major scale, played hands together evenly. 
 
-### Now you can level up by:
+#### Now you can level up by:
 
 1. Playing different keys
 2. Counting subdivisions like 1+2+3+4+
 3. Increasing the tempo / speed 
 
-#### Make sure to count out loud!
+#### Make sure to count out loud! 
 
 {% embed url="https://drive.google.com/file/d/1Is36XF25-1AYZxi12tl67WQHscKDySK6/view?usp=sharing" caption="Played hands together evenly" %}
 
 {% embed url="https://drive.google.com/file/d/11qhZZ4BL97xNoXGrAcNk-lMxmiEJlKS0/view?usp=sharing" caption="Mastery over C major scale - Now you can level up!" %}
-
-
 
 ## What is arm weight?
 
@@ -56,41 +54,31 @@ Just like working out in the gym, or running outside!
 
 {% embed url="https://drive.google.com/file/d/12RRWltfE1MB5letpjW1O2\_BDgLvm-UCC/view?usp=sharing" %}
 
-
-
 ## How can I learn dynamics?
 
-Improving your dynamic range can be done with scales 
+### Improving your dynamic range can be done with scales 
 
 1. Find out what your quietest sound is, then find out your loudest sound
-
 2. Then figure out how many different shades you can do in between 
-
-3. Try to go from middle C the quietest, then crescendo all the way to the top C being the loudest, then diminuendo back down to middle C 
-
+3. Try to go from middle C the quietest, then crescendo all the way to the top C being the loudest, then diminuendo back down to middle C
 4. Do this slowly at first every day 10-20 times 
-
-5. Then watch as you speed up, it gets harder 
-
+5. Then watch as you speed up, it gets harder
 6. Do this evenly with the metronome 
-
 7. When we start, we have 1 shade of tone - mezzo forte 
+8. As we progress, we might have 2-3 different shades of tone production 
 
-8. As we progress, we might have 2-3 different shades of tone production   
-  
-a. piano   
-b. mezzo forte   
-c. forte 
+   a. piano   
+   b. mezzo forte   
+   c. forte 
 
 9. Your job is to find the rest and define a difference between 
 
-  
-a. pianissimo   
-b. piano   
-c. mezzo piano   
-d. mezzo forte   
-e. forte   
-f. fortissimo
+   a. pianissimo   
+   b. piano   
+   c. mezzo piano   
+   d. mezzo forte   
+   e. forte   
+   f. fortissimo
 
 ## Any tips on playing smoother and faster?
 
@@ -111,39 +99,61 @@ When I don't practice slowly, my playing gets uneven.
 Practice slow and accurate for 5 - 10 reps, then fast for 1 rep to test the results.
 {% endhint %}
 
-## Am I using the metronome correctly
-
-
-
-When you are struggling to match the metronome: 
-
-1. Slow it down so you can hear each tick match the notes \(the tempo is too fast if you are slower than the metronome\)
-
- 2. Clap with each tick 
-
-3. Then count AND clap with each tick
-
-4. Then play middle C with each tick AND count 
-
-5. Then play C major scale slowly with each tick AND count 
-
-If you count loud while you play \(1-2-3-4-1-2-3-4\), you will match because our voices are trained more than our fingers, so we must count out loud to sync our fingers with our minds.
-
 ## How to identify what octave I am in \(C3 or C4\) while playing Hanon No. 1?
 
-If you are reading the music, you should be able to keep track of which note you are on.
+### If you are reading the music, you should be able to keep track of which note you are on.
 
 Familiarize yourself with the octaves for each note. A good exercise is to find middle C, go up an octave to the next C, and then the next C above that.
 
 ## How do I play faster with less mistakes?
 
-You must play slow and accurately before you can play fast.
+### You must play slow and accurately before you can play fast.
 
 {% embed url="https://drive.google.com/file/d/1WcQ1WxDySTWbnsbk3YuQyWfTtUSp5gPi/view?usp=sharing" %}
 
+## Why do I make mistakes when I try to speed up my playing?
 
+{% hint style="success" %}
+#### Like playing a video game, Level 1 is too easy for you, so it's boring, and Level 10 is too hard. Why not make sure you get 100% at Level 2, 3, 4, 5...before you try Level 10?
+{% endhint %}
 
+1. Find the next comfortable tempo instead of increasing to a speed that is too difficult.
+2. Pretend your're trying to shoot arrows while running
+3. When accuracy of 100% at 52 bpm becomes too easy, you need to find the speed where your accuracy is 90% \(e.g. 66 bpm\)
+4. If you keep trying for 120 bpm, you accuracy is going to be 75% \(missing 3/4 shots\)
+5. Improve the 66 bpm level to 100% before you pass yourself, and keep repeating that until you master Level 10
 
+## When is it time to level up to the next speed?
 
+{% hint style="success" %}
+#### Once a speed no longer feels challenging, find the next challenging speed that you can play **evenly and accurately**.
 
+When you keep pushing this standard every day, you will play faster and faster
+{% endhint %}
+
+{% embed url="https://drive.google.com/file/d/1O0TlPaJjBNX9kQELhaqK7AINgJi2Oilx/view?usp=sharing" %}
+
+{% embed url="https://drive.google.com/file/d/1zMiD94SzyRoqgMfy-trrBN\_-auO1USpd/view?usp=sharing" %}
+
+{% embed url="https://drive.google.com/file/d/1QLXpSfdTTaxhyoII8-rk87oO\_OERD-rP/view?usp=sharing" %}
+
+## I'm having trouble with big leaps. Please help!
+
+{% embed url="https://www.youtube.com/watch?v=UkN05fFiPP0&t=50s" %}
+
+## Why does wrist position make a difference? 
+
+{% hint style="danger" %}
+#### Wrists should be level. If your wrists bend way up or way down, it's because your fingers aren't strong enough, and your over-compensating with your arms.
+{% endhint %}
+
+{% hint style="success" %}
+#### It's basically like a sport. You need muscles. To build muscles, you need to do the drills. 
+{% endhint %}
+
+### My students play these three things every day:  
+
+1. Scales, Chords and Arpeggios
+2. Hanon
+3. Czerny
 

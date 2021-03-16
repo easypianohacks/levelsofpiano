@@ -51,20 +51,34 @@ once all weak spots are gone, then you will have mastery, and win the game
 **Solution:** Check your notes and rhythm
 {% endhint %}
 
-1. Count 1-2-3
-2. Stop on each beat if you need
-3. Count before you play
-4. Start and stop on each beat
-5. Start 1st, Stop 2nd
-6. Start 2nd, Stop 3rd
-7. Start 3rd, Stop 1st
-8. Rep it out till rhythm is perfect
-9. Once you have it down...listen to a recording
-10. We must know what the rules are before we start tastefully breaking them
+**🤨 When you encounter a difficult passage:**
+
+1. **Count before you play 1-2-3**
+2. Start and stop on each beat if you need
+
+   Start 1st, Stop 2nd **\|** Start 2nd, Stop 3rd **\|** Start 3rd, Stop 1st
+
+3. **Rep it out til rhythm is perfect**
+4. Once you have it down...listen to a recording and add lyrical elements like pauses
+5. We must know what the rules are before we start tastefully breaking them
 
 {% hint style="info" %}
 **Craft first.** We must bake the cake before the icing.
 {% endhint %}
+
+### Counting in Grande Sonate Pathetique
+
+{% embed url="https://drive.google.com/file/d/1BqphCIbzEdS5XaRyNrxwjHu66xRX0yVM/view?usp=sharing" caption="" %}
+
+{% embed url="https://drive.google.com/file/d/1IlNTp1nzrQW5sCTLc7HwQ2npv23M-KZK/view?usp=sharing" %}
+
+{% embed url="https://drive.google.com/file/d/1LIPNjYrM6Jk3Haz7h9MSWJ3deUJkLYyb/view?usp=sharing" %}
+
+{% embed url="https://drive.google.com/file/d/1p7CYCQmoHyeL37ycJ9JfftnIh4soLel6/view?usp=sharing" %}
+
+{% embed url="https://drive.google.com/file/d/1KIyXkgCnDM61bmaByMPo6L5\_JLnlg8mF/view?usp=sharing" %}
+
+
 
 ## Are there exercises or tips I should learn before I attempt to play River Flows In You?
 
@@ -87,32 +101,6 @@ once all weak spots are gone, then you will have mastery, and win the game
 ![Bar 46](../.gitbook/assets/image%20%288%29.png)
 
 ![Bar 53](../.gitbook/assets/image%20%289%29.png)
-
-## Counting in Grande Sonate Pathetique
-
-{% hint style="info" %}
-### 🤨 When you encounter a difficult passage:
-
-1. **Count before you play**
-2. Start and stop on each beat - Start 1st, Stop 2nd **\|** Start 2nd, Stop 3rd **\|** Start 3rd, Stop 1st
-3. **Rep it out til rhythm is perfect**
-4. Once you have it down...listen to a recording and add lyrical elements like pauses
-5. We must know what the rules are before we start tastefully breaking them
-
-🧁**Craft first. Must bake the cake before the icing.**
-{% endhint %}
-
-
-
-{% embed url="https://drive.google.com/file/d/1BqphCIbzEdS5XaRyNrxwjHu66xRX0yVM/view?usp=sharing" caption="" %}
-
-{% embed url="https://drive.google.com/file/d/1IlNTp1nzrQW5sCTLc7HwQ2npv23M-KZK/view?usp=sharing" %}
-
-{% embed url="https://drive.google.com/file/d/1LIPNjYrM6Jk3Haz7h9MSWJ3deUJkLYyb/view?usp=sharing" %}
-
-{% embed url="https://drive.google.com/file/d/1p7CYCQmoHyeL37ycJ9JfftnIh4soLel6/view?usp=sharing" %}
-
-{% embed url="https://drive.google.com/file/d/1KIyXkgCnDM61bmaByMPo6L5\_JLnlg8mF/view?usp=sharing" %}
 
 
 
