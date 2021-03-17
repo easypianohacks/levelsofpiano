@@ -14,6 +14,10 @@ The times when we look at our hands and the sheet music are when we are learning
 
 
 
+## I can't read sheet music. How do I learn it?
+
+
+
 ## I can't read music.
 
 I can read notes but when I play I only use memory
