@@ -43,6 +43,24 @@ Read the full guide here:
 
 {% page-ref page="../how-to-be-more-confident-and-overcome-performance-anxiety.md" %}
 
+## 📽️ What about performance anxiety when I'm just recording myself for other people? 
+
+{% hint style="danger" %}
+It's super frustrating to mess up way more when I record myself than I ever do during practice. 🥴
+{% endhint %}
+
+{% hint style="success" %}
+#### The best way to get out of this is not to have any expectation. If I don't expect to play it perfectly in this take, I won't get frustrated or flustered. I just let the camera roll, and whatever good takes I get at the end of the session are the ones I post. 
+
+#### **Practice in front of other people is usually a harder condition than practice on our own. In order to get good at playing in front of other people , we must do practice in front of other people.**
+{% endhint %}
+
+### 💥It's also the real test of how well we play...100% in perfect conditions, 80% in realistic conditions = We are not as fluid as we think.
+
+![](../.gitbook/assets/image%20%2820%29.png)
+
+ 
+
 ## How can I learn to improvise?
 
 ### Improvisation and variations come with practice too. 
@@ -64,6 +82,16 @@ Read the full guide here:
 3. **Build up your vocabulary** - Too many people want to improvise without first learning enough words. Improvising is like writing - if you don't know may words, the things you write will be simple. 
 
    ✒️ Start by studying other music. Take what you learn from other people's arrangements, see what chords, patterns and rhythms they use, and learn them. Once your fingers learn these new words of music, you can then try them in your own sentences to write your own musical essays. 
+
+{% hint style="info" %}
+**📇 Building "Vocabulary?"**
+
+If you were to write an essay in Chinese, how hard would it be if you only knew 10 words? Now imagine you read 50 books, watch 100 movies in Chinese and practice using the words you learned every day for 5 years. How much better will you be able to write an essay after 5 years of improving your vocabulary?
+
+**✨ Same with piano music. It's a language. You speak with your fingers, and you learn with your ear.**  
+
+**🎵Notes = Letters \| 🎹Chords = Words \| 🎶Melodies = Sentences \| 🎼Pieces = Essays**
+{% endhint %}
 
 
 
