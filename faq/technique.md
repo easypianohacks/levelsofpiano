@@ -1,5 +1,11 @@
 # 🖐 Technique
 
+## 🕰️How long shold I practice each day?
+
+
+
+{% embed url="https://youtu.be/-E95zDG-X9A" %}
+
 ## What is tension? How do I prevent it?
 
 ### There's a difference between strain and muscle soreness.  There 2 kinds of ""tension"" people refer to.
@@ -30,13 +36,13 @@ Just like working out in the gym, or running outside!
 2. Counting subdivisions like 1+2+3+4+
 3. Increasing the tempo / speed 
 
-#### Make sure to count out loud! 
+#### 🗣️ Make sure to count out loud! 
 
 {% embed url="https://drive.google.com/file/d/1Is36XF25-1AYZxi12tl67WQHscKDySK6/view?usp=sharing" caption="Played hands together evenly" %}
 
 {% embed url="https://drive.google.com/file/d/11qhZZ4BL97xNoXGrAcNk-lMxmiEJlKS0/view?usp=sharing" caption="Mastery over C major scale - Now you can level up!" %}
 
-## What is arm weight?
+## 🦾What is arm weight?
 
 ### Arm weight is a technique using the shoulder or weight of arm to play, instead of just using the fingers. To experience arm weight - do the following:
 
@@ -101,9 +107,13 @@ Practice slow and accurate for 5 - 10 reps, then fast for 1 rep to test the resu
 
 ## How to identify what octave I am in \(C3 or C4\) while playing Hanon No. 1?
 
-### If you are reading the music, you should be able to keep track of which note you are on.
+### 🧐If you are reading the music, you should be able to keep track of which note you are on.
 
+{% hint style="info" %}
 Familiarize yourself with the octaves for each note. A good exercise is to find middle C, go up an octave to the next C, and then the next C above that.
+{% endhint %}
+
+
 
 ## How do I play faster with less mistakes?
 
@@ -123,7 +133,7 @@ Familiarize yourself with the octaves for each note. A good exercise is to find 
 4. If you keep trying for 120 bpm, you accuracy is going to be 75% \(missing 3/4 shots\)
 5. Improve the 66 bpm level to 100% before you pass yourself, and keep repeating that until you master Level 10
 
-## When is it time to level up to the next speed?
+## ⏱️When is it time to level up to the next speed?
 
 {% hint style="success" %}
 #### Once a speed no longer feels challenging, find the next challenging speed that you can play **evenly and accurately**.
@@ -147,13 +157,15 @@ When you keep pushing this standard every day, you will play faster and faster
 #### Wrists should be level. If your wrists bend way up or way down, it's because your fingers aren't strong enough, and your over-compensating with your arms.
 {% endhint %}
 
-{% hint style="success" %}
-#### It's basically like a sport. You need muscles. To build muscles, you need to do the drills. 
-{% endhint %}
-
 ### My students play these three things every day:  
 
 1. Scales, Chords and Arpeggios
 2. Hanon
 3. Czerny
+
+{% hint style="success" %}
+#### 🏋️ It's basically like a sport. You need muscles. To build muscles, you need to do the drills. 
+{% endhint %}
+
+
 

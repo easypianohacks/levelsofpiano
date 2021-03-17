@@ -43,6 +43,34 @@ Read the full guide here:
 
 {% page-ref page="../how-to-be-more-confident-and-overcome-performance-anxiety.md" %}
 
+## How can I learn to improvise?
+
+### Improvisation and variations come with practice too. 
+
+{% embed url="https://drive.google.com/file/d/1xbKibTJWgAQ1GTEI6-Vy5UohkztapCXJ/view?usp=sharing" %}
+
+{% embed url="https://drive.google.com/file/d/1roh-8v\_xAsnXKA\_Ziz6lbqh36htZtgva/view?usp=sharing" %}
+
+### 3 Tips to Improvise Better on Piano
+
+1. **Learn music theory** - Need to understand each chord and the scale of that chord. The notes you can play that sound good should match the notes in each chord. 
+
+   🧩 Ex. A major chord \(A C\# E\) - While LH plays those 3 notes in a chord pattern, if you use the RH to play any melody, chord or arpeggio with mostly those 3 notes, it will sound good.
+
+2. **Master your technique** - Chords and arpeggios can be practiced so that you can play more advanced rhythms and patterns.
+
+   🏆 If you practice the chords and arpeggios to all 12 major chords and 12 minor chords, you have a good start. Then do all 12 dominant 7th chords and 12 diminished 7th chords. **These are the building blocks to your vocabulary.**
+
+3. **Build up your vocabulary** - Too many people want to improvise without first learning enough words. Improvising is like writing - if you don't know may words, the things you write will be simple. 
+
+   ✒️ Start by studying other music. Take what you learn from other people's arrangements, see what chords, patterns and rhythms they use, and learn them. Once your fingers learn these new words of music, you can then try them in your own sentences to write your own musical essays. 
+
+
+
+
+
+
+
 
 
 

@@ -8,7 +8,7 @@
 #### Never too late. My oldest students are retired. 
 {% endhint %}
 
-My mom started last year and learned Fur Elise.
+#### My mom started last year and learned Fur Elise.
 
 When people say **YOU** can't, it means they think **THEY** can't. They're just projecting what they believe of themselves onto you. 
 
@@ -90,7 +90,7 @@ Let's figure out how to help you.
 For now, start taking some time to play things you enjoy so that you have some balance, or be like me and learn to enjoy the things you don't enjoy at first. **To let go of resistance is freedom.**
 {% endhint %}
 
-## Are classically trained pianists better than casual pianists?
+## 🧐Are classically trained pianists better than casual pianists😎?
 
 ### No need to compare. 
 
@@ -103,6 +103,10 @@ For now, start taking some time to play things you enjoy so that you have some b
 5. If we associate our piano skill, our follower, count or any other external measurement with our self worth, we will always be at the mercy of that metric. You will find more peace and happiness in keeping those separate from your ego.
 
 #### At the end of the day, it feels better to focus on what you are passionate about in music rather than seeing it as a competition. When you are not better or worse than anyone, you can then find what you love to do, and you'll find that you'll naturally do it better than most people \(but by that time, you won't even want it\).
+
+{% embed url="https://www.youtube.com/watch?v=xeS9RI9gNJ8" %}
+
+
 
 
 

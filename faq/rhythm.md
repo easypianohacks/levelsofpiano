@@ -1,6 +1,6 @@
 # 🥁 Rhythm
 
-## I need help with counting and keeping up with the right rhythm.
+## 🤷🏽I need help with counting and keeping up with the right rhythm.
 
 ### I would begin by learning to count while you play. 
 
@@ -10,11 +10,11 @@
 
 3. Clap with each tick 
 
-4. Count with each clap 1 2 3 4 repeat 
+4. Count with each clap 🗣️ 1 2 3 4 repeat 
 
-5. Play middle C with each tick counting 1 2 3 4 6. 
+5. Play middle C with each tick counting 🗣️ 1 2 3 4 6. 
 
-Play C D E F G F E D C with each tick while counting 1 2 3 4 7. 
+Play C D E F G F E D C with each tick while counting 🗣️ 1 2 3 4 7. 
 
 Once this is easy, send me a video, then learn Hanon No. 1
 
@@ -37,7 +37,7 @@ Watch one of my students learn it in 15 minutes
 5. Then play C major scale slowly with each tick AND count 
 
 {% hint style="success" %}
-#### If you count loud while you play \(1-2-3-4-1-2-3-4\), you will match because our voices are trained more than our fingers, so we must count out loud to sync our fingers with our minds.
+#### 🗣️ If you count loud while you play \(1-2-3-4-1-2-3-4\), you will match because our voices are trained more than our fingers, so we must count out loud to sync our fingers with our minds.
 {% endhint %}
 
 {% embed url="https://drive.google.com/file/d/1rnnI-Hf9xZYMLyyIqtwQI--x\_\_dwOOA6/view?usp=sharing" %}

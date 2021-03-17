@@ -1,5 +1,9 @@
 # 🎹 Repertoire
 
+## What fingering should I use for Moonlight Sonata Mvt 3, Bars 9 to 14?
+
+![](../.gitbook/assets/image%20%2818%29.png)
+
 ## My playing isn't fluid. It sounds choppy.
 
 {% hint style="danger" %}
@@ -32,17 +36,17 @@ Do this for every single part you have trouble with. if you need to find where y
 {% hint style="info" %}
 This one is a mental attitude shift
 
-**patience**
+**Patience**
 
-you must do the steps in method 1 until the entire piece is perfect
+You must do the steps in method 1 until the entire piece is perfect
 
-**that is the game**
+**That is the game**
 
-if there are any spots you can't do 10 times in a row correctly in time with the metronome + counting, you have weak spots.
+If there are any spots you can't do 10 times in a row correctly in time with the metronome + counting, you have weak spots.
 
-**weak spots need to be mastered**
+**Weak spots need to be mastered**
 
-once all weak spots are gone, then you will have mastery, and win the game
+Once all weak spots are gone, then you will have mastery, and win the game
 {% endhint %}
 
 ## I'm getting stuck on a part. How do I play this part correctly?
@@ -53,7 +57,7 @@ once all weak spots are gone, then you will have mastery, and win the game
 
 **🤨 When you encounter a difficult passage:**
 
-1. **Count before you play 1-2-3**
+1. **Count before you play 🗣️ 1-2-3**
 2. Start and stop on each beat if you need
 
    Start 1st, Stop 2nd **\|** Start 2nd, Stop 3rd **\|** Start 3rd, Stop 1st
