@@ -111,7 +111,39 @@ You speak with your fingers, and you learn with your ear.
 🎵Notes = Letters \| 🎹Chords = Words \| 🎶Melodies = Sentences \| 🎼Pieces = Essays
 {% endhint %}
 
+## Sometimes I completely **blank and** forget the notes during a concert or recital!
 
+### The Quick Fix - **Memorize the ending**
+
+I've blanked out before. Played 4 bars...stopped 😶 Silence 😳 Sweat 😰  
+Jump to the bars before the ending. Take a bow. Applause.
+
+### The Real Answer 
+
+### **1. Laugh at it** 🤣 
+
+From now on, you think it's funny when this happens. This makes it less serious, less traumatic. You must desensitize yourself to what people think about you. 
+
+Remember, it's not the concert or the place it happens. It's a change in how you think. The truth is, no one cares about you. They have their own anxiety and fears.
+
+### **2. Do crazy things in public** 😜 
+
+You can start by doing things that make you nervous in public until you are no longer afraid of what people would say or thing of you. 
+
+Try clapping while you walk in public. People will look at you...but only for 5 seconds, and then they will look away. 
+
+Post a video with mistakes. I make so many mistakes when I play, even in my videos, and people don't care. The rare ones that hate on you vocally actually hate themselves. Forgive them, for they are in pain. 
+
+### **3. The Truth is Practice.** 
+
+You must practice performing in public more often. It's actually hard to get and hold someone's attention. People really don't care about you. They are too busy looking at their phones.
+
+People want to be entertained. People are empathetic. You just need to put yourself in more situations where you can experience the applause and support for yourself so you can prove to yourself it's real.  
+
+{% hint style="success" %}
+**Do something today that puts you outside your comfort zone.**  
+Record yourself, and you will inspire others living in fear. ****
+{% endhint %}
 
 ## How do I get more followers on TikTok? Instagram? YouTube?
 
