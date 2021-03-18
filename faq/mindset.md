@@ -1,13 +1,5 @@
 # 🧠 Mindset
 
-## I can play piano but not perfectly
-
-Nobody plays perfectly all of the time. It would be like playing a game with all of the cheat codes. 
-
-No fun unless there is a challenge. 
-
-**As you get better, you'll enjoy the process of finding imperfection and turning it into perfection.** 
-
 ## Am I too old to learn piano?
 
 **People say that you have to start learning at an early age to become good at piano. Am I too late?**
@@ -31,6 +23,14 @@ Let's figure out how to help you.
 
 🎦[**Send us a video of the specific problem**](https://www.videoask.com/fmrqcvw9w)\*\*\*\*
 {% endhint %}
+
+## I can play piano but not perfectly
+
+Nobody plays perfectly all of the time. It would be like playing a game with all of the cheat codes. 
+
+No fun unless there is a challenge. 
+
+**As you get better, you'll enjoy the process of finding imperfection and turning it into perfection.** 
 
 ## How do you find inspiration to play when you want to play but don't feel like it? 
 

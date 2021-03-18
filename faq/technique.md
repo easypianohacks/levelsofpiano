@@ -62,6 +62,18 @@ Just like working out in the gym, or running outside!
 
 {% embed url="https://drive.google.com/file/d/11qhZZ4BL97xNoXGrAcNk-lMxmiEJlKS0/view?usp=sharing" caption="Mastery over C major scale - Now you can level up!" %}
 
+## Is there a way to increase my hand span? 
+
+{% hint style="warning" %}
+My hand cannot reach 1 octave, and my teacher told me to give up and just play the way I'm able to play. 
+{% endhint %}
+
+{% hint style="success" %}
+**Solution -** Practice [**Hanon**](http://csokabeata.hu/Kottak/Gyakorlatok/Hanon%20-%20The%20Virtuoso%20Pianist.pdf) **Exercise 31** every day
+
+📽️ [Send us videos once you learn it](https://www.videoask.com/fmrqcvw9w) 
+{% endhint %}
+
 ## 🦾What is arm weight?
 
 ### Arm weight is a technique using the shoulder or weight of arm to play, instead of just using the fingers. To experience arm weight - do the following:
