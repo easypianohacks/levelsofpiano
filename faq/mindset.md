@@ -1,14 +1,22 @@
 # 🧠 Mindset
 
+## I can play piano but not perfectly
+
+Nobody plays perfectly all of the time. It would be like playing a game with all of the cheat codes. 
+
+No fun unless there is a challenge. 
+
+**As you get better, you'll enjoy the process of finding imperfection and turning it into perfection.** 
+
 ## Am I too old to learn piano?
 
-### People say that you have to start learning at an early age to become good at piano. Am I too late?
+**People say that you have to start learning at an early age to become good at piano. Am I too late?**
 
 {% hint style="success" %}
 #### Never too late. My oldest students are retired. 
 {% endhint %}
 
-#### My mom started last year and learned Fur Elise.
+**My mom started last year and learned Fur Elise.**
 
 When people say **YOU** can't, it means they think **THEY** can't. They're just projecting what they believe of themselves onto you. 
 
@@ -24,7 +32,21 @@ Let's figure out how to help you.
 🎦[**Send us a video of the specific problem**](https://www.videoask.com/fmrqcvw9w)\*\*\*\*
 {% endhint %}
 
-#### 
+## How do you find inspiration to play when you want to play but don't feel like it? 
+
+### 1. Make it more convenient for yourself to start playing
+
+### 2. Watch YouTube videos that inspire you to play 
+
+### 3. Build a habit of doing this every day
+
+**No need to practice for longer than you want to.** Many short sessions can be better than a few long sessions. 30-minute sessions throughout the day are good. 
+
+**You can reward yourself** with other things if you end up starting to play.
+
+**You can set up an accountability tool** like recording a video every time you play.
+
+**But the best is if you reduce friction by making it convenient**, and wanting to play directly. If you can build a habit like this, you will find momentum. It will be easier for you to start playing.
 
 ## I'm trying my best to count. What's wrong with me?
 

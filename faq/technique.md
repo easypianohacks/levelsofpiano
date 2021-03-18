@@ -1,10 +1,30 @@
 # 🖐 Technique
 
-## 🕰️How long shold I practice each day?
+## 🕰️How long should I practice each day?
+
+### Prioritize achievement of tasks instead of how long you spend practicing.  
 
 
 
 {% embed url="https://youtu.be/-E95zDG-X9A" %}
+
+## How to fix splitting, uneven, messy fingers
+
+### 1. Curve Fingers - Proper Form
+
+### 2. Slow Work - No Splitting
+
+### 3. Repeat it until you get it right
+
+{% embed url="https://drive.google.com/file/d/1hjiYcsA2uaBr9qN22M\_sXnGnl1Om1Syx/view?usp=sharing" %}
+
+{% embed url="https://drive.google.com/file/d/1mGSsVPS7IZFomkq4M9bXSGrAeMt5u79F/view?usp=sharing" %}
+
+
+
+{% hint style="info" %}
+📽️ [Send us videos for feedback](https://www.videoask.com/fmrqcvw9w)
+{% endhint %}
 
 ## What is tension? How do I prevent it?
 
@@ -113,13 +133,13 @@ Practice slow and accurate for 5 - 10 reps, then fast for 1 rep to test the resu
 Familiarize yourself with the octaves for each note. A good exercise is to find middle C, go up an octave to the next C, and then the next C above that.
 {% endhint %}
 
-
-
 ## How do I play faster with less mistakes?
 
 ### You must play slow and accurately before you can play fast.
 
 {% embed url="https://drive.google.com/file/d/1WcQ1WxDySTWbnsbk3YuQyWfTtUSp5gPi/view?usp=sharing" %}
+
+## 
 
 ## Why do I make mistakes when I try to speed up my playing?
 
@@ -153,18 +173,17 @@ When you keep pushing this standard every day, you will play faster and faster
 
 ## Why does wrist position make a difference? 
 
-{% hint style="danger" %}
-#### Wrists should be level. If your wrists bend way up or way down, it's because your fingers aren't strong enough, and your over-compensating with your arms.
-{% endhint %}
+**Your wrists should be level.** If your wrists bend way up or way down, it's because your fingers aren't strong enough, and your over-compensating with your arms.
 
-### My students play these three things every day:  
+**My students play these three things every day to build technique and strength:**  
 
 1. Scales, Chords and Arpeggios
 2. Hanon
 3. Czerny
 
 {% hint style="success" %}
-#### 🏋️ It's basically like a sport. You need muscles. To build muscles, you need to do the drills. 
+🏋️ **It's basically like a sport.**  
+You need muscles. To build muscles, you need to do the drills.  
 {% endhint %}
 
 

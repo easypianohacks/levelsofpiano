@@ -49,6 +49,8 @@ If there are any spots you can't do 10 times in a row correctly in time with the
 Once all weak spots are gone, then you will have mastery, and win the game
 {% endhint %}
 
+
+
 ## I'm getting stuck on a part. How do I play this part correctly?
 
 {% hint style="success" %}

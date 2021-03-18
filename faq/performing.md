@@ -43,11 +43,15 @@ Read the full guide here:
 
 {% page-ref page="../how-to-be-more-confident-and-overcome-performance-anxiety.md" %}
 
+## How can I practice in public when public gatherings are not allowed/available?
+
+### Practice on Omegle
+
+{% embed url="https://youtu.be/B3Qomc81wt8" %}
+
 ## 😓 My playing is bad when I play in front of people or record myself. 
 
 I get performance anxiety when I'm just recording myself for other people.
-
-
 
 {% hint style="danger" %}
 It's super frustrating to **mess up way more when I record myself** than I ever do during practice. 🥴
@@ -106,14 +110,6 @@ You speak with your fingers, and you learn with your ear.
 
 🎵Notes = Letters \| 🎹Chords = Words \| 🎶Melodies = Sentences \| 🎼Pieces = Essays
 {% endhint %}
-
-
-
-
-
-
-
-
 
 
 
