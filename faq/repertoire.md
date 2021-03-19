@@ -1,5 +1,30 @@
 # 🎹 Repertoire
 
+## How long should it take me to learn a piece?
+
+### 1. Don't set an expectation for when you'll be able to play a piece well
+
+**Time to master pieces can vary greatly**  
+I took an entire year to learn and master 3-5 repertoire pieces each year from 2000 to 2007.  
+From 2007 to 2009, I took 2 years to master Fantasie Impromptu, Moonlight \(all 3 mvts.\), and many more.
+
+**I never counted the days**  
+I just made incremental improvements every day and NEVER expected anything.
+
+### 2. Treat it like a video game
+
+**We don't play a video game to enjoy it being over**  
+We play to play the game. It's cool to take video of ourselves playing or sharing the game with others.
+
+**We play the piano game for the same reasons**  
+We play to experience the risk of making mistakes, fixing them, and overcoming tempo speeds like they are levels.
+
+{% hint style="success" %}
+**The difference in quality between you and others will be how strict you are about fixing every little mistake, every shaky bit.**  
+
+I took a 10 year break before starting @easipianohacks, and **to this day, I am still polishing things from those pieces.**
+{% endhint %}
+
 ## What fingering should I use for Moonlight Sonata Mvt 3, Bars 9 to 14?
 
 ![](../.gitbook/assets/image%20%2818%29.png)

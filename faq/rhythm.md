@@ -1,6 +1,6 @@
 # 🥁 Rhythm
 
-## 🤷🏽I need help with counting and keeping up with the right rhythm.
+## How do I count and keep up with the right rhythm?
 
 ### I would begin by learning to count while you play. 
 
@@ -12,11 +12,11 @@
 
 4. Count with each clap 🗣️ 1 2 3 4 repeat 
 
-5. Play middle C with each tick counting 🗣️ 1 2 3 4 6. 
+5. Play middle C with each tick counting 🗣️ 1 2 3 4 
 
-Play C D E F G F E D C with each tick while counting 🗣️ 1 2 3 4 7. 
+6. Play C D E F G F E D C with each tick while counting 🗣️ 1 2 3 4 
 
-Once this is easy, send me a video, then learn Hanon No. 1
+7. Once this is easy, send me a video, then learn Hanon No. 1
 
 ### **Learn to count in 15 minutes** 
 
@@ -44,7 +44,34 @@ Watch one of my students learn it in 15 minutes
 
 {% embed url="https://drive.google.com/file/d/1GIZh2Ife6cGqBphSdh5tcktbhjSIn6vU/view?usp=sharing" %}
 
-## 
+## How to play Alberti Bass fast and comfortably
+
+### **1. Perfect the form slowly and firmly**
+
+Play firmly and feel each key press, or use staccato if you are uneven.   
+Be strict with yourself...practice every day. 
+
+### **2. Work your way up like a video game**
+
+**Play with the metronome 10x slow/1x fast every day**  
+Once you can consistently play it acurately, you can take it to the next level.  
+Start at 52 bpm and work up to 72 bpm, then 100 bpm.
+
+{% hint style="success" %}
+**The more you do the slow work, the higher the quality and consistency**
+
+This is NOT a beginner thing. I do this ALL OF THE TIME.
+{% endhint %}
+
+  
+  
 
 
+  
+  
+****
+
+\*\*\*\*
+
+\*\*\*\*
 

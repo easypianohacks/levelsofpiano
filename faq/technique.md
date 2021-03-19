@@ -1,8 +1,55 @@
 # 🖐 Technique
 
+## How to FIX Pinky Collapsing
+
+### 1. Build your strength using drills and exercises
+
+**Your pinky \(finger 5\) is naturally a weaker finger, but it can be strengthened.**  
+Start with Hanon No. 1 and work up to Hanon No. 31
+
+### 2. Check your form
+
+**You can hurt yourself if you use the wrong form.**   
+Use the side/edge of your pinky as well as the point for different purposes. 
+
+{% hint style="success" %}
+**Warming up with one Hanon exercise per 1-2 weeks will help you build agility and strength.** 
+
+Remember to use the metronome and count!
+{% endhint %}
+
+{% embed url="https://youtu.be/YrqIHhgKno0" %}
+
 ## 🕰️How long should I practice each day?
 
-### Prioritize achievement of tasks instead of how long you spend practicing.  
+{% hint style="success" %}
+### Prioritize achievement of tasks instead of time spent practicing
+
+10-30 minutes/day can do a lot. I can do more in 10 minutes today than I could do with 10 hours 10 years ago. 
+{% endhint %}
+
+### 1. Practice List
+
+1. **Hanon No. 1 to 31** - Master 1 new exercise per week This will build you technique and finger agility
+2. **Czerny Op. 599** - Master 1 new exercise per week This will improve how fast you learn new pieces + sight reading
+3. **Scales, Chords, Arpeggios** C, G, D, A, E, B, F\#, C\# F, Bb, Eb, Ab, Db, Gb, Cb
+
+### **2. Repertoire**
+
+1. 1 Dream Piece \(project piece\)
+2. 1-3 Prerequisites
+
+### **3. Sight Reading**
+
+1. 1 New passage per day from sightreadingfactory.com
+2. 1 Rhythmic clap-back per day
+
+### 4. Ear Training
+
+1. 5 exercises per day from Tonedear.com
+2. Intervals, Chord Recognition and Melody Playback
+
+### 5. Supplemental Music Theory \(as required\)
 
 
 

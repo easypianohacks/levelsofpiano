@@ -4,13 +4,11 @@
 
 **People say that you have to start learning at an early age to become good at piano. Am I too late?**
 
+**Never too late!** My oldest students are retired...My mom started last year and learned Fur Elise.
+
 {% hint style="success" %}
-#### Never too late. My oldest students are retired. 
+**When people say YOU can't, it means they think THEY can't.** They're just projecting what they believe of themselves onto you. 
 {% endhint %}
-
-**My mom started last year and learned Fur Elise.**
-
-When people say **YOU** can't, it means they think **THEY** can't. They're just projecting what they believe of themselves onto you. 
 
 ## Any tips for breaking out of a rut when you stop progressing?
 
@@ -24,13 +22,27 @@ Let's figure out how to help you.
 🎦[**Send us a video of the specific problem**](https://www.videoask.com/fmrqcvw9w)\*\*\*\*
 {% endhint %}
 
-## I can play piano but not perfectly
+## How do I play perfectly and build my confidence?
 
-Nobody plays perfectly all of the time. It would be like playing a game with all of the cheat codes. 
+### 1. If you want to be "self" confident, YOU must be the first person to believe in yourself
 
-No fun unless there is a challenge. 
+You can't rely on playing something right or wrong to tell you if you're confident. 
 
+You can't rely on someone SAYING you play well to tell if you're confident. 
+
+If you keep waiting on other things to give you confidence, that's not "self" confidence anymore, is it? 
+
+### 2. Playing perfectly all of the time would be like playing a game with all of the cheat codes
+
+**It is no fun unless there is a challenge.** Nobody plays perfectly all of the time. 
+
+Anything worth doing is hard at first. It gets easier. You get stronger.   
+  
 **As you get better, you'll enjoy the process of finding imperfection and turning it into perfection.** 
+
+{% embed url="https://drive.google.com/file/d/1Il4oO-mPMNJshKk7D4sAd8j42SqQNIoY/view?usp=sharing" %}
+
+{% embed url="https://drive.google.com/file/d/1qn0EZwG-d9Fu1Ci4-qIlrvxhfTUeEPtv/view?usp=sharing" %}
 
 ## How do you find inspiration to play when you want to play but don't feel like it? 
 
@@ -74,17 +86,21 @@ No fun unless there is a challenge.
 
 
 
-## How do you respond negativity?
+## How do you respond to negativity?
 
 1. Keep your ego out of it 
 
 2. No one has to be wrong...you both can be right 
 
-3. Show empathy - No one needs to hate on haters for they are already in pain 
+3. Show empathy - no one needs to hate on haters for they are already in pain 
 
 4. Remember that we all have our cocky moments, and everyone's been insecure at one point 
 
 5. Lead by example
+
+{% hint style="info" %}
+Comments are a reflection of the person commenting, not you. People make hateful comments because they are in pain. 
+{% endhint %}
 
 ## Where can I get motivation when I am nervous for piano exams?
 
