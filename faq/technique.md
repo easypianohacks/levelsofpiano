@@ -75,13 +75,15 @@ Remember to use the metronome and count!
 
 ## What is tension? How do I prevent it?
 
-### There's a difference between strain and muscle soreness.  There 2 kinds of ""tension"" people refer to.
+### There are 2 kinds of "tension"
 
-#### 1. 👎 Bad Form
+There's a difference between strain and muscle soreness. 
+
+### 1. 👎 Bad Form
 
 This is when you have bad posture, or incorrect hand form. Wrists should be level, and fingers should be curved.
 
-#### 2. 💪 Muscular Endurance
+### 2. 💪 Muscular Endurance
 
 This is the same soreness you feel when you lift a heavy weight at the gym, or run for a long time.
 
@@ -93,9 +95,9 @@ Just like working out in the gym, or running outside!
 **Hard time relaxing wrist and fingers when playing octaves?** Repeated broken octaves can get tiring. Once you hit your limit, just pause and shake it out. Rest. Don't keep pushing it. You'll play more accurately if you rest and recharge.
 {% endhint %}
 
-## Am I playing these scales correctly with the metronome?
+## How to play scales correctly with metronome
 
-### Good example of mastery over C major scale, played hands together evenly. 
+### Great Example of C Major Scale Mastery
 
 #### Now you can level up by:
 
@@ -123,7 +125,9 @@ My hand cannot reach 1 octave, and my teacher told me to give up and just play t
 
 ## 🦾What is arm weight?
 
-### Arm weight is a technique using the shoulder or weight of arm to play, instead of just using the fingers. To experience arm weight - do the following:
+### To experience arm weight - Do the following:
+
+**Arm weight is a technique using the shoulder or weight of arm to play, instead of just using the fingers.** 
 
 1. hold your right arm with your left hand at the wrist 
 2. let go of all control of your right arm, let it go limp 
@@ -141,7 +145,7 @@ My hand cannot reach 1 octave, and my teacher told me to give up and just play t
 
 ## How can I learn dynamics?
 
-### Improving your dynamic range can be done with scales 
+### Scales can Improve Dynamic Range
 
 1. Find out what your quietest sound is, then find out your loudest sound
 2. Then figure out how many different shades you can do in between 
@@ -167,14 +171,16 @@ My hand cannot reach 1 octave, and my teacher told me to give up and just play t
 
 ## Any tips on playing smoother and faster?
 
-Slow. 
+### Slow 
 
-Accuracy first, then accuracy at a faster speed. 
+### Accuracy First
 
-It's like trying to shoot an arrow while riding a horse.  
+Then accuracy at a faster speed. 
+
+**It's like trying to shoot an arrow while riding a horse.**  
 You might want to practice shooting an arrow while standing before you try the horse. 
 
-What's the point of going fast if you miss 1 or all of your shots?  
+**What's the point of going fast if you miss 1 or all of your shots?**  
 If you don't practice slowly, your playing probably sounds like garbage.
 
 When I don't practice slowly, my playing gets uneven. 
@@ -184,13 +190,7 @@ When I don't practice slowly, my playing gets uneven.
 Practice slow and accurate for 5 - 10 reps, then fast for 1 rep to test the results.
 {% endhint %}
 
-## How to identify what octave I am in \(C3 or C4\) while playing Hanon No. 1?
-
-### 🧐If you are reading the music, you should be able to keep track of which note you are on.
-
-{% hint style="info" %}
-Familiarize yourself with the octaves for each note. A good exercise is to find middle C, go up an octave to the next C, and then the next C above that.
-{% endhint %}
+## 
 
 ## How do I play faster with less mistakes?
 
@@ -213,6 +213,8 @@ Familiarize yourself with the octaves for each note. A good exercise is to find 
 5. Improve the 66 bpm level to 100% before you pass yourself, and keep repeating that until you master Level 10
 
 ## ⏱️When is it time to level up to the next speed?
+
+### 1. 
 
 {% hint style="success" %}
 #### Once a speed no longer feels challenging, find the next challenging speed that you can play **evenly and accurately**.
