@@ -25,6 +25,49 @@ We play to experience the risk of making mistakes, fixing them, and overcoming t
 I took a 10 year break before starting @easipianohacks, and **to this day, I am still polishing things from those pieces.**
 {% endhint %}
 
+{% embed url="https://youtu.be/Qi1VRSE18lQ" %}
+
+## How do I play with passion?
+
+> Sometimes I play with passion, and sometimes not. When I don't play with emotion, I make so many mistakes. How can I prepare myself to play with passion.
+
+**Priority is passion over everything else, but often times you need to master the craft before you can experience the passion.** 
+
+### **1.** Master the Craft
+
+**Craft is like sports**   
+You have to do the drills, practice, and running...so you can experience the highs of playing the game and scoring a goal. How you gonna score a goal in a fierce match with dominating opponents if you don't have your basic technique down?
+
+**The craft for piano**  
+Learning what notes to play, how to read music, playing scales, music theory...so that when you perform, you don't have those mistakes holding you back.
+
+### 2. Repetition
+
+**Mistakes are insignificant**   
+Because you can fix them easily with lots of repetition.
+
+**We must bake the cake before the icing**  
+For every piece you learn, you must first master the craft. With skill, comes the freedom to play.
+
+### 3. Decorating the Cake
+
+**The cake foundation is ready...time to decorate it with frosting**  
+After all is fixed, you can make the melody sing, tell a story, feel an emotion in the piece you're playing. You are now at the fun part of learning a piano piece. 
+
+1. **Play the right hand louder than the left hand** The right hand is the melody, make it sing
+2. **The melody can be improved with phrasing** When the melody goes up, swell louder When the melody goes down, come down softer 
+
+**It will sound beautiful, and you will feel the passion**
+
+{% hint style="info" %}
+**So when you practice technique and all the fundamentals, don't forget...**   
+You are training for the higher purpose - to play with passion.
+{% endhint %}
+
+
+
+
+
 ## I'm stuck on a part of Grande Sonate Pathetique
 
 {% hint style="success" %}
@@ -60,19 +103,20 @@ I took a 10 year break before starting @easipianohacks, and **to this day, I am 
 
 
 
-## Are there exercises or tips I should learn before I attempt to play River Flows In You?
+## **Rhythm in Pirates of the Caribbean**
 
-1. Begin by learning to count   
-  
-2. Making sure to play the scales, chords and arpeggios in the key of the piece you will be learning will make the piece much easier to learn   
-  
-3. A major and F\# minor for River Flows In You   
-  
-4. You will know the most common notes that will be played in that piece, and the patterns that will be used for each chord   
-  
-5. If you can recognize music 1 chord at a time, that's 3-4 notes you're reading vs. 1 note at a time  
-  
-6. Also make sure to count and play the metronome when you play
+{% embed url="https://drive.google.com/file/d/165MjmSxECyiA3tgNiqmK3o-a7KYGhGVN/view?usp=sharing" %}
+
+## Tips for River Flows In You
+
+**Are there exercises or tips I should learn before I attempt to play River Flows In You?**
+
+1. Begin by learning to count  
+2. Making sure to play the scales, chords and arpeggios in the key of the piece you will be learning will make the piece much easier to learn \(**A major and F\# minor for River Flows In You\)** 
+3. You will know the most common notes that will be played in that piece, and the patterns that will be used for each chord  
+4. If you can recognize music 1 chord at a time, that's 3-4 notes you're reading vs. 1 note at a time
+
+**Also make sure to count out loud and use the metronome when you play**
 
 ## Pirates of the Caribbean \(arranged by Jarrod Radnich\): How do you count bars 19, 46 and 53?
 

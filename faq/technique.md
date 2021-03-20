@@ -51,13 +51,11 @@ Remember to use the metronome and count!
 
 ### 5. Supplemental Music Theory
 
-
-
 {% embed url="https://youtu.be/-E95zDG-X9A" %}
 
 ## How to Fix Uneven, Messy fingers
 
-1. Curve Fingers - Proper Form
+1. Curve Fingers - Proper 
 2. Slow Work - No Splitting
 3. Repeat it until you get it right
 
@@ -221,7 +219,7 @@ e. forte
 f. fortissimo
 {% endhint %}
 
-## Any tips on playing smoother and faster?
+## How do I play faster with less mistakes?
 
 ### Slow 
 
@@ -243,9 +241,11 @@ When I don't practice slowly, my playing gets uneven.
 Practice slow and accurate for 5 - 10 reps, then fast for 1 rep to test the results.
 {% endhint %}
 
-## How do I play faster with less mistakes?
+#### You must play slow and accurately before you can play fast.
 
-### You must play slow and accurately before you can play fast.
+{% embed url="https://drive.google.com/file/d/1YGbaZsWO\_5rGlfFfEFewZ-dP0ffG7zfB/view?usp=sharing" %}
+
+{% embed url="https://drive.google.com/file/d/1rOwvwe2HzlG4czJg6WLdwppbI4FLdCyR/view?usp=sharing" %}
 
 {% embed url="https://drive.google.com/file/d/1WcQ1WxDySTWbnsbk3YuQyWfTtUSp5gPi/view?usp=sharing" %}
 

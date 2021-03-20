@@ -16,9 +16,13 @@ People say that you have to start learning at an early age to become good at pia
 
 ### Have a piano teacher look at it for you
 
-Most people are impatient and don't practice enough
-
+Most people are impatient and don't practice enough  
 Some people are hard working but don't know the right methods
+
+### It's like curing an illness 
+
+You can try to cure it yourself, or you can have a doctor diagnose the illness and prescribe the treatment required  
+You can try to fix it yourself, or you can have a piano teacher tell you exactly what you're doing wrong and how to practice to move forward
 
 {% hint style="success" %}
 **Let's figure out how to help you.** 
@@ -30,21 +34,24 @@ Some people are hard working but don't know the right methods
 
 ### 1. Self-confidence
 
-**If you want to be "self" confident, YOU must be the first person to believe in yourself**
-
-You can't rely on playing something right or wrong to tell you if you're confident. 
-
+**If you want to be "self" confident, YOU must be the first person to believe in yourself**  
+You can't rely on playing something right or wrong to tell you if you're confident  
 You can't rely on someone SAYING you play well to tell if you're confident. 
 
 If you keep waiting on other things to give you confidence, that's not "self" confidence anymore, is it? 
 
 ### 2. Playing with all of the cheat codes
 
-**It is no fun unless there is a challenge.** Nobody plays perfectly all of the time. 
-
-Anything worth doing is hard at first. It gets easier. You get stronger.   
+**It is no fun unless there is a challenge.** Nobody plays perfectly all of the time. Anything worth doing is hard at first. It gets easier. You get stronger.   
   
 As you get better, you'll enjoy the process of finding imperfection and turning it into perfection. 
+
+### 3. Just Do It
+
+T**he only thing that is between you and confidence is doing the thing you fear most**   
+Real confidence exists in all of us, and comes out when we take ACTION....when we do the things we know we need to but are afraid to do in the moment. 
+
+I still feel afraid about certain things, but those quickly dissolve when I take ACTION anyway.
 
 {% embed url="https://drive.google.com/file/d/1Il4oO-mPMNJshKk7D4sAd8j42SqQNIoY/view?usp=sharing" %}
 
@@ -121,9 +128,20 @@ You're just going there to show them how well you play. Their opinion doesn't ma
 
 ### What motivates me
 
-I teach now and play what I love. Developing emotional maturity takes time. 
+I teach now and play what I love. 
 
 The chills that run up and down my spine when I really feel the emotion of a piece motivate me now, but it took going through depression, anger, and pride to get there.
+
+Developing emotional maturity takes time. 
+
+> Music has saved me from depression, helped me find love, and share this love with people around the world.
+>
+> If more people actually knew how much bliss I feel when I play and perform...  
+> the joy of finally fixing a mistake after repeating it 1000x...  
+> the chills I feel when I play the right keys at the right time...  
+> More people would be happier. 
+>
+> If I can equip everyone willing to learn with this ability, we can all change the world.
 
 ### It took stepping stones
 
@@ -155,13 +173,46 @@ When you are not better or worse than anyone, you can then find what you love to
 
 **At the end of the day, it feels better to focus on what you are passionate about in music rather than seeing it as a competition.** 
 
-
-
-> At the end of the day, it feels better to focus on what you are passionate about in music rather than seeing it as a competition. When you are not better or worse than anyone, you can then find what you love to do, and you'll find that you'll naturally do it better than most people \(but by that time, you won't even want it\).
-
 {% embed url="https://www.youtube.com/watch?v=xeS9RI9gNJ8" %}
 
 
+
+## My parents are skeptical of my dream is to study music
+
+> I'm 15 and realized that I want to study music. Iknow conservatory is good, but hard, so I probably want to study there. I have told this to my parents and teacher, and they seem skeptical and basically think I won't get there.   
+> That worries me as it's my dream to study music.
+
+### To follow or not to follow your dreams?
+
+This is an age-old question. Here's what I'd say to myself. I wish I learned this earlier:
+
+### 1. Your dreams, your money
+
+If you want to be happy, follow your dream, but don't expect your parents to pay for your education. 
+
+### 2. You have TIME to take risk
+
+If you're 15, you have your whole life to figure out what you want to do. Even if 10 years later, you master music, or you fail at music...you have more than enough TIME to follow a new dream.
+
+### 3. Don't give in
+
+If people around you are skeptical, don't give in just to please them. 
+
+Why?
+
+Not giving in builds up your bravery and confidence.   
+People who may want the best for you are insecure too, and impose their lack of self-belief onto your dream. 
+
+It's your dream, not theirs.  
+Would you rather spend 80 years appeasing your parents / teachers doing something you hate?  
+Or 8 years of conflict, and then a lifetime of success? 
+
+Lots of 80+ year olds living with regret, wishing they took that chance.
+
+```text
+You will work harder at your dream than anything else.
+
+```
 
 
 

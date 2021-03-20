@@ -47,17 +47,13 @@ Read the full guide here:
 
 ### Practice on Omegle
 
+Varied audience, and you get multiple performances in one go
+
 {% embed url="https://youtu.be/B3Qomc81wt8" %}
 
 ## 😓I struggle when recording myself and playing in front of people
 
-\*\*\*\*
-
-{% hint style="warning" %}
-**I get performance anxiety when I'm just recording myself for other people**
-
-It's super frustrating to **mess up way more when I record myself** than I ever do during practice. 🥴
-{% endhint %}
+> 🥴 **I get performance anxiety when I'm just recording myself for other people.** It's super frustrating to **mess up way more when I record myself** than I ever do during practice.
 
 ### No Expectations
 
