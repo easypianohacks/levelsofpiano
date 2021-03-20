@@ -1,6 +1,6 @@
 # 🎩 Performing
 
-## 😩 How do I be more confident playing in front of people?
+## 😩 How can I be more confident playing in front of people?
 
 You'd think that a lot of practice would make you confident playing in front of people, right?
 
@@ -49,30 +49,34 @@ Read the full guide here:
 
 {% embed url="https://youtu.be/B3Qomc81wt8" %}
 
-## 😓 My playing is bad when I play in front of people or record myself. 
+## 😓I struggle when recording myself and playing in front of people
 
-I get performance anxiety when I'm just recording myself for other people.
+\*\*\*\*
 
-{% hint style="danger" %}
+{% hint style="warning" %}
+**I get performance anxiety when I'm just recording myself for other people**
+
 It's super frustrating to **mess up way more when I record myself** than I ever do during practice. 🥴
 {% endhint %}
 
+### No Expectations
+
+**The best way to get out of this is not to have any expectation**   
+If I don't expect to play it perfectly in this take, I won't get frustrated or flustered. I just let the camera roll, and whatever good takes I get at the end of the session are the ones I post. 
+
+### **Practice in front of other people** 
+
+**This is usually a harder condition than practice on our own**   
+In order to get good at playing in front of other people , we must do practice in front of other people.
+
 {% hint style="success" %}
-**The best way to get out of this is not to have any expectation.** If I don't expect to play it perfectly in this take, I won't get frustrated or flustered. I just let the camera roll, and whatever good takes I get at the end of the session are the ones I post. 
-
-**Practice in front of other people is usually a harder condition than practice on our own.** In order to get good at playing in front of other people , we must do practice in front of other people.
-{% endhint %}
-
-💥It's also the real test of how well we play...
+### **It's the real test of how we play...**
 
 100% in perfect conditions  
-80% in realistic conditions = We are not as fluid as we think.
+80% in realistic conditions = We are not as fluid as we think
+{% endhint %}
 
-![](../.gitbook/assets/image%20%2820%29.png)
-
- 
-
-## 💡How can I learn to improvise?
+##  💡How can I learn to improvise?
 
 Improvisation and variations come with practice too. 
 

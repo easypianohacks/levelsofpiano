@@ -2,7 +2,7 @@
 
 ## How to FIX Pinky Collapsing
 
-### 1. Build your strength using drills and exercises
+### 1. Build your strength using drills
 
 **Your pinky \(finger 5\) is naturally a weaker finger, but it can be strengthened.**  
 Start with Hanon No. 1 and work up to Hanon No. 31
@@ -49,28 +49,74 @@ Remember to use the metronome and count!
 1. 5 exercises per day from Tonedear.com
 2. Intervals, Chord Recognition and Melody Playback
 
-### 5. Supplemental Music Theory \(as required\)
+### 5. Supplemental Music Theory
 
 
 
 {% embed url="https://youtu.be/-E95zDG-X9A" %}
 
-## How to fix splitting, uneven, messy fingers
+## How to Fix Uneven, Messy fingers
 
-### 1. Curve Fingers - Proper Form
+1. Curve Fingers - Proper Form
+2. Slow Work - No Splitting
+3. Repeat it until you get it right
 
-### 2. Slow Work - No Splitting
-
-### 3. Repeat it until you get it right
+### Example \(Before and After\)
 
 {% embed url="https://drive.google.com/file/d/1hjiYcsA2uaBr9qN22M\_sXnGnl1Om1Syx/view?usp=sharing" %}
 
 {% embed url="https://drive.google.com/file/d/1mGSsVPS7IZFomkq4M9bXSGrAeMt5u79F/view?usp=sharing" %}
 
+{% hint style="info" %}
+📽️ [Send us your before videos for feedback](https://www.videoask.com/fmrqcvw9w)
+{% endhint %}
 
+## My playing isn't fluid. It sounds choppy.
+
+{% hint style="danger" %}
+As you can see I’m missing some notes and my playing is still not that fluid. 
+
+I'm going somewhat fast here for what I should be playing, but it shows what I mean\) 
+
+Could you please give me some advice on how to approach this piece more efficiently?
+{% endhint %}
+
+{% hint style="success" %}
+ **Solution:** Isolate & Repeat \(Repetition Game\)
+{% endhint %}
+
+### 1. Hone in on parts that aren't fluid
+
+**Don't practice the entire piece from start to finish.**   
+Find that 1 bar you keep screwing up on, master it by playing 10 times in a row...
+
+Then, this is the important part that separates good from excellent...**⤵️**
+
+### 2. Start 2 bars before that problem bar
+
+Get it 10 times in a row correctly
+
+Once perfect, then...⤵️
+
+### 3. Start 4 bars before and get it 10x in a row
+
+**Do this for every single part you have trouble with.**   
+If you need to find where you are weak, play the piece faster than usual... and the parts you screw up you should highlight and apply the methods above.
 
 {% hint style="info" %}
-📽️ [Send us videos for feedback](https://www.videoask.com/fmrqcvw9w)
+This one is a mental attitude shift
+
+**Patience**
+
+You must do the steps in method 1 until the entire piece is perfect
+
+**That is the game**
+
+If there are any spots you can't do 10 times in a row correctly in time with the metronome + counting, you have weak spots.
+
+**Weak spots need to be mastered**
+
+Once all weak spots are gone, then you will have mastery, and win the game
 {% endhint %}
 
 ## What is tension? How do I prevent it?
@@ -97,7 +143,7 @@ Just like working out in the gym, or running outside!
 
 ## How to play scales correctly with metronome
 
-### Great Example of C Major Scale Mastery
+### Example of C Major Scale Mastery
 
 #### Now you can level up by:
 
@@ -105,7 +151,7 @@ Just like working out in the gym, or running outside!
 2. Counting subdivisions like 1+2+3+4+
 3. Increasing the tempo / speed 
 
-#### 🗣️ Make sure to count out loud! 
+### 🗣️ Make sure to count out loud! 
 
 {% embed url="https://drive.google.com/file/d/1Is36XF25-1AYZxi12tl67WQHscKDySK6/view?usp=sharing" caption="Played hands together evenly" %}
 
@@ -114,20 +160,22 @@ Just like working out in the gym, or running outside!
 ## Is there a way to increase my hand span? 
 
 {% hint style="warning" %}
-My hand cannot reach 1 octave, and my teacher told me to give up and just play the way I'm able to play. 
+### My hand cannot reach 1 octave
+
+My teacher told me to give up and just play the way I'm able to play. 
 {% endhint %}
 
 {% hint style="success" %}
-**Solution -** Practice [**Hanon**](http://csokabeata.hu/Kottak/Gyakorlatok/Hanon%20-%20The%20Virtuoso%20Pianist.pdf) **Exercise 31** every day
+### **Solution -** Practice [**Hanon**](http://csokabeata.hu/Kottak/Gyakorlatok/Hanon%20-%20The%20Virtuoso%20Pianist.pdf) **Exercise 31** every day
 
 📽️ [Send us videos once you learn it](https://www.videoask.com/fmrqcvw9w) 
 {% endhint %}
 
 ## 🦾What is arm weight?
 
-### To experience arm weight - Do the following:
-
 **Arm weight is a technique using the shoulder or weight of arm to play, instead of just using the fingers.** 
+
+### To experience arm weight**, d**o the following:
 
 1. hold your right arm with your left hand at the wrist 
 2. let go of all control of your right arm, let it go limp 
@@ -145,29 +193,33 @@ My hand cannot reach 1 octave, and my teacher told me to give up and just play t
 
 ## How can I learn dynamics?
 
-### Scales can Improve Dynamic Range
+### Find Your Dynamic Shades With Scales
 
-1. Find out what your quietest sound is, then find out your loudest sound
-2. Then figure out how many different shades you can do in between 
-3. Try to go from middle C the quietest, then crescendo all the way to the top C being the loudest, then diminuendo back down to middle C
-4. Do this slowly at first every day 10-20 times 
-5. Then watch as you speed up, it gets harder
-6. Do this evenly with the metronome 
-7. When we start, we have 1 shade of tone - mezzo forte 
-8. As we progress, we might have 2-3 different shades of tone production 
+**When we start, we have 1 shade of tone - mezzo forte**   
+As we progress, we might have 2-3 different shades of tone production   
+a. piano   
+b. mezzo forte   
+c. forte 
 
-   a. piano   
-   b. mezzo forte   
-   c. forte 
+**Find out what your quietest sound is, then find out your loudest sound**  
+Next, figure out how many different shades you can do in between
 
-9. Your job is to find the rest and define a difference between 
+**Start from middle C the quietest**  
+Then **crescendo** all the way to the top C being the loudest  
+Then **diminuendo** back down to middle C
 
-   a. pianissimo   
-   b. piano   
-   c. mezzo piano   
-   d. mezzo forte   
-   e. forte   
-   f. fortissimo
+**Do this slowly and evenly** _**with the metronome**_ **every day 10-20 times**  
+Watch...as you speed up, it gets harder
+
+{% hint style="success" %}
+**Your job is to find the rest of the shades and define a difference between**   
+a. pianissimo   
+b. piano   
+c. mezzo piano   
+d. mezzo forte   
+e. forte   
+f. fortissimo
+{% endhint %}
 
 ## Any tips on playing smoother and faster?
 
@@ -175,7 +227,7 @@ My hand cannot reach 1 octave, and my teacher told me to give up and just play t
 
 ### Accuracy First
 
-Then accuracy at a faster speed. 
+### Then accuracy at a faster speed
 
 **It's like trying to shoot an arrow while riding a horse.**  
 You might want to practice shooting an arrow while standing before you try the horse. 
@@ -186,19 +238,16 @@ If you don't practice slowly, your playing probably sounds like garbage.
 When I don't practice slowly, my playing gets uneven. 
 
 {% hint style="success" %}
-**Here's an exercise:**  
+### **Here's an exercise:**
+
 Practice slow and accurate for 5 - 10 reps, then fast for 1 rep to test the results.
 {% endhint %}
-
-## 
 
 ## How do I play faster with less mistakes?
 
 ### You must play slow and accurately before you can play fast.
 
 {% embed url="https://drive.google.com/file/d/1WcQ1WxDySTWbnsbk3YuQyWfTtUSp5gPi/view?usp=sharing" %}
-
-## 
 
 ## Why do I make mistakes when I try to speed up my playing?
 
@@ -212,15 +261,36 @@ Practice slow and accurate for 5 - 10 reps, then fast for 1 rep to test the resu
 4. If you keep trying for 120 bpm, you accuracy is going to be 75% \(missing 3/4 shots\)
 5. Improve the 66 bpm level to 100% before you pass yourself, and keep repeating that until you master Level 10
 
-## ⏱️When is it time to level up to the next speed?
+## ⏱When is it time to level up in speed?
 
-### 1. 
+### 1. Are your mind and muscles ready?
 
-{% hint style="success" %}
-#### Once a speed no longer feels challenging, find the next challenging speed that you can play **evenly and accurately**.
+**Sometimes you need to train the mind to be okay with taking longer**   
+First you need to train the mind feel the rhythm and apply proper technique
 
+**Sometimes it's the muscles you need to build**  
+Fingers take time to develop, even if your mind is ready
+
+### 2. Can you play evenly and accurately?
+
+**If you can't keep up with the metronome, drop it down**  
+If not at 108, drop it to 88  
+If not 88, drop it to 72  
+If not at 72, drop it to 63  
+If not at 63, drop it to 54
+
+### 3. Does it feel challenging?
+
+**Once a speed no longer feels challenging, find the next challenging speed that you can play evenly and accurately**   
 When you keep pushing this standard every day, you will play faster and faster
+
+{% hint style="info" %}
+**The bpm at the top of the score is just a standard, NOT the tempo you should be practicing.** 
+
+How do you know when you're ready to lift **225 lbs**? When you can lift **205 lbs \(10 reps\)** with ease.
 {% endhint %}
+
+\*\*\*\*
 
 {% embed url="https://drive.google.com/file/d/1O0TlPaJjBNX9kQELhaqK7AINgJi2Oilx/view?usp=sharing" %}
 
@@ -228,7 +298,7 @@ When you keep pushing this standard every day, you will play faster and faster
 
 {% embed url="https://drive.google.com/file/d/1QLXpSfdTTaxhyoII8-rk87oO\_OERD-rP/view?usp=sharing" %}
 
-## I'm having trouble with big leaps. Please help!
+## Having trouble with big leaps?
 
 {% embed url="https://www.youtube.com/watch?v=UkN05fFiPP0&t=50s" %}
 
@@ -244,7 +314,8 @@ When you keep pushing this standard every day, you will play faster and faster
 
 {% hint style="success" %}
 🏋️ **It's basically like a sport.**  
-You need muscles. To build muscles, you need to do the drills.  
+You need muscles.   
+To build muscles, you need to do the drills.  
 {% endhint %}
 
 

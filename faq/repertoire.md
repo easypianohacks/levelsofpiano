@@ -1,8 +1,8 @@
 # 🎹 Repertoire
 
-## How long should it take me to learn a piece?
+## How long should it take to learn a piece?
 
-### 1. Don't set an expectation for when you'll be able to play a piece well
+### 1. Don't set an expectation
 
 **Time to master pieces can vary greatly**  
 I took an entire year to learn and master 3-5 repertoire pieces each year from 2000 to 2007.  
@@ -25,64 +25,13 @@ We play to experience the risk of making mistakes, fixing them, and overcoming t
 I took a 10 year break before starting @easipianohacks, and **to this day, I am still polishing things from those pieces.**
 {% endhint %}
 
-## What fingering should I use for Moonlight Sonata Mvt 3, Bars 9 to 14?
-
-![](../.gitbook/assets/image%20%2818%29.png)
-
-## My playing isn't fluid. It sounds choppy.
-
-{% hint style="danger" %}
-As you can see I’m missing some notes and my playing is still not that fluid. 
-
-I'm going somewhat fast here for what I should be playing, but it shows what I mean\) 
-
-Could you please give me some advice on how to approach this piece more efficiently?
-{% endhint %}
-
-{% hint style="success" %}
- **Solution:** Isolate & Repeat \(Repetition Game\)
-{% endhint %}
-
-### 1. Don't practice the entire piece from start to finish. Hone in and only repeat the parts you aren't fluid.
-
-Find that 1 bar you keep screwing up on, master it by playing 10 times in a row...
-
-...then this is the important part that separates good from excellent:
-
-### 2. Start 2 bars before that problem bar
-
-Get it 10 times in a row correctly  
-Once perfect, then...
-
-### 3. Start 4 bars before and get it 10x in a row
-
-Do this for every single part you have trouble with. if you need to find where you are weak, play the piece faster than usual... and the parts you screw up you should highlight and apply the methods above.
-
-{% hint style="info" %}
-This one is a mental attitude shift
-
-**Patience**
-
-You must do the steps in method 1 until the entire piece is perfect
-
-**That is the game**
-
-If there are any spots you can't do 10 times in a row correctly in time with the metronome + counting, you have weak spots.
-
-**Weak spots need to be mastered**
-
-Once all weak spots are gone, then you will have mastery, and win the game
-{% endhint %}
-
-
-
-## I'm getting stuck on a part. How do I play this part correctly?
+## I'm stuck on a part of Grande Sonate Pathetique
 
 {% hint style="success" %}
 **Solution:** Check your notes and rhythm
 {% endhint %}
 
-**🤨 When you encounter a difficult passage:**
+### **🤨 When you encounter a difficult passage:**
 
 1. **Count before you play 🗣️ 1-2-3**
 2. Start and stop on each beat if you need

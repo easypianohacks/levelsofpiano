@@ -1,30 +1,36 @@
 # 🎼 Sight Reading
 
-## Should a pianist look at their hands or at the sheet music while playing? Is it a bad thing to play by memory?
+## Should I look at my hands, sheet music, or play by memory?
 
-### 🤲 🎼 🧠 A pianist will look at all 3.
+### 🤲 🎼 🧠 A pianist will do all 3
 
-**You will look at your hands, the sheet music, and from memory.**  
+**You will look at your hands, the sheet music, and from memory**  
 The times when we look at our hands and the sheet music are when we are learning, to check our placement, fingering, reaching to chords, low notes, and high notes.
 
-**If you want to improve your reading ability and familiarity with the keys, a good method is to stop looking at your hands and only focus on the sheet music.** You will be able to learn new sheet music easier because you won't be looking up and down as much - you will have a skill for playing without looking down at your hands.
+**If you want to improve your reading ability and familiarity with the keys, a good method is to stop looking at your hands and only focus on the sheet music**  
+You will be able to learn new sheet music easier because you won't be looking up and down as much - you will have a skill for playing without looking down at your hands.
 
-## I struggle when it comes to sight reading anything with more than 3 notes per bar. 
+##  **How do I identify the octave I am playing in Hanon?**
 
-{% hint style="danger" %}
-**It takes me a lot of time to learn new pieces** \(usually below my technique level\).   
-This is frustrating because I feel this is holding back my progress. 
+**‌🧐If you are reading the music, you should be able to keep track of which note you are on.**
+
+{% hint style="success" %}
+### **Octave Exercise**
+
+**Familiarize yourself with the octaves for each note. Find middle C, go up an octave to the next C, and then the next C above that.** 
 {% endhint %}
 
-### 1. [Sightreadingfactory.com](https://www.sightreadingfactory.com/) 
+## Struggling with sight reading more than 3 notes per bar? 
 
-### 2. [Play Czerny 1 every day](http://imslp.simssa.ca/files/imglnks/usimg/1/10/IMSLP86518-PMLP177048-CZERNY_Practical_Method_for_Beginners_on_the_Pianoforte_Op._599.pdf)
+Are you frustrated because it is difficult to learn new pieces, even below your technique level?
 
-### 3. [EasyPianoHacks.com/books](https://easypianohacks.com/books/)
+**Read new music every day** - Pick material that is slightly lower than your current level
 
-### **4. If you need more,** j**oin the** [**WhatsApp Group**](https://chat.whatsapp.com/LthdyAFw4tmITx3LrDeeGH)\*\*\*\*
+### 5 Ways to Improve Sight Reading
 
-### \*\*\*\*[**https://youtu.be/KqO0X5i8IKY**](https://youtu.be/KqO0X5i8IKY)\*\*\*\*
+{% embed url="https://youtu.be/KqO0X5i8IKY" %}
+
+\*\*\*\*
 
 ## I can't read sheet music. Should I learn?
 
@@ -36,9 +42,9 @@ I can read notes but when I play I only use memory
 
 Learning piano without reading notes
 
-## How can I learn to play new styles **of** music and start to freestyle?
+## How can I learn to play new styles **and** freestyle?
 
-### 1. Build up your music vocabulary by reading new music
+### 1. Build up your music vocabulary
 
 **Music is a language. Read a lot of music, play a lot of music.**   
 It's like learning English. You have to read a lot of books. If you've always read non-fiction, maybe try fiction.
@@ -46,21 +52,11 @@ It's like learning English. You have to read a lot of books. If you've always re
 **Pick pieces or songs that you like.**   
 Find the sheet music for them, and start learning them even if they're super easy. 
 
-### 2. Freestyle or improvisation is like writing or speaking
+### 2. Freestyle is like writing or speaking
 
 **If you are a 3rd grader learning English, you won't have the vocabulary or sentence structure of a 12th grader.**   
 Same with Piano. You want to build up your music vocabulary by reading new music. 
 
 **Take the elements from each piece you learn like words or phrases from each book you read.**   
 You will eventually be able to freestyle your own stuff on the spot.
-
-
-
- 
-
-## Question
-
-Answer
-
-
 
