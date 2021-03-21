@@ -12,17 +12,53 @@ People say that you have to start learning at an early age to become good at pia
 **When people say YOU can't, it means they think THEY can't.** They're just projecting what they believe of themselves onto you. 
 {% endhint %}
 
-## I need to breaking out of a rut...I've stopped progressing
+## I'm in a rut...I've stopped progressing
 
-### Have a piano teacher look at it for you
+> "About 2 months ago, I started to practice the first one minute of a piece, but I still cannot play it clearly.  
+> I'm still not able to accompany a singer or fill in a with band with good playing.   
+> I'm really in a very bad mood to practice again because I feel nothing improved in my playing even though I practiced quite a lot."
 
+### Quantity vs. Quality of Practice
+
+**It's like shooting 50 air balls vs. scoring 50 baskets**
+
+### **1. Mindset Mistake**
+
+**High Expectations = Impatience**  
 Most people are impatient and don't practice enough  
-Some people are hard working but don't know the right methods
+  
+**Quality of Reps = Progress**  
+Time spent does not equal progress. 
+
+If you just started to learn piano and can't play the right notes in time...  
+Accompanying someone is going to be like trying to ride a horse 🐴 and shoot an arrow  
+You must first master shooting an arrow while standing 
+
+In this example, you're missing 8/10 shots while standing...  
+Your only goal is to hit 1 more perfect thot...and another 1...until yu can do all 10 in a row.
+
+We don't need to care how much time we spend...just focus on getting one more hit 🎯...one more correct note.
+
+That's all that matters.
+
+### **2. Practice Strategy Mistake**
+
+**Inefficient Method = Slower Progress**  
+Some people are hard working but don't know the right methods  
+  
+**What you do during practice makes the difference**  
+If you're just playing it over and over from start to finish...hoping the nest one will be right...  
+That's a world of difference from isolating every single wrong note you play, fixing each bar, playing each problem area 10x in a row before moving onto the next bar.   
+  
+**All while SLOWLY counting and playing with the METRONOME**  
+
 
 ### It's like curing an illness 
 
 You can try to cure it yourself, or you can have a doctor diagnose the illness and prescribe the treatment required  
 You can try to fix it yourself, or you can have a piano teacher tell you exactly what you're doing wrong and how to practice to move forward
+
+### Have a piano teacher look at it for you
 
 {% hint style="success" %}
 **Let's figure out how to help you.** 
@@ -173,6 +209,8 @@ When you are not better or worse than anyone, you can then find what you love to
 
 **At the end of the day, it feels better to focus on what you are passionate about in music rather than seeing it as a competition.** 
 
+### **Top 3 MISTAKES By Self Taught Pianists**
+
 {% embed url="https://www.youtube.com/watch?v=xeS9RI9gNJ8" %}
 
 
@@ -196,23 +234,38 @@ If you're 15, you have your whole life to figure out what you want to do. Even i
 
 ### 3. Don't give in
 
-If people around you are skeptical, don't give in just to please them. 
-
-Why?
+If people around you are skeptical, don't give in just to please them. Why?
 
 Not giving in builds up your bravery and confidence.   
 People who may want the best for you are insecure too, and impose their lack of self-belief onto your dream. 
 
-It's your dream, not theirs.  
+**For skepticism, just be sure you don't meet hate with hate.** That is a mistake everyone makes, myself included.   
+Meet hate with love. Have empathy for them because deep inside, they are in pain, and that's the reason why they inflict pain onto others. Why else would they hate? 😉
+
+### 4. It's your dream, not theirs.
+
 Would you rather spend 80 years appeasing your parents / teachers doing something you hate?  
 Or 8 years of conflict, and then a lifetime of success? 
 
 Lots of 80+ year olds living with regret, wishing they took that chance.
 
-```text
+```typescript
 You will work harder at your dream than anything else.
+% talent + hard work = pro
+How pro you become depends on how much you have of each. 
 
+If aren't as talented, but you work hard - you have options...
+but not as many as someone with both. 
 ```
 
+If you aren't super tall or fast, but you work hard, you still might not play in the NBA...  
+But you could be very good at coaching or teaching.
 
+Everyone's dreams and capabilities are different, but the one thing we can all strive for...  
+Try things that we believe will make us happy...whatever we feel it is.  
+What anyone else thinks or says is irrelevant to your opinion.
+
+**Your opinion for what you should do comes first. Practice this, and you will be in charge of your own life. Follow @garyvee for more. He helped me navigate this when I went through it.**
+
+## \*\*\*\*
 

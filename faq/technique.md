@@ -1,5 +1,26 @@
 # 🖐 Technique
 
+## Having trouble playing hands together?
+
+Hand Independence is a common challenge. 
+
+When you are having trouble with coordination and speed, we call this Slow Finger Syndrome.
+
+You can improve with the right drills every day. 
+
+Playing both hands is just like reading English...the more books you read, the better you get. 
+
+That's all it is. 
+
+### 1. Play [**Czerny Opus 299**](http://imslp.simssa.ca/files/imglnks/usimg/1/10/IMSLP86518-PMLP177048-CZERNY_Practical_Method_for_Beginners_on_the_Pianoforte_Op._599.pdf) ****
+
+**Play every day...one new exercise per week**  
+They get progressively more difficult as your skill for reading improves. 
+
+### 2. Try these 5 exercises
+
+{% embed url="https://youtu.be/6\_dIVA3TOms" %}
+
 ## How to FIX Pinky Collapsing
 
 ### 1. Build your strength using drills
@@ -20,7 +41,7 @@ Remember to use the metronome and count!
 
 {% embed url="https://youtu.be/YrqIHhgKno0" %}
 
-## 🕰️How long should I practice each day?
+## HOW LONG and WHAT should I practice?
 
 {% hint style="success" %}
 ### Prioritize achievement of tasks instead of time spent practicing
@@ -50,6 +71,8 @@ Remember to use the metronome and count!
 2. Intervals, Chord Recognition and Melody Playback
 
 ### 5. Supplemental Music Theory
+
+### Practice Coaching Session
 
 {% embed url="https://youtu.be/-E95zDG-X9A" %}
 
@@ -223,12 +246,14 @@ f. fortissimo
 
 ### Slow 
 
-### Accuracy First
+You must play **slow** and **accurately** **before** you can play **fast**.
 
-### Then accuracy at a faster speed
+### Accuracy First
 
 **It's like trying to shoot an arrow while riding a horse.**  
 You might want to practice shooting an arrow while standing before you try the horse. 
+
+### Then accuracy at a faster speed
 
 **What's the point of going fast if you miss 1 or all of your shots?**  
 If you don't practice slowly, your playing probably sounds like garbage.
@@ -241,7 +266,15 @@ When I don't practice slowly, my playing gets uneven.
 Practice slow and accurate for 5 - 10 reps, then fast for 1 rep to test the results.
 {% endhint %}
 
-#### You must play slow and accurately before you can play fast.
+### Full Guide to Playing Faster
+
+{% page-ref page="../guides/basics/" %}
+
+
+
+{% embed url="https://drive.google.com/file/d/19jAWqcuoyqPse2\_yJ4ffNyICk0rK8mRw/view?usp=sharing" %}
+
+
 
 {% embed url="https://drive.google.com/file/d/1YGbaZsWO\_5rGlfFfEFewZ-dP0ffG7zfB/view?usp=sharing" %}
 
@@ -252,14 +285,24 @@ Practice slow and accurate for 5 - 10 reps, then fast for 1 rep to test the resu
 ## Why do I make mistakes when I try to speed up my playing?
 
 {% hint style="success" %}
-#### Like playing a video game, Level 1 is too easy for you, so it's boring, and Level 10 is too hard. Why not make sure you get 100% at Level 2, 3, 4, 5...before you try Level 10?
+#### **Level 1 is too easy for you, so it's boring**
+
+#### **Level 10 is too hard**
+
+#### **Why not make sure you get 100% at Level 2, 3, 4, 5...before you try Level 10?**
 {% endhint %}
 
-1. Find the next comfortable tempo instead of increasing to a speed that is too difficult.
-2. Pretend your're trying to shoot arrows while running
-3. When accuracy of 100% at 52 bpm becomes too easy, you need to find the speed where your accuracy is 90% \(e.g. 66 bpm\)
-4. If you keep trying for 120 bpm, you accuracy is going to be 75% \(missing 3/4 shots\)
-5. Improve the 66 bpm level to 100% before you pass yourself, and keep repeating that until you master Level 10
+### Level up like a video game
+
+Find the next comfortable tempo instead of increasing to a speed that is too difficult
+
+Pretend your're trying to shoot arrows while running
+
+When accuracy of 100% at 52 bpm becomes too easy, you need to find the speed where your accuracy is 90% \(e.g. 66 bpm\)
+
+If you keep trying for 120 bpm, you accuracy is going to be 75% \(missing 3/4 shots\)
+
+Improve the 66 bpm level to 100% before you pass yourself, and keep repeating that until you master Level 10
 
 ## ⏱When is it time to level up in speed?
 
@@ -318,5 +361,5 @@ You need muscles.
 To build muscles, you need to do the drills.  
 {% endhint %}
 
-
+![](../.gitbook/assets/image%20%2826%29.png)
 

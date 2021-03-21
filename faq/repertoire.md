@@ -2,7 +2,7 @@
 
 ## How long should it take to learn a piece?
 
-### 1. Don't set an expectation
+### 1. Don't set an expectation 
 
 **Time to master pieces can vary greatly**  
 I took an entire year to learn and master 3-5 repertoire pieces each year from 2000 to 2007.  
@@ -64,11 +64,54 @@ After all is fixed, you can make the melody sing, tell a story, feel an emotion 
 You are training for the higher purpose - to play with passion.
 {% endhint %}
 
+## Introducing Metronome to Repertoire
 
+> "Sometimes when I try to play a new piece, it is very difficult to play with metronome, even at a low speed. Should I try harder to be able to use it at the beginning or should I add the metronome after I gets some level of mastery in the piece?"
 
+Get fluency hands separately - 🗣️ Counting out loud in the meantime
 
+Then introduce the metronome at a slow speed as soon as you can
 
-## I'm stuck on a part of Grande Sonate Pathetique
+Like playing a video game...gotta learn the controls in the tutorial, then you can play the game at an easy speed. 
+
+Playing with the metronome is like Flappy Bird 🐦
+
+## **Pensees Du Soir by Michael Aaron**
+
+### Difficulty with Fingering
+
+![](../.gitbook/assets/image%20%2823%29.png)
+
+**Right Hand \(RH\)**  
+This fingering is helping you practice switching fingers. 
+
+1. Go slow
+2. Play one at a time
+3. Play hands together at the same time
+
+**Left Hand \(LH\)**  
+Those notes are played together. See how the E is in common...  
+The thumb stays there. See the fingering?
+
+| Notes | Fingering |
+| :--- | :--- |
+| C E | 3 1 |
+| B E | 4 1 |
+| A E | 5 1 |
+
+![This is where your left hand should be](../.gitbook/assets/image%20%2821%29.png)
+
+![This is where your right hand should be](../.gitbook/assets/image%20%2827%29.png)
+
+## **Is it normal to fear Liszt or Chopin?** 
+
+**Probably / Probably Not**
+
+Do you surround yourself with people who fear it or people who don't? 
+
+That's the real question ❓😉
+
+## Stuck on a part of Grande Sonate Pathetique
 
 {% hint style="success" %}
 **Solution:** Check your notes and rhythm
@@ -89,6 +132,16 @@ You are training for the higher purpose - to play with passion.
 **Craft first.** We must bake the cake before the icing.
 {% endhint %}
 
+## Want to learn Blues Riffs?
+
+### Start here
+
+C Blues Scale/Riff Example - [**Sheet Music \(Click Here\)** ](https://drive.google.com/file/d/1KELy3pWoPo2pBIz1mV5kGXkSagUtbIHC/view?usp=sharing)\*\*\*\*
+
+{% embed url="https://drive.google.com/file/d/1c3g0O\_u9cVrx9dmmemrm24au-00\_m\_A6/view?usp=sharing" %}
+
+
+
 ### Counting in Grande Sonate Pathetique
 
 {% embed url="https://drive.google.com/file/d/1BqphCIbzEdS5XaRyNrxwjHu66xRX0yVM/view?usp=sharing" caption="" %}
@@ -101,11 +154,50 @@ You are training for the higher purpose - to play with passion.
 
 {% embed url="https://drive.google.com/file/d/1KIyXkgCnDM61bmaByMPo6L5\_JLnlg8mF/view?usp=sharing" %}
 
+## Mariage D'amour Tutorial
+
+{% embed url="https://youtu.be/xR-hA57K6aQ" %}
 
 
-## **Rhythm in Pirates of the Caribbean**
+
+## Pirates of the Caribbean \(arranged by Jarrod Radnich\)
+
+### **Rhythm in Pirates**
 
 {% embed url="https://drive.google.com/file/d/165MjmSxECyiA3tgNiqmK3o-a7KYGhGVN/view?usp=sharing" %}
+
+### Counting bars 19, 46 and 53 **in Pirates**
+
+![Bar 19](../.gitbook/assets/image%20%286%29.png)
+
+![Bar 46](../.gitbook/assets/image%20%288%29.png)
+
+![Bar 53](../.gitbook/assets/image%20%289%29.png)
+
+### Hand tension playing Pirates
+
+> "After 2 years learning Pirates of the Caribbean, the right hand is tightly clamped with a feeling of tension. Because of this, I cannot master the piece. What to do? I want to get rid of it an play freely."
+
+**It is like trying to lift a 315 lbs weight when your muscles can only lift 20 lbs.**   
+The tension is because your forearms don't yet have the muscular endurance.   
+I am 21 years in with 10 years of private lessons, and I had a challenge learning this piece.  
+I did scales, shords and arpeggios for 8 years with the metronome**.**
+
+**Below is the walk-through for Pirates, but you'll want to build your foundation - Build the muscles here every day.**
+
+{% page-ref page="../guides/basics/3-levels-of-technique-exercises.md" %}
+
+### **Full Tutorial - Pirates of the Caribbean** 
+
+{% embed url="https://youtu.be/Eg0DFFsRaZQ" %}
+
+\*\*\*\*
+
+## Fantaisie Impromptu
+
+### Polyrhythms in Fantaisie Impromptu
+
+{% embed url="https://youtu.be/fRLwCa6OBCg" %}
 
 ## Tips for River Flows In You
 
@@ -118,13 +210,7 @@ You are training for the higher purpose - to play with passion.
 
 **Also make sure to count out loud and use the metronome when you play**
 
-## Pirates of the Caribbean \(arranged by Jarrod Radnich\): How do you count bars 19, 46 and 53?
-
-![Bar 19](../.gitbook/assets/image%20%286%29.png)
-
-![Bar 46](../.gitbook/assets/image%20%288%29.png)
-
-![Bar 53](../.gitbook/assets/image%20%289%29.png)
+## 
 
 
 

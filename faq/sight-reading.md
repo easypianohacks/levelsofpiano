@@ -4,23 +4,31 @@
 
 ### 🤲 🎼 🧠 A pianist will do all 3
 
-**You will look at your hands, the sheet music, and from memory**  
+**You will look at your hands, the sheet music, and from memory**
+
 The times when we look at our hands and the sheet music are when we are learning, to check our placement, fingering, reaching to chords, low notes, and high notes.
 
-**If you want to improve your reading ability and familiarity with the keys, a good method is to stop looking at your hands and only focus on the sheet music**  
+**If you want to improve your reading ability and familiarity with the keys, a good method is to stop looking at your hands and only focus on the sheet music**
+
 You will be able to learn new sheet music easier because you won't be looking up and down as much - you will have a skill for playing without looking down at your hands.
 
 ##  **How do I identify the octave I am playing in Hanon?**
 
-**‌🧐If you are reading the music, you should be able to keep track of which note you are on.**
+**‌🧐**If you are reading the music, you should be able to keep track of which note you are on.
 
-{% hint style="success" %}
-### **Octave Exercise**
+### Octave Exercise**:**
 
-**Familiarize yourself with the octaves for each note. Find middle C, go up an octave to the next C, and then the next C above that.** 
-{% endhint %}
+Familiarize yourself with the octaves for each note. Find middle C, go up an octave to the next C, and then the next C above that.
 
-## Struggling with sight reading more than 3 notes per bar? 
+## Fingering is confusing! - Is this right?
+
+> "Is this supposed to be the same finger? I don't know if the writer pretended to write the wrong finger number or if it's just wrong."
+
+![](../.gitbook/assets/image%20%2825%29.png)
+
+**It's intentional...you're meant to practice switching**
+
+## Struggling with reading &gt;3 notes per bar? 
 
 Are you frustrated because it is difficult to learn new pieces, even below your technique level?
 
@@ -34,13 +42,23 @@ Are you frustrated because it is difficult to learn new pieces, even below your 
 
 ## I can't read sheet music. Should I learn?
 
-I can read notes but when I play I only use memory
+> "I can read notes but when I play I only use memory."
+>
+> "I practice scales, arpeggios, and Hanon, and I study melodies. In some sheet music, I do really well, and some I lose control."
+>
+> "I don't know what finger placement to use. Since I self-taught, I never really jumped into correct fingering. I didn't think you could have note blindness after spending forever reading sheet music."
 
-{% hint style="danger" %}
- can read notes but when I play I only use memory
-{% endhint %}
+**Sight Reading means you can play while you read with no preparation.** 
 
-Learning piano without reading notes
+That's why we read new things every day, every week. 
+
+Over time, you will be able to read any sheet music, no problem. 
+
+The more new music you read, the faster you become. 
+
+### **Note Blindness**
+
+{% embed url="https://easypianohacks.com/note-blindness/" %}
 
 ## How can I learn to play new styles **and** freestyle?
 
