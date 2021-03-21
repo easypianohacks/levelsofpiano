@@ -309,7 +309,11 @@ Practice slow and accurate for 5 - 10 reps, then fast for 1 rep to test the resu
 
 {% embed url="https://drive.google.com/file/d/19jAWqcuoyqPse2\_yJ4ffNyICk0rK8mRw/view?usp=sharing" %}
 
+{% embed url="https://drive.google.com/file/d/1HMEDUbE15XeHTwaNtJME0sgSWPKqJrJg/view?usp=sharing" %}
 
+{% embed url="https://drive.google.com/file/d/1Jw40zlBk1h-dU9ojHZp2U9pf3rHYj5\_-/view?usp=sharing" %}
+
+{% embed url="https://drive.google.com/file/d/1lRZgPflIKowNbnoKM26lKjnm-zpQnz8o/view?usp=sharing" %}
 
 {% embed url="https://drive.google.com/file/d/1YGbaZsWO\_5rGlfFfEFewZ-dP0ffG7zfB/view?usp=sharing" %}
 
@@ -396,5 +400,5 @@ You need muscles.
 To build muscles, you need to do the drills.  
 {% endhint %}
 
-![](../.gitbook/assets/image%20%2829%29.png)
+![](../.gitbook/assets/image%20%2830%29.png)
 

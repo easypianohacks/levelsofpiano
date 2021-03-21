@@ -65,6 +65,8 @@ Varied audience, and you get multiple performances in one go
 
 > 🥴 **I get performance anxiety when I'm just recording myself for other people.** It's super frustrating to **mess up way more when I record myself** than I ever do during practice.
 
+![](../.gitbook/assets/image%20%2827%29.png)
+
 ### No Expectations
 
 **The best way to get out of this is not to have any expectation**   

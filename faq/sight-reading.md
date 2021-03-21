@@ -115,7 +115,7 @@ Rest on the 2nd beat
 
 > "Is this supposed to be the same finger? I don't know if the writer pretended to write the wrong finger number or if it's just wrong."
 
-![](../.gitbook/assets/image%20%2827%29.png)
+![](../.gitbook/assets/image%20%2828%29.png)
 
 **It's intentional...you're meant to practice switching**
 

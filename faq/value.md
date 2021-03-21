@@ -1,6 +1,6 @@
 # 💸 Free Stuff
 
-## Where can I download sheet music?
+## Sheet Music
 
 1. [**Musescore.com** ](https://Musescore.com%20)is good 
 
@@ -9,6 +9,16 @@
 3. [**Music-notes.com** ](https://music-notes.com)\*\*\*\*
 
 4. Otherwise, just search the title and add "pdf" at the end of your search
+
+## Drills and Exercises
+
+
+
+## Metronome App
+
+{% embed url="https://www.soundbrenner.com/the-metronome-app" %}
+
+
 
 
 

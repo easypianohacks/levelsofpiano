@@ -21,7 +21,8 @@
 * [🥁 Rhythm](faq/rhythm.md)
 * [💸 Free Stuff](faq/value.md)
 * [🎩 Performing](faq/performing.md)
-* [🧠 Mindset](faq/mindset.md)
+* [🧠 Mindset](faq/mindset/README.md)
+  * [Untitled](faq/mindset/untitled.md)
 
 ## Levels
 

@@ -101,7 +101,7 @@ The thumb stays there. See the fingering?
 
 ![This is where your left hand should be](../.gitbook/assets/image%20%2822%29.png)
 
-![This is where your right hand should be](../.gitbook/assets/image%20%2831%29.png)
+![This is where your right hand should be](../.gitbook/assets/image%20%2832%29.png)
 
 ## **Minuet in A**
 
@@ -242,9 +242,9 @@ I did scales, shords and arpeggios for 8 years with the metronome**.**
 
 {% embed url="https://drive.google.com/file/d/1owkCUc3rzFnIU-Jz2Md4DrLyrm5OSeyD/view?usp=sharing" %}
 
-![](../.gitbook/assets/image%20%2830%29.png)
+![](../.gitbook/assets/image%20%2831%29.png)
 
-![](../.gitbook/assets/image%20%2828%29.png)
+![](../.gitbook/assets/image%20%2829%29.png)
 
 
 
