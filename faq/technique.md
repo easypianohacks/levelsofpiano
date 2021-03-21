@@ -94,21 +94,17 @@ Remember to use the metronome and count!
 
 ## My playing isn't fluid. It sounds choppy.
 
-{% hint style="danger" %}
-As you can see I’m missing some notes and my playing is still not that fluid. 
-
-I'm going somewhat fast here for what I should be playing, but it shows what I mean\) 
-
-Could you please give me some advice on how to approach this piece more efficiently?
-{% endhint %}
+> "As you can see I’m missing some notes and my playing is still not that fluid.   
+> I'm going somewhat fast here for what I should be playing, but it shows what I mean.  
+> Could you please give me some advice on how to approach this piece more efficiently?"
 
 {% hint style="success" %}
- **Solution:** Isolate & Repeat \(Repetition Game\)
+ **Solution: 🔁** Isolate & Repeat \(Repetition Game\)
 {% endhint %}
 
 ### 1. Hone in on parts that aren't fluid
 
-**Don't practice the entire piece from start to finish.**   
+**🛑 Don't practice the entire piece from start to finish.**   
 Find that 1 bar you keep screwing up on, master it by playing 10 times in a row...
 
 Then, this is the important part that separates good from excellent...**⤵️**
@@ -125,18 +121,15 @@ Once perfect, then...⤵️
 If you need to find where you are weak, play the piece faster than usual... and the parts you screw up you should highlight and apply the methods above.
 
 {% hint style="info" %}
-This one is a mental attitude shift
+**🧠 This one is a mental attitude shift**
 
-**Patience**
-
+**Patience**  
 You must do the steps in method 1 until the entire piece is perfect
 
-**That is the game**
-
+**That is the game**  
 If there are any spots you can't do 10 times in a row correctly in time with the metronome + counting, you have weak spots.
 
-**Weak spots need to be mastered**
-
+**Weak spots need to be mastered**  
 Once all weak spots are gone, then you will have mastery, and win the game
 {% endhint %}
 
