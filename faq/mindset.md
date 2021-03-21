@@ -1,17 +1,5 @@
 # 🧠 Mindset
 
-## Am I too old to learn piano?
-
-People say that you have to start learning at an early age to become good at piano. **Am I too late?**
-
-### **Never too late!** 
-
-**My oldest students are retired...**My mom started last year and learned Fur Elise.
-
-{% hint style="success" %}
-**When people say YOU can't, it means they think THEY can't.** They're just projecting what they believe of themselves onto you. 
-{% endhint %}
-
 ## I'm in a rut...I've stopped progressing
 
 > "About 2 months ago, I started to practice the first one minute of a piece, but I still cannot play it clearly.  
@@ -65,6 +53,38 @@ You can try to fix it yourself, or you can have a piano teacher tell you exactly
 
 🎦[**Send us a video of the specific problem**](https://www.videoask.com/fmrqcvw9w)\*\*\*\*
 {% endhint %}
+
+## Am I too old to learn piano?
+
+People say that you have to start learning at an early age to become good at piano. **Am I too late?**
+
+### **Never too late!** 
+
+**My oldest students are retired...**My mom started last year and learned Fur Elise.
+
+{% hint style="success" %}
+**When people say YOU can't, it means they think THEY can't.** They're just projecting what they believe of themselves onto you. 
+{% endhint %}
+
+## Is 3.5 years too young to learn?
+
+> "My son is 3.5 years old. Every teacher I find says it's too early to learn and won't start until age 6. 
+>
+> He is really passionate about playing with "fun." Now he knows where the notes are and can play by colors...like orange stands for C."
+
+**If he likes it, he can definitely start on his own**  
+I started when I was 3.5 as well
+
+**It's just about attention span**  
+Should be just sessions to hone his interest without creating any expectation of results
+
+The beginner book I used was [**Faber & Faber: Piano Adventures**](https://www.amazon.com/gp/product/1616770759/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=lucienlu03-20&linkId=1027edd875f1ad6ff535ab417607e915&language=en_US)\*\*\*\*
+
+{% embed url="https://youtu.be/5JtguHoRWlE" %}
+
+
+
+
 
 ## How do I play perfectly and build confidence?
 
@@ -184,7 +204,7 @@ The goals should NOT be "complete this piece by January 1, 2020" or "make no mis
 
 ## What motivates you to keep going?
 
-**I teach now and play what I love.** 
+### **I teach now and play what I love**
 
 The chills that run up and down my spine when I really feel the emotion of a piece motivate me now, but it took going through depression, anger, and pride to get there.
 
@@ -235,7 +255,7 @@ When you are not better or worse than anyone, you can then find what you love to
 
 
 
-## My parents are skeptical of my dream is to study music
+## My parents are skeptical of my dream to study music
 
 > I'm 15 and realized that I want to study music. Iknow conservatory is good, but hard, so I probably want to study there. I have told this to my parents and teacher, and they seem skeptical and basically think I won't get there.   
 > That worries me as it's my dream to study music.
@@ -285,7 +305,7 @@ Everyone's dreams and capabilities are different, but the one thing we can all s
 Try things that we believe will make us happy...whatever we feel it is.  
 What anyone else thinks or says is irrelevant to your opinion.
 
-**Your opinion for what you should do comes first. Practice this, and you will be in charge of your own life. Follow @garyvee for more. He helped me navigate this when I went through it.**
+**Your opinion for what you should do comes first. Practice this, and you will be in charge of your own life. Follow** [**@garyvee** ](https://instagram.com/garyvee)**for more. He helped me navigate this when I went through it.**
 
 ## \*\*\*\*
 
