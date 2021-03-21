@@ -162,9 +162,29 @@ You're just going there to show them how well you play. Their opinion doesn't ma
 
 ## What if you feel like quitting?
 
-### What motivates me
+### "At points, the stress makes me cry."
 
-I teach now and play what I love. 
+### 1. Take a break
+
+### 2. Have no expectation
+
+You are what you are right now  
+You can only improve by doing more practice
+
+### 3. Be unemotional about mistakes
+
+Don't compare yourself to others or even yourself  
+Treat it like a ritual, something you do every day
+
+{% hint style="success" %}
+The goals you set should be on the \# of minimum repetitions you do every day
+
+The goals should NOT be "complete this piece by January 1, 2020" or "make no mistakes the nest time I try playing it"
+{% endhint %}
+
+## What motivates you to keep going?
+
+**I teach now and play what I love.** 
 
 The chills that run up and down my spine when I really feel the emotion of a piece motivate me now, but it took going through depression, anger, and pride to get there.
 

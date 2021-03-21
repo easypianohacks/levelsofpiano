@@ -6,7 +6,7 @@
 
 **Time to master pieces can vary greatly**  
 I took an entire year to learn and master 3-5 repertoire pieces each year from 2000 to 2007.  
-From 2007 to 2009, I took 2 years to master Fantasie Impromptu, Moonlight \(all 3 mvts.\), and many more.
+From 2007 to 2009, I took 2 years to master Fantaisie Impromptu, Moonlight \(all 3 mvts.\), and many more.
 
 **I never counted the days**  
 I just made incremental improvements every day and NEVER expected anything.
@@ -80,7 +80,7 @@ Playing with the metronome is like Flappy Bird 🐦
 
 ### Difficulty with Fingering
 
-![](../.gitbook/assets/image%20%2824%29.png)
+![](../.gitbook/assets/image%20%2825%29.png)
 
 **Right Hand \(RH\)**  
 This fingering is helping you practice switching fingers. 
@@ -101,7 +101,7 @@ The thumb stays there. See the fingering?
 
 ![This is where your left hand should be](../.gitbook/assets/image%20%2822%29.png)
 
-![This is where your right hand should be](../.gitbook/assets/image%20%2828%29.png)
+![This is where your right hand should be](../.gitbook/assets/image%20%2831%29.png)
 
 ## **Minuet in A**
 
@@ -222,6 +222,31 @@ I did scales, shords and arpeggios for 8 years with the metronome**.**
 ### Polyrhythms in Fantaisie Impromptu
 
 {% embed url="https://youtu.be/fRLwCa6OBCg" %}
+
+## Adding Crispness and Clarity
+
+> "Fantaisie ****Impromptu is definitely a challenge for me, but I’m proud of myself for being able to play what I can and even in the “right” tempo. **All because I took your advice and actually for once tried playing it slowly literally a million times. Playing the same segment over and over again. First the right hand, then the left, then combined.**"
+
+**Overall Fluency in Videos 80-90%** 
+
+**Nice work!**   
+**Got the polyrhythms down** 👌
+
+1. More accuracy and clarity in top notes
+2. Don't rush the transition part leading to the chromatic scale, keep the tempo steady \(I'm guilty of this sometimes\)
+3. Hear the bass line...Some wrong notes to fix
+4. Savor the moment at the top of the chromatic scale G\#
+5. Savor the moment at the bottom Db leading to the arpeggios
+
+{% embed url="https://drive.google.com/file/d/1VMgw8jOuQLPRf7ICSKjG6RrFXOwaAWxh/view?usp=sharing" %}
+
+{% embed url="https://drive.google.com/file/d/1owkCUc3rzFnIU-Jz2Md4DrLyrm5OSeyD/view?usp=sharing" %}
+
+![](../.gitbook/assets/image%20%2830%29.png)
+
+![](../.gitbook/assets/image%20%2828%29.png)
+
+
 
 ## Tips for River Flows In You
 

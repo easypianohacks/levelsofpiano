@@ -143,6 +143,8 @@ There's a difference between strain and muscle soreness.
 
 This is when you have bad posture, or incorrect hand form. Wrists should be level, and fingers should be curved.
 
+{% embed url="https://drive.google.com/file/d/1IFR9v9Nyhlb\_1eQieuYgFhqUv1t1BheQ/view?usp=sharing" %}
+
 ### 2. 💪 Muscular Endurance
 
 This is the same soreness you feel when you lift a heavy weight at the gym, or run for a long time.
@@ -154,6 +156,20 @@ Just like working out in the gym, or running outside!
 {% hint style="success" %}
 **Hard time relaxing wrist and fingers when playing octaves?** Repeated broken octaves can get tiring. Once you hit your limit, just pause and shake it out. Rest. Don't keep pushing it. You'll play more accurately if you rest and recharge.
 {% endhint %}
+
+### Pain/Weakness from Poor Form
+
+**Slow down and restart with good form**
+
+If this habit is not fixed, it will prevent building strength and agility
+
+If you play faster than you are able with correct form, you will feel pain and inability to relax your fingers 
+
+Like trying to lift 315 lbs when you can only do 50 lbs with correct form
+
+{% embed url="https://drive.google.com/file/d/1aKJjjolyX1sCMdnecV9vrHWGLBn63\_zw/view?usp=sharing" %}
+
+{% embed url="https://drive.google.com/file/d/1nK\_YfiltxPp4dTd0AhapidLKmcM90-E8/view?usp=sharing" %}
 
 ## How to play scales correctly with metronome
 
@@ -354,5 +370,5 @@ You need muscles.
 To build muscles, you need to do the drills.  
 {% endhint %}
 
-![](../.gitbook/assets/image%20%2827%29.png)
+![](../.gitbook/assets/image%20%2829%29.png)
 

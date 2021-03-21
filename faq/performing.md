@@ -43,13 +43,23 @@ Read the full guide here:
 
 {% page-ref page="../how-to-be-more-confident-and-overcome-performance-anxiety.md" %}
 
-## How can I practice in public when public gatherings are not allowed/available?
+## Public gatherings are not allowed.
 
-### Practice on Omegle
+### How can I practice in public?
 
+**Practice on Omegle**  
 Varied audience, and you get multiple performances in one go
 
 {% embed url="https://youtu.be/B3Qomc81wt8" %}
+
+## 5 Months Performing Outside 3 hrs Daily
+
+### @vitality\_vitaa Performing Outside
+
+> "I performed from July to November outside 3 hours everyday.   
+> And I gained the most important thing...confidence"
+
+{% embed url="https://drive.google.com/file/d/1psYDBqEUmKLd\_yEPeIvYgVd8JqutvuTS/view?usp=sharing" %}
 
 ## 😓I struggle when recording myself and playing in front of people
 
@@ -134,7 +144,7 @@ Try clapping while you walk in public. People will look at you...but only for 5 
 
 Post a video with mistakes. I make so many mistakes when I play, even in my videos, and people don't care. The rare ones that hate on you vocally actually hate themselves. Forgive them, for they are in pain. 
 
-### **3. The Truth is Practice.** 
+### **3. The Truth is Practice**
 
 You must practice performing in public more often. It's actually hard to get and hold someone's attention. People really don't care about you. They are too busy looking at their phones.
 
@@ -149,15 +159,13 @@ Record yourself, and you will inspire others living in fear. ****
 
 Sure, nobody wants to say they want more likes, views, followers...
 
-But if you really want to understand why some people get more attention..
+But if you really want to understand why some people get more attention...
 
 If you have ever had content blow up even though you put in very little effort...
 
 This is the journey of how I got to 100k followers on TikTok.
 
 {% embed url="https://youtu.be/rxnULod5rAA" %}
-
-
 
 
 

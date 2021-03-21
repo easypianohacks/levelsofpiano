@@ -46,14 +46,12 @@ If you can remember the names of 30 friends and match their names to their faces
 
 ## What is music theory?
 
-Music theory is learning the language of music.
+Music theory is learning the language and possibilities of music.
 
 ### Is it difficult?
 
 **7 letters in the musical alphabet vs. 26 letters in the English alphabet**  
 Learning how to read the English language is much harder than learning the language of music. 
-
-
 
 ## Struggling with reading &gt;3 notes per bar? 
 
@@ -101,11 +99,23 @@ You will be able to learn new sheet music easier because you won't be looking up
 
 Familiarize yourself with the octaves for each note. Find middle C, go up an octave to the next C, and then the next C above that.
 
+## Rests in the middle of 1/8 notes?
+
+It's 3 beats total in 6/8 or 12/8 time
+
+You have groups of 3 eighth notes
+
+The eighth notes could have been written without the bracket above, but it's grouped like that to show groups of 3
+
+Rest on the 2nd beat
+
+![](../.gitbook/assets/image%20%2824%29.png)
+
 ## This fingering is confusing! Is this right?
 
 > "Is this supposed to be the same finger? I don't know if the writer pretended to write the wrong finger number or if it's just wrong."
 
-![](../.gitbook/assets/image%20%2826%29.png)
+![](../.gitbook/assets/image%20%2827%29.png)
 
 **It's intentional...you're meant to practice switching**
 
