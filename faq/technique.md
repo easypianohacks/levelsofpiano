@@ -354,5 +354,5 @@ You need muscles.
 To build muscles, you need to do the drills.  
 {% endhint %}
 
-![](../.gitbook/assets/image%20%2826%29.png)
+![](../.gitbook/assets/image%20%2827%29.png)
 

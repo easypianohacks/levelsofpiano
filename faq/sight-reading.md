@@ -10,13 +10,15 @@
 >
 > "I'm a pop player, and I just play with a band, or a singer...never alone or with an orchestra. Do I still need to learn how to read sheet music?"
 
-### Sight Reading + Ear Training + Memory = Pro
+### Sight Reading + Ear Training = Pro
 
 Asking whether you need to learn to play sheet music if you can already play by ear is like someone who gives speeches asking if they need to learn how to read. 
 
 Stevie Wonder and Ray Charles didn't read sheet music because they were blind. So, you don't need to...
 
-But if you can do it, you probably should.
+**But if you can do it, you probably should.**
+
+You can just learn to play chords, but you won't know what you are playing.  
 
 To become a GOOD pianist for a band or a singer, learn to read music. Play in a band. 
 
@@ -24,7 +26,7 @@ You get better by practicing the thing you want to do.
 
 ### **Sight Reading with No Preparation**
 
-We do this by reading new music every day, every week. 
+We accomplish this by reading new music every day, every week. 
 
 Over time, you will be able to read any sheet music, no problem. 
 
@@ -41,6 +43,17 @@ Watch the video above, and read this eBook with flash cards and lessons to help 
 If you can remember the names of 30 friends and match their names to their faces, you can remember the 30 most common notes on the staff
 
 {% embed url="https://courses.easypianohacks.com/courses/free-sight-reading-workbook-200-exercises" %}
+
+## What is music theory?
+
+Music theory is learning the language of music.
+
+### Is it difficult?
+
+**7 letters in the musical alphabet vs. 26 letters in the English alphabet**  
+Learning how to read the English language is much harder than learning the language of music. 
+
+
 
 ## Struggling with reading &gt;3 notes per bar? 
 
@@ -80,7 +93,7 @@ The times when we look at our hands and the sheet music are when we are learning
 
 **If you want to improve your reading ability and familiarity with the keys, a good method is to stop looking at your hands and only focus on the sheet music**
 
-You will be able to learn new sheet music easier because you won't be looking up and down as much - you will have a skill for playing without looking down at your hands.**How do I identify the octave I am playing in Hanon?**
+You will be able to learn new sheet music easier because you won't be looking up and down as much - you will have a skill for playing without looking down at your hands. **How do I identify the octave I am playing in Hanon?**
 
 **‌🧐**If you are reading the music, you should be able to keep track of which note you are on.
 
@@ -88,11 +101,11 @@ You will be able to learn new sheet music easier because you won't be looking up
 
 Familiarize yourself with the octaves for each note. Find middle C, go up an octave to the next C, and then the next C above that.
 
-## This fingering is confusing! - Is this right?
+## This fingering is confusing! Is this right?
 
 > "Is this supposed to be the same finger? I don't know if the writer pretended to write the wrong finger number or if it's just wrong."
 
-![](../.gitbook/assets/image%20%2825%29.png)
+![](../.gitbook/assets/image%20%2826%29.png)
 
 **It's intentional...you're meant to practice switching**
 

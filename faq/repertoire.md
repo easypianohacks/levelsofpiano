@@ -80,7 +80,7 @@ Playing with the metronome is like Flappy Bird 🐦
 
 ### Difficulty with Fingering
 
-![](../.gitbook/assets/image%20%2823%29.png)
+![](../.gitbook/assets/image%20%2824%29.png)
 
 **Right Hand \(RH\)**  
 This fingering is helping you practice switching fingers. 
@@ -99,9 +99,33 @@ The thumb stays there. See the fingering?
 | B E | 4 1 |
 | A E | 5 1 |
 
-![This is where your left hand should be](../.gitbook/assets/image%20%2821%29.png)
+![This is where your left hand should be](../.gitbook/assets/image%20%2822%29.png)
 
-![This is where your right hand should be](../.gitbook/assets/image%20%2827%29.png)
+![This is where your right hand should be](../.gitbook/assets/image%20%2828%29.png)
+
+## **Minuet in A**
+
+### **5 ways to make this sound better**
+
+{% embed url="https://drive.google.com/file/d/1Mfg4ANMu5tnaP5Md40w0DXER5c2LHf0Y/view?usp=sharing" %}
+
+### **1. Fix Fingering**
+
+### **2. Follow Articulation**
+
+Pay attention to staccatos and phrases - when to lift, when to jump
+
+### 3. Slow Down
+
+Go as slow as you need to play without breaks. This is a decent tempo, but there are pauses and hesitations on tricky spots
+
+### 4. Practice the Tricky Spots
+
+Don't practice from start to finish. Only work on the trouble areas. If you don't know wherer they are, stop when you hesitate, and circle them on the sheets
+
+### 5. Count When You Play \(🗣️ 1+2+3+\)
+
+![](../.gitbook/assets/image%20%2821%29.png)
 
 ## **Is it normal to fear Liszt or Chopin?** 
 
