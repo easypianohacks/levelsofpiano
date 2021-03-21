@@ -2,7 +2,6 @@
 
 * [👋 Welcome](README.md)
 * [⚡ Quick Start!](quick-start.md)
-* [Updates](updates.md)
 
 ## GET STARTED
 
