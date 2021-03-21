@@ -42,6 +42,20 @@ You will match because our voices are trained more than our fingers, so we must 
 
 {% embed url="https://drive.google.com/file/d/1GIZh2Ife6cGqBphSdh5tcktbhjSIn6vU/view?usp=sharing" %}
 
+## How do I count this polyrhythm?!
+
+{% embed url="https://drive.google.com/file/d/1OE-JSHTAsEDWlrcYyIBAKXHT9KkOO2b-/view?usp=sharing" %}
+
+{% embed url="https://drive.google.com/file/d/1RB7LxKo2tKgtJ\_nKGoJYYT\_UiUqBlHOg/view?usp=sharing" %}
+
+{% embed url="https://drive.google.com/file/d/12l4Fqnh7jH-lyvsdvaTJrKCxW9\_0FZbl/view?usp=sharing" %}
+
+
+
+{% embed url="https://drive.google.com/file/d/1iJ0ionZ73\_nG9uEIRaXU4XxHhH9Guv2E/view?usp=sharing" %}
+
+
+
 ## How to play Alberti Bass fast and comfortably
 
 ### **1. Perfect the form slowly and firmly**
