@@ -12,7 +12,7 @@ Playing both hands is just like reading English...the more books you read, the b
 
 That's all it is. 
 
-### 1. Play [**Czerny Opus 299**](http://imslp.simssa.ca/files/imglnks/usimg/1/10/IMSLP86518-PMLP177048-CZERNY_Practical_Method_for_Beginners_on_the_Pianoforte_Op._599.pdf) ****
+### 1. Play [**Czerny Opus 599**](http://imslp.simssa.ca/files/imglnks/usimg/1/10/IMSLP86518-PMLP177048-CZERNY_Practical_Method_for_Beginners_on_the_Pianoforte_Op._599.pdf) ****
 
 **Play every day...one new exercise per week**  
 They get progressively more difficult as your skill for reading improves. 
