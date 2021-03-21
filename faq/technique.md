@@ -41,6 +41,12 @@ Remember to use the metronome and count!
 
 {% embed url="https://youtu.be/YrqIHhgKno0" %}
 
+## What does "fingers collapsing" mean?
+
+{% embed url="https://drive.google.com/file/d/1DlWyhhz1VeJXJ0CoYkdIZaGG7uEBAb0d/view?usp=sharing" %}
+
+{% embed url="https://drive.google.com/file/d/1nSeDZVbXfVNMbzCU7gUYtcPqkblwb1ox/view?usp=sharing" %}
+
 ## HOW LONG and WHAT should I practice?
 
 {% hint style="success" %}
@@ -200,6 +206,26 @@ My teacher told me to give up and just play the way I'm able to play.
 
 📽️ [Send us videos once you learn it](https://www.videoask.com/fmrqcvw9w) 
 {% endhint %}
+
+## Sitting position when reaching for notes
+
+> "The part I am playing takes place on the lower half of the keyboard. I tend to just stay seated by the pedals and sway in the direction I'm playing, but I'm not sure if that is how one should play.
+>
+> This makes me bend my hand lower than my fingers in the end, and I believe that is causing me issues."
+
+### Turning
+
+If it is just a small adjustment, turn or bend
+
+On Moonlight Sonata 3rd Mvt, I bend to the left many times
+
+### Shifting
+
+You can move around while on the bench
+
+No need to stay in a specific spot
+
+Pedal on the right foot is something to get used to with practice...should only have your toes on the pedal
 
 ## 🦾What is arm weight?
 
