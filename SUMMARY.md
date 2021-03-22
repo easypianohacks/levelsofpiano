@@ -38,5 +38,3 @@
 
 ## Stories
 
-* [Untitled](stories/untitled.md)
-
