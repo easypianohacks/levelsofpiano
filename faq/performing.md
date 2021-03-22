@@ -84,54 +84,31 @@ In order to get good at playing in front of other people , we must do practice i
 80% in realistic conditions = We are not as fluid as we think
 {% endhint %}
 
-## Piano vs. Keyboard
+## Finding "The Flow"
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left"><b>Acoustical Piano</b>
-      </th>
-      <th style="text-align:left"><b>Electric Keyboard</b>
-      </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">Beautiful sound and aesthetics</td>
-      <td style="text-align:left">
-        <p>Sound and aesthetics vary widely</p>
-        <p></p>
-        <p>Number of keys vary</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">High-Maintenance</td>
-      <td style="text-align:left">Low- to No-Maintenance</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><b>Resistance</b> from pressing keys makes it easier to <b>build muscle <br />and agility</b> to
-        play on any type of piano</td>
-      <td style="text-align:left">
-        <p>Most electronic keyboards do not provide much resistance when pressing
-          keys
-          <br />
-          <br /><b>Weighted Action</b>
-          <br />Additional resistance similar to piano keys but no hammer action</p>
-        <p></p>
-        <p><b>High-quality digital options: <br />Roland FP-10 or  FP-30</b>
-          <br />
-          <br /><b>Hybrid and Silent</b> options provide more resistance
-          <br />
-          <br /><b>Hybrid</b> (Kawai CA99, Kawai Mp11se)
-          <br />Digital instrument with acoustic features
-          <br />(real piano keys, hammer action, no strings)</p>
-        <p>
-          <br /><b>Silent</b> - Acoustic instrument with digital features
-          <br />(acoustic and electric soundbank)</p>
-      </td>
-    </tr>
-  </tbody>
-</table>
+> "The best thing happened to me today...I was in a very famous streamer's Discord which is anime related, and I started playing in the voice chat. What started as 3 people ended up with the whole voice chat having 37 people in it listening to me playing piano, and the streamer was there as well which she rarely goes in voice chats. 
+>
+> I got very nervous, but wanna know what the crazy thing is? While I was nervous, I actually played better that I would when I'm not nervous. It was weird, but I actually hit every arpeggio well in every piece I played. I hit every note. Songs I would usually mess up on, I actually played them fluently.
+>
+> My hands just felt so relaxed at the moment, and I even improvised a little while playing. It was definitely the best feeling I've ever had. I played for 2 hours straight.
+>
+> I want to know how to do that again."
+
+**It sounds like you were in "The Flow"**
+
+Finding more opportunities to perform and listen to the melody when you play, with nothing else in your mind. 
+
+Feel an emotion
+
+Copying the motions is the gateway to experiencing it yourself
+
+Believing = Experiencing
+
+That's what allows you to elevate
+
+That's what keeps the depression away
+
+**You will find confidence in your playing and lightness in your life if you do it more**
 
 ## 💡How can I learn to improvise?
 
@@ -172,7 +149,7 @@ You speak with your fingers, and you learn with your ear.
 🎵Notes = Letters \| 🎹Chords = Words \| 🎶Melodies = Sentences \| 🎼Pieces = Essays
 {% endhint %}
 
-### Improvosation 101
+### Improvisation 101
 
 {% embed url="https://drive.google.com/file/d/1\_jDJrUJxkD6atWfJqx4gwvYpuPdLlYIY/view?usp=sharing" %}
 
@@ -191,6 +168,8 @@ You speak with your fingers, and you learn with your ear.
 
 
 ## Sometimes I completely **blank and** forget the notes during a concert or recital!
+
+![](../.gitbook/assets/image%20%2837%29.png)
 
 ### The Quick Fix - **Memorize the ending**
 

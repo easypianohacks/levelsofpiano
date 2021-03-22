@@ -26,6 +26,8 @@ Watch one of my students learn it in 15 minutes
 
 ### Do they make a difference?
 
+See/hear for yourself...
+
 ### Before and After 
 
 {% embed url="https://drive.google.com/file/d/16139wMTWfBD8AH-C2UHFwR-yYXl\_1pGl/view?usp=sharing" caption="BEFORE: Uneven rhythm \| No counting \| Weak fingers \| Frustration" %}
@@ -34,24 +36,7 @@ Watch one of my students learn it in 15 minutes
 
 {% embed url="https://drive.google.com/file/d/1VYLRdg52T6rMQP0ADZWT6E0dr08Mqp-1/view?usp=sharing" caption="1 Month Later: Even playing \| Stronger fingers \| Faster and faster every day" %}
 
-### Good Metronome Practice
-
-{% embed url="https://drive.google.com/file/d/1iyROwNmBm2nrCFGBTGkA3lS-jDrrQQTp/view?usp=sharing" %}
-
-{% embed url="https://drive.google.com/file/d/1jomnHK5Y0VhT43SSy0SHvGDVLJ5dKp9S/view?usp=sharing" %}
-
-### When to Stop Using Metronome 
-
-**Metronome for LIFE**
-
-You develop a better internal metronome as you use it more  
-I still use it
-
-**Like how long one is dependent on a ruler...same thing**
-
-### Metronome at Advanced Level 
-
-{% embed url="https://drive.google.com/file/d/1zfqobV0Sd-NiBpe-RYqCEKpvciaQtdp\_/view?usp=sharing" %}
+{% embed url="https://drive.google.com/file/d/1H5m0QdfwXvZvdYT5zyEep-toBFoMP3KF/view?usp=sharing" %}
 
 ## Struggling to match the metronome?
 
@@ -73,6 +58,25 @@ You will match because our voices are trained more than our fingers, so we must 
 
 {% embed url="https://drive.google.com/file/d/1GIZh2Ife6cGqBphSdh5tcktbhjSIn6vU/view?usp=sharing" %}
 
+### Good Metronome Practice
+
+{% embed url="https://drive.google.com/file/d/1iyROwNmBm2nrCFGBTGkA3lS-jDrrQQTp/view?usp=sharing" %}
+
+{% embed url="https://drive.google.com/file/d/1jomnHK5Y0VhT43SSy0SHvGDVLJ5dKp9S/view?usp=sharing" %}
+
+## When to Stop Using a Metronome 
+
+**Metronome for LIFE**
+
+You develop a better internal metronome as you use it more  
+I still use it
+
+**Like how long one is dependent on a ruler...same thing**
+
+### Metronome at Advanced Level 
+
+{% embed url="https://drive.google.com/file/d/1zfqobV0Sd-NiBpe-RYqCEKpvciaQtdp\_/view?usp=sharing" %}
+
 ## How do I count this polyrhythm?!
 
 {% embed url="https://drive.google.com/file/d/1OE-JSHTAsEDWlrcYyIBAKXHT9KkOO2b-/view?usp=sharing" %}
@@ -87,9 +91,9 @@ You will match because our voices are trained more than our fingers, so we must 
 
 ## Counting Sixteenth Notes
 
-![](../.gitbook/assets/image%20%2846%29.png)
+![](../.gitbook/assets/image%20%2848%29.png)
 
-![](../.gitbook/assets/image%20%2838%29.png)
+![](../.gitbook/assets/image%20%2839%29.png)
 
 ## Counting Tuplets
 
@@ -99,7 +103,7 @@ In this case...
 
 Triplet = 3 notes = 1 quarter note
 
-![](../.gitbook/assets/image%20%2842%29.png)
+![](../.gitbook/assets/image%20%2844%29.png)
 
 ### Sextuplets in Super Mario
 
@@ -109,13 +113,13 @@ Sextuplet = 6 beats = 1/8 note
 
 
 
-![](../.gitbook/assets/image%20%2847%29.png)
+![](../.gitbook/assets/image%20%2849%29.png)
 
 {% embed url="https://drive.google.com/file/d/1m2HjnwUR-bPZM1UawvZPpVVJnl67HV\_F/view?usp=sharing" %}
 
 ## Complicated Counting
 
-![](../.gitbook/assets/image%20%2839%29.png)
+![](../.gitbook/assets/image%20%2840%29.png)
 
 ![](../.gitbook/assets/image%20%2836%29.png)
 

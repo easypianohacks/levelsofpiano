@@ -21,6 +21,24 @@ They get progressively more difficult as your skill for reading improves.
 
 {% embed url="https://youtu.be/6\_dIVA3TOms" %}
 
+## Why are Curved Fingers Important?
+
+> "None of my teachers have ever told me to curve my fingers. Why does it matter?"
+
+1. **You can hurt yourself if you use the wrong form** 
+2. **When you run, you bend your knees** Curving your fingers gives you more power and control.  
+3. **Does a spider have curved legs or straight legs?** It allows you to move and jump faster.
+
+### What is "finger collapsing?"
+
+{% embed url="https://drive.google.com/file/d/1Yp9thk-oXPAQaSW1XTQt7h-nw7PnMSF1/view?usp=sharing" %}
+
+![](../.gitbook/assets/image%20%2845%29.png)
+
+{% embed url="https://drive.google.com/file/d/1DlWyhhz1VeJXJ0CoYkdIZaGG7uEBAb0d/view?usp=sharing" %}
+
+{% embed url="https://drive.google.com/file/d/1nSeDZVbXfVNMbzCU7gUYtcPqkblwb1ox/view?usp=sharing" %}
+
 ## How to FIX Pinky Collapsing
 
 ### 1. Build your strength using drills
@@ -41,17 +59,54 @@ Remember to use the metronome and count!
 
 {% embed url="https://youtu.be/YrqIHhgKno0" %}
 
-## What is "finger collapsing?"
+## Piano vs. Keyboard
 
-
-
-{% embed url="https://drive.google.com/file/d/1Yp9thk-oXPAQaSW1XTQt7h-nw7PnMSF1/view?usp=sharing" %}
-
-![](../.gitbook/assets/image%20%2843%29.png)
-
-{% embed url="https://drive.google.com/file/d/1DlWyhhz1VeJXJ0CoYkdIZaGG7uEBAb0d/view?usp=sharing" %}
-
-{% embed url="https://drive.google.com/file/d/1nSeDZVbXfVNMbzCU7gUYtcPqkblwb1ox/view?usp=sharing" %}
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"><b>Acoustical Piano</b>
+      </th>
+      <th style="text-align:left"><b>Electric Keyboard</b>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Beautiful sound and aesthetics</td>
+      <td style="text-align:left">
+        <p>Sound and aesthetics vary widely</p>
+        <p></p>
+        <p>Number of keys vary</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">High-Maintenance</td>
+      <td style="text-align:left">Low- to No-Maintenance</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Resistance</b> from pressing keys makes it easier to <b>build muscle <br />and agility</b> to
+        play on any type of piano</td>
+      <td style="text-align:left">
+        <p>Most electronic keyboards do not provide much resistance when pressing
+          keys
+          <br />
+          <br /><b>Weighted Action</b>
+          <br />Additional resistance similar to piano keys but no hammer action</p>
+        <p></p>
+        <p><b>High-quality digital options: <br />Roland FP-10 or  FP-30</b>
+          <br />
+          <br /><b>Hybrid and Silent</b> options provide more resistance
+          <br />
+          <br /><b>Hybrid</b> (Kawai CA99, Kawai Mp11se)
+          <br />Digital instrument with acoustic features
+          <br />(real piano keys, hammer action, no strings)</p>
+        <p>
+          <br /><b>Silent</b> - Acoustic instrument with digital features
+          <br />(acoustic and electric soundbank)</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## Practice: HOW LONG and WHAT?
 
@@ -224,9 +279,9 @@ Like trying to lift 315 lbs when you can only do 50 lbs with correct form
 ### **Solution:** Practice [**Hanon**](http://csokabeata.hu/Kottak/Gyakorlatok/Hanon%20-%20The%20Virtuoso%20Pianist.pdf) **Exercise 31** every day
 
 Small hands can often be reach an octave or a 9th with this exercise  
-Beyond this, there are exercises to help you jump.
+Beyond this, there are exercises to help you jump
 
-Small hands mean you can move faster.
+Small hands mean you can move faster, and you're more agile. Use it to your advantage 
 
 📽️ [Send us videos once you learn it](https://www.videoask.com/fmrqcvw9w) 
 {% endhint %}
@@ -346,8 +401,6 @@ Practice slow and accurate for 5 - 10 reps, then fast for 1 rep to test the resu
 {% embed url="https://drive.google.com/file/d/1YGbaZsWO\_5rGlfFfEFewZ-dP0ffG7zfB/view?usp=sharing" %}
 
 {% embed url="https://drive.google.com/file/d/1rOwvwe2HzlG4czJg6WLdwppbI4FLdCyR/view?usp=sharing" %}
-
-{% embed url="https://drive.google.com/file/d/1WcQ1WxDySTWbnsbk3YuQyWfTtUSp5gPi/view?usp=sharing" %}
 
 ## Why do I make mistakes when I try to speed up my playing?
 

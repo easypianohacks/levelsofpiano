@@ -38,19 +38,19 @@ Some people are hard working but don't know the right methods
 If you're just playing it over and over from start to finish...hoping the nest one will be right...  
 That's a world of difference from isolating every single wrong note you play, fixing each bar, playing each problem area 10x in a row before moving onto the next bar.   
   
-**All while SLOWLY counting and playing with the METRONOME**  
+**All while SLOWLY counting and playing with the METRONOME**
 
-
-### It's like curing an illness 
+### 3. It's like curing an illness 
 
 You can try to cure it yourself, or you can have a doctor diagnose the illness and prescribe the treatment required  
 You can try to fix it yourself, or you can have a piano teacher tell you exactly what you're doing wrong and how to practice to move forward
 
-### Have a piano teacher look at it for you
+**Have a piano teacher look at it for you**
 
 {% hint style="success" %}
-**Let's figure out how to help you.** 
+**It doesn't matter how much you practice...If you're using a fork to drink water, it'll be harder than if you used a cup.** 
 
+**Let's figure out how to help you.**   
 🎦[**Send us a video of the specific problem**](https://www.videoask.com/fmrqcvw9w)\*\*\*\*
 {% endhint %}
 
@@ -82,15 +82,35 @@ The beginner book I used was [**Faber & Faber: Piano Adventures**](https://www.a
 
 {% embed url="https://youtu.be/5JtguHoRWlE" %}
 
+## Self-Talk and Self-Opinion
 
+### 1. Laughing at yourself
+
+**No one actually laughs at themselves**
+
+It's the voices of other people you have let into your head. 
+
+Laughing at yourself and saying you're not good enough doesn't help you improve.
+
+### **2. True Happiness**
+
+**If you wish to find happiness, you must stop caring what other people think of you**
+
+From this day forward, your own opinion of yourself matters over others.
+
+Other people don't know everything about you, so why would their opinions even matter?
+
+People say you're not good only if they are scared of other people saying they're not good.
+
+**Once you get this mindset fix, and you truly wish to improve, you will be ready to make more progress than you can imagine.** 
 
 ## How do I play perfectly and build confidence?
 
 ### 1. Self-confidence
 
 **If you want to be "self" confident, YOU must be the first person to believe in yourself**  
-You can't rely on playing something right or wrong to tell you if you're confident  
-You can't rely on someone SAYING you play well to tell if you're confident. 
+You can't rely on playing something right or wrong to tell you if you're confident.  
+You can't rely on someone SAYING you play well to tell if you're confident.
 
 If you keep waiting on other things to give you confidence, that's not "self" confidence anymore, is it? 
 

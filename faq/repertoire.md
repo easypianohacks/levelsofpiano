@@ -165,17 +165,17 @@ Then you can figure out which key to practice to become fast and fluent at playi
 
 1 chord and arpeggio at a time
 
-![](../.gitbook/assets/image%20%2845%29.png)
+![](../.gitbook/assets/image%20%2847%29.png)
 
 ![](../.gitbook/assets/image%20%2834%29.png)
 
-![](../.gitbook/assets/image%20%2844%29.png)
+![](../.gitbook/assets/image%20%2846%29.png)
 
 ## Super Mario Bros
 
 ### Counting in Super Mario Bros
 
-![](../.gitbook/assets/image%20%2840%29.png)
+![](../.gitbook/assets/image%20%2841%29.png)
 
 {% embed url="https://drive.google.com/file/d/1Q4febj1Xtpa-FgI4SyvuLImv8DUz-mmA/view?usp=sharing" %}
 
@@ -193,7 +193,7 @@ Sextuplet = 6 beats = 1/8 note
 
 
 
-![](../.gitbook/assets/image%20%2847%29.png)
+![](../.gitbook/assets/image%20%2849%29.png)
 
 {% embed url="https://drive.google.com/file/d/1m2HjnwUR-bPZM1UawvZPpVVJnl67HV\_F/view?usp=sharing" %}
 
@@ -294,9 +294,9 @@ I did scales, shords and arpeggios for 8 years with the metronome**.**
 
 **Also make sure to count out loud and use the metronome when you play**
 
-### Example with Critique River Flows In You 
+### Example 1 Counting with Critique River Flows In You 
 
-![](../.gitbook/assets/image%20%2837%29.png)
+![](../.gitbook/assets/image%20%2838%29.png)
 
 **The notes in the image are rushed**   
 Keep them the same length as the C\# and D before them
@@ -312,6 +312,17 @@ Keep it up!
 {% embed url="https://drive.google.com/file/d/14\_FzELmTFZW3te99DonEl8xAllzoE6fX/view?usp=sharing" %}
 
 {% embed url="https://drive.google.com/file/d/1IrWkN9XUVQ2WPjjMIkS1qCzVsv7zE1zr/view?usp=sharing" %}
+
+### Example 2 Technique
+
+1. **Good counting, good rhythm, good notes** - The basics are down 
+2. **Curve your fingers**   Keyboard players have weaker fingers because the action is light   Self-taught pianists often don't hve good finger form   If you keep your fingers like that, you will not be able to play with full control   You can play much faster if you cure your fingers   **Fix this before it becomes a bad habit** 
+3. **Try getting an Acoustic piano or a piano with weighted keys if you can** 
+4. **Practice technique using Hanon and Czerny to further develop your skills**
+
+\*\*\*\*
+
+
 
 ## Giorno Theme
 
@@ -378,7 +389,25 @@ Otherwise, it will sound messy
 
 {% embed url="https://drive.google.com/file/d/16ak7bCCcDjA8-Z8Vo90VzW7lbyz1Wwly/view?usp=sharing" %}
 
-## Mandalorian 
+## Game Of Thrones
+
+**What should this sound like?**
+
+![](../.gitbook/assets/image%20%2843%29.png)
+
+{% embed url="https://drive.google.com/file/d/1ynIgWXkAeIxZ0TitDyjPxypsfLen7skX/view?usp=sharing" %}
+
+{% embed url="https://drive.google.com/file/d/1uqkIhKF--G2SW6LfDeztUJhIkqrpTe4e/view?usp=sharing" %}
+
+{% embed url="https://drive.google.com/file/d/1cNI48VChanmVy26pXuBOdE4lxAnNzd5y/view?usp=sharing" %}
+
+{% embed url="https://drive.google.com/file/d/161g7ov4U1Cu4SEXKYrffg-eTNDu5qiye/view?usp=sharing" %}
+
+{% embed url="https://drive.google.com/file/d/1AD5KSFBG5D4aZAYU\_dgMD0zkiL\_RQzE0/view?usp=sharing" %}
+
+{% embed url="https://drive.google.com/file/d/1\_45yJj8Q7sYCwKz5X\_uebPaoRtLBF4H4/view?usp=sharing" %}
+
+## Mandalorian Melody
 
 {% embed url="https://drive.google.com/file/d/1CDd0\_Bc44u7yyUG2hqhalJNJ0BN9zdcW/view?usp=sharing" %}
 
