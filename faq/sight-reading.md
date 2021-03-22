@@ -125,5 +125,5 @@ Rest on the 2nd beat
 
 ![](../.gitbook/assets/image%20%2828%29.png)
 
-**It's intentional...you're meant to practice switching**
+**It's intentional...**you're meant to practice switching
 
