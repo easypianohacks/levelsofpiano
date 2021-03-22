@@ -204,6 +204,9 @@ You're just going there to show them how well you play. Their opinion doesn't ma
 
 ### 1. Take a break
 
+Listen to music that you like, or take a break completely  
+Get inspired by not tnhinking about it for a while
+
 ### 2. Have no expectation
 
 You are what you are right now  

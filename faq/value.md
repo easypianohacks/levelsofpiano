@@ -12,9 +12,13 @@
 
 ## Drills and Exercises
 
-Hanon
+Hanon Exercises - 
 
-Czerny
+Czerny Opus 599 - [**Download from IMSLP**](http://imslp.simssa.ca/files/imglnks/usimg/1/10/IMSLP86518-PMLP177048-CZERNY_Practical_Method_for_Beginners_on_the_Pianoforte_Op._599.pdf)\*\*\*\*
+
+Sight
+
+Ear Training - tonedear.com
 
 
 
