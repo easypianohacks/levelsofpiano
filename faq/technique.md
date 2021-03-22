@@ -1,6 +1,6 @@
 # 🖐 Technique
 
-## Having trouble playing hands together?
+## Trouble with hands together?
 
 Hand Independence is a common challenge. 
 
@@ -42,6 +42,12 @@ Remember to use the metronome and count!
 {% embed url="https://youtu.be/YrqIHhgKno0" %}
 
 ## What does "fingers collapsing" mean?
+
+
+
+{% embed url="https://drive.google.com/file/d/1Yp9thk-oXPAQaSW1XTQt7h-nw7PnMSF1/view?usp=sharing" %}
+
+![](../.gitbook/assets/image%20%2839%29.png)
 
 {% embed url="https://drive.google.com/file/d/1DlWyhhz1VeJXJ0CoYkdIZaGG7uEBAb0d/view?usp=sharing" %}
 
@@ -88,11 +94,13 @@ Remember to use the metronome and count!
 2. Slow Work - No Splitting
 3. Repeat it until you get it right
 
-### Example \(Before and After\)
+### Examples \(Before and After\)
 
 {% embed url="https://drive.google.com/file/d/1hjiYcsA2uaBr9qN22M\_sXnGnl1Om1Syx/view?usp=sharing" %}
 
 {% embed url="https://drive.google.com/file/d/1mGSsVPS7IZFomkq4M9bXSGrAeMt5u79F/view?usp=sharing" %}
+
+
 
 {% hint style="info" %}
 📽️ [Send us your before videos for feedback](https://www.videoask.com/fmrqcvw9w)
@@ -138,6 +146,14 @@ If there are any spots you can't do 10 times in a row correctly in time with the
 **Weak spots need to be mastered**  
 Once all weak spots are gone, then you will have mastery, and win the game
 {% endhint %}
+
+### 10x Slow 1x Fast
+
+{% embed url="https://drive.google.com/file/d/1kYphjv9kNw4aiwSi8oCzCw9uDNWRwCXJ/view?usp=sharing" %}
+
+{% embed url="https://drive.google.com/file/d/1KmoJoIXoyYWBQyTpE9H-nOY8jhbDqoTI/view?usp=sharing" %}
+
+{% embed url="https://drive.google.com/file/d/1lic7yov62K3rlo-q-vvfXXiPCRi0gJgQ/view?usp=sharing" %}
 
 ## What is tension? How do I prevent it?
 
@@ -193,7 +209,7 @@ Like trying to lift 315 lbs when you can only do 50 lbs with correct form
 
 {% embed url="https://drive.google.com/file/d/11qhZZ4BL97xNoXGrAcNk-lMxmiEJlKS0/view?usp=sharing" caption="Mastery over C major scale - Now you can level up!" %}
 
-## Is there a way to increase my hand span? 
+## Can I increase my hand span? 
 
 {% hint style="warning" %}
 ### My hand cannot reach 1 octave
@@ -207,7 +223,7 @@ My teacher told me to give up and just play the way I'm able to play.
 📽️ [Send us videos once you learn it](https://www.videoask.com/fmrqcvw9w) 
 {% endhint %}
 
-## Sitting position when reaching for notes
+## Sitting position reaching for notes
 
 > "The part I am playing takes place on the lower half of the keyboard. I tend to just stay seated by the pedals and sway in the direction I'm playing, but I'm not sure if that is how one should play.
 >
@@ -245,7 +261,11 @@ Pedal on the right foot is something to get used to with practice...should only 
 
 #### 
 
-{% embed url="https://drive.google.com/file/d/12RRWltfE1MB5letpjW1O2\_BDgLvm-UCC/view?usp=sharing" %}
+## How do I use the sustain pedal?
+
+
+
+{% embed url="https://youtu.be/dDMy6TRGSF4" %}
 
 ## How can I learn dynamics?
 
@@ -384,7 +404,7 @@ How do you know when you're ready to lift **225 lbs**? When you can lift **205 l
 
 {% embed url="https://www.youtube.com/watch?v=UkN05fFiPP0&t=50s" %}
 
-## Why does wrist position make a difference? 
+## **D**oes wrist position make a difference? 
 
 **Your wrists should be level.** If your wrists bend way up or way down, it's because your fingers aren't strong enough, and your over-compensating with your arms.
 
@@ -401,4 +421,24 @@ To build muscles, you need to do the drills.
 {% endhint %}
 
 ![](../.gitbook/assets/image%20%2830%29.png)
+
+{% embed url="https://drive.google.com/file/d/1fIRCHYNvixbe24fDfQcqxN9y2FD\_OSw3/view?usp=sharing" %}
+
+## SpongeBob Flute Technique
+
+### Example
+
+{% embed url="https://drive.google.com/file/d/1W1sWUEyPzHYxyQ\_QO-s6bPvgkj\_m1U61/view?usp=sharing" %}
+
+### Attempts
+
+{% embed url="https://drive.google.com/file/d/1IrWkN9XUVQ2WPjjMIkS1qCzVsv7zE1zr/view?usp=sharing" %}
+
+{% embed url="https://drive.google.com/file/d/1IrWkN9XUVQ2WPjjMIkS1qCzVsv7zE1zr/view?usp=sharing" %}
+
+{% embed url="https://drive.google.com/file/d/1IrWkN9XUVQ2WPjjMIkS1qCzVsv7zE1zr/view?usp=sharing" %}
+
+{% embed url="https://drive.google.com/file/d/1yDK8HwwvD3\_YtWsgp-M6PWja1WPDc3WL/view?usp=sharing" %}
+
+{% embed url="https://drive.google.com/file/d/1ohLSyRzdEd71kYAEWrT\_Tjvw\_9-dA2sG/view?usp=sharing" %}
 

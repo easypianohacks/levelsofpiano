@@ -84,7 +84,54 @@ In order to get good at playing in front of other people , we must do practice i
 80% in realistic conditions = We are not as fluid as we think
 {% endhint %}
 
-##  💡How can I learn to improvise?
+## Piano vs. Keyboard
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"><b>Acoustical Piano</b>
+      </th>
+      <th style="text-align:left"><b>Electric Keyboard</b>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Beautiful sound and aesthetics</td>
+      <td style="text-align:left">
+        <p>Sound and aesthetics vary widely</p>
+        <p></p>
+        <p>Number of keys vary</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">High-Maintenance</td>
+      <td style="text-align:left">Low- to No-Maintenance</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Resistance</b> from pressing keys makes it easier to <b>build muscle <br />and agility</b> to
+        play on any type of piano</td>
+      <td style="text-align:left">
+        <p>Most electronic keyboards do not provide much resistance when pressing
+          keys
+          <br />
+          <br /><b>Weighted Action</b>
+          <br />Additional resistance similar to piano keys but no hammer action
+          <br />
+          <br />Hybrid and Silent options provide resistance
+          <br />
+          <br /><b>Hybrid</b> (Kawai CA99, Kawai Mp11se)
+          <br />Digital instrument with acoustic features
+          <br />(real piano keys, hammer action, no strings)</p>
+        <p>
+          <br /><b>Silent</b> - Acoustic instrument with digital features
+          <br />(acoustic and electric soundbank)</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+## 💡How can I learn to improvise?
 
 Improvisation and variations come with practice too. 
 
@@ -157,6 +204,29 @@ People want to be entertained. People are empathetic. You just need to put yours
 Record yourself, and you will inspire others living in fear. ****
 {% endhint %}
 
+## Practicing to Get Recognized
+
+> "I'm practicing at least 4 hours daily in hopes that i will get recognized one day"
+
+### Skill vs. Marketing
+
+Practicing 4 hours will help your fluency
+
+Remember to practice in front of other people by   
+1. Recording video  
+2. Playing live online OR  
+3. In public
+
+**Emulate the performance situation**  
+You have to let more people know more about you by creating content and sharing it with the world
+
+**Practicing more doesn't get you recognized**  
+Practicing improves your skill and can help you stand out
+
+**But the top YouTubers are not always the best Piano players**  
+They are recognized because they gave the most value to the largest amount of people  
+People laughed, enjoyed or learned something, so they shared their content
+
 ## How do I get more followers on TikTok? Instagram? YouTube?
 
 Sure, nobody wants to say they want more likes, views, followers...
@@ -168,6 +238,4 @@ If you have ever had content blow up even though you put in very little effort..
 This is the journey of how I got to 100k followers on TikTok.
 
 {% embed url="https://youtu.be/rxnULod5rAA" %}
-
-
 

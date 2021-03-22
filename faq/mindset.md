@@ -23,7 +23,7 @@ Accompanying someone is going to be like trying to ride a horse 🐴 and shoot a
 You must first master shooting an arrow while standing 
 
 In this example, you're missing 8/10 shots while standing...  
-Your only goal is to hit 1 more perfect thot...and another 1...until yu can do all 10 in a row.
+Your only goal is to hit 1 more perfect shot...and another 1...until you can do all 10 in a row.
 
 We don't need to care how much time we spend...just focus on getting one more hit 🎯...one more correct note.
 
@@ -81,8 +81,6 @@ Should be just sessions to hone his interest without creating any expectation of
 The beginner book I used was [**Faber & Faber: Piano Adventures**](https://www.amazon.com/gp/product/1616770759/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=lucienlu03-20&linkId=1027edd875f1ad6ff535ab417607e915&language=en_US)\*\*\*\*
 
 {% embed url="https://youtu.be/5JtguHoRWlE" %}
-
-
 
 
 
@@ -249,11 +247,25 @@ When you are not better or worse than anyone, you can then find what you love to
 
 **At the end of the day, it feels better to focus on what you are passionate about in music rather than seeing it as a competition.** 
 
+## Is it okay if I quit lessons?
+
+> "I'm close to being an adult and also worrying about my life and career. For sure I'll never leave Piano, but the lessons is what I want to quit."
+
+### Prioritizing Piano
+
+You can totally learn a ton on your own  
+You don't need to worry about balancing life and career
+
+**You can do it all**
+
+1. Some adults only play 15 min a day and still make progress
+2. Spend less time on Netflix, Instagram or YouTube
+3. Set a timer
+4. Wake up early to play
+
 ### **Top 3 MISTAKES By Self Taught Pianists**
 
 {% embed url="https://www.youtube.com/watch?v=xeS9RI9gNJ8" %}
-
-
 
 ## My parents are skeptical of my dream to study music
 

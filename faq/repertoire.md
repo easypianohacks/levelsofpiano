@@ -127,6 +127,14 @@ Don't practice from start to finish. Only work on the trouble areas. If you don'
 
 ![](../.gitbook/assets/image%20%2821%29.png)
 
+## **Can you play a piece too much?**
+
+> "Is it okay to keep practicing the same things over an over? ****I learn a song, then just keep playing it again and again."
+
+It is not a bad thing...I've played some pieces 100,000s of times
+
+**Just make sure you're fixing things, NOT building bad habits**
+
 ## **Is it normal to fear Liszt or Chopin?** 
 
 **Probably / Probably Not**
@@ -135,13 +143,53 @@ Do you surround yourself with people who fear it or people who don't?
 
 That's the real question ❓😉
 
-## Stuck on a part of Grande Sonate Pathetique
+## Want to learn Blues Riffs?
+
+### Start here
+
+C Blues Scale/Riff Example - [**Sheet Music \(Click Here\)** ](https://drive.google.com/file/d/1KELy3pWoPo2pBIz1mV5kGXkSagUtbIHC/view?usp=sharing)\*\*\*\*
+
+{% embed url="https://drive.google.com/file/d/1c3g0O\_u9cVrx9dmmemrm24au-00\_m\_A6/view?usp=sharing" %}
+
+## Hallelujah 
+
+### Finding Patterns
+
+When analyzing a piece, look for familiar and repeating patterns
+
+**This arrangement of Hallelujah is basically all arpeggio and chord work**
+
+Write out the unique note letters above each chord
+
+Then you can figure out which key to practice to become fast and fluent at playing this piece...
+
+1 chord and arpeggio at a time
+
+![](../.gitbook/assets/image%20%2841%29.png)
+
+![](../.gitbook/assets/image%20%2834%29.png)
+
+![](../.gitbook/assets/image%20%2840%29.png)
+
+## You've Got a Friend in Me - Kyle Landry
+
+Everything is there except...
+
+To get you in time, you've gotta play with the metronome
+
+{% embed url="https://drive.google.com/file/d/1HFlXpqudv3tnzQ3uOsai6\_2yx7rTkgwl/view?usp=sharing" %}
+
+{% embed url="https://drive.google.com/file/d/1gzUozuzQKBDXx2hVpBIT8y\_34oKPzKnO/view?usp=sharing" %}
+
+{% embed url="https://drive.google.com/file/d/1gzUozuzQKBDXx2hVpBIT8y\_34oKPzKnO/view?usp=sharing" %}
+
+## Sonate Pathetique
 
 {% hint style="success" %}
 **Solution:** Check your notes and rhythm
 {% endhint %}
 
-### **🤨 When you encounter a difficult passage:**
+### **🤨 Difficult Passage**
 
 1. **Count before you play 🗣️ 1-2-3**
 2. Start and stop on each beat if you need
@@ -155,16 +203,6 @@ That's the real question ❓😉
 {% hint style="info" %}
 **Craft first.** We must bake the cake before the icing.
 {% endhint %}
-
-## Want to learn Blues Riffs?
-
-### Start here
-
-C Blues Scale/Riff Example - [**Sheet Music \(Click Here\)** ](https://drive.google.com/file/d/1KELy3pWoPo2pBIz1mV5kGXkSagUtbIHC/view?usp=sharing)\*\*\*\*
-
-{% embed url="https://drive.google.com/file/d/1c3g0O\_u9cVrx9dmmemrm24au-00\_m\_A6/view?usp=sharing" %}
-
-
 
 ### Counting in Grande Sonate Pathetique
 
@@ -217,13 +255,45 @@ I did scales, shords and arpeggios for 8 years with the metronome**.**
 
 \*\*\*\*
 
+## River Flows In You - Yiruma
+
+### Exercises for River Flows In You
+
+**Are there exercises or tips I should learn before I attempt to play River Flows In You?**
+
+1. Begin by learning to count  
+2. Making sure to play the scales, chords and arpeggios in the key of the piece you will be learning will make the piece much easier to learn \(**A major and F\# minor for River Flows In You\)** 
+3. You will know the most common notes that will be played in that piece, and the patterns that will be used for each chord  
+4. If you can recognize music 1 chord at a time, that's 3-4 notes you're reading vs. 1 note at a time
+
+**Also make sure to count out loud and use the metronome when you play**
+
+### Example with Critique River Flows In You 
+
+![](../.gitbook/assets/image%20%2836%29.png)
+
+**The notes in the image are rushed**   
+Keep them the same length as the C\# and D before them
+
+If you count and use the metronome, you'll always be on time
+
+Eighth notes need to be even
+
+Keep it up!
+
+{% embed url="https://drive.google.com/file/d/1IVCpAKmQ0ez-aafGEXqKRx5SNgp3ocMM/view?usp=sharing" %}
+
+{% embed url="https://drive.google.com/file/d/14\_FzELmTFZW3te99DonEl8xAllzoE6fX/view?usp=sharing" %}
+
+{% embed url="https://drive.google.com/file/d/1IrWkN9XUVQ2WPjjMIkS1qCzVsv7zE1zr/view?usp=sharing" %}
+
 ## Fantaisie Impromptu
 
 ### Polyrhythms in Fantaisie Impromptu
 
 {% embed url="https://youtu.be/fRLwCa6OBCg" %}
 
-## Adding Crispness and Clarity
+### Adding Crispness and Clarity
 
 > "Fantaisie ****Impromptu is definitely a challenge for me, but I’m proud of myself for being able to play what I can and even in the “right” tempo. **All because I took your advice and actually for once tried playing it slowly literally a million times. Playing the same segment over and over again. First the right hand, then the left, then combined.**"
 
@@ -238,28 +308,33 @@ I did scales, shords and arpeggios for 8 years with the metronome**.**
 4. Savor the moment at the top of the chromatic scale G\#
 5. Savor the moment at the bottom Db leading to the arpeggios
 
-{% embed url="https://drive.google.com/file/d/1VMgw8jOuQLPRf7ICSKjG6RrFXOwaAWxh/view?usp=sharing" %}
-
-{% embed url="https://drive.google.com/file/d/1owkCUc3rzFnIU-Jz2Md4DrLyrm5OSeyD/view?usp=sharing" %}
-
 ![](../.gitbook/assets/image%20%2831%29.png)
 
 ![](../.gitbook/assets/image%20%2829%29.png)
 
+{% embed url="https://drive.google.com/file/d/1VMgw8jOuQLPRf7ICSKjG6RrFXOwaAWxh/view?usp=sharing" %}
 
+{% embed url="https://drive.google.com/file/d/1owkCUc3rzFnIU-Jz2Md4DrLyrm5OSeyD/view?usp=sharing" %}
 
-## Tips for River Flows In You
+### Struggling Transitions in Fantaisie Impromptu
 
-**Are there exercises or tips I should learn before I attempt to play River Flows In You?**
+Fingers are flat
 
-1. Begin by learning to count  
-2. Making sure to play the scales, chords and arpeggios in the key of the piece you will be learning will make the piece much easier to learn \(**A major and F\# minor for River Flows In You\)** 
-3. You will know the most common notes that will be played in that piece, and the patterns that will be used for each chord  
-4. If you can recognize music 1 chord at a time, that's 3-4 notes you're reading vs. 1 note at a time
+They should be curved
 
-**Also make sure to count out loud and use the metronome when you play**
+You will have more power and control if they are curved
 
-## 
+You may need to do a lot of fundamental work to be able to play this well
+
+Otherwise, it will sound messy
+
+{% embed url="https://drive.google.com/file/d/1qFrSLfu1zWzDIiOzqa52j9m\_4SuQjkAd/view?usp=sharing" %}
+
+{% embed url="https://drive.google.com/file/d/1aPEzC6zVKz22SG7fZCWY2OOKI7UqHTWz/view?usp=sharing" %}
+
+{% embed url="https://drive.google.com/file/d/1MLHth1qmNxah33ZjNro7GynnCMsnj5SA/view?usp=sharing" %}
+
+{% embed url="https://drive.google.com/file/d/16ak7bCCcDjA8-Z8Vo90VzW7lbyz1Wwly/view?usp=sharing" %}
 
 
 

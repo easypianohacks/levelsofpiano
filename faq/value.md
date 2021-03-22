@@ -12,17 +12,29 @@
 
 ## Drills and Exercises
 
+Hanon
+
+Czerny
+
 
 
 ## Metronome App
 
 {% embed url="https://www.soundbrenner.com/the-metronome-app" %}
 
+### Pianos
 
+**Check your local listings**
 
+In Canada and USA, **Craigslist** and **Facebook** Marketplace have free pianos listed all of the time 
 
+You may need to hire a piano mover. You determine whether it is worth it
 
+As always in these spaces, be safe and smart in your selection
 
+Examples \(not links\):
 
+![](../.gitbook/assets/image%20%2837%29.png)
 
+![](../.gitbook/assets/image%20%2835%29.png)
 
