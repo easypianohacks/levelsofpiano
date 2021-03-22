@@ -44,6 +44,14 @@ If you can remember the names of 30 friends and match their names to their faces
 
 {% embed url="https://courses.easypianohacks.com/courses/free-sight-reading-workbook-200-exercises" %}
 
+## Can I use Synesthesia instead?
+
+**Synesthesia is good for interest, not for fast progress.**
+
+Learning on Synesthesia is like trying to win a race using a horse vs. a racecar
+
+It might seem hard to learn to drive, but don't you think it is worth it to win a race vs. a horse?
+
 ## What is music theory?
 
 Music theory is learning the language and possibilities of music.

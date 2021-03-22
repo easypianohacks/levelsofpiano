@@ -116,9 +116,11 @@ In order to get good at playing in front of other people , we must do practice i
           keys
           <br />
           <br /><b>Weighted Action</b>
-          <br />Additional resistance similar to piano keys but no hammer action
+          <br />Additional resistance similar to piano keys but no hammer action</p>
+        <p></p>
+        <p><b>High-quality digital options: <br />Roland FP-10 or  FP-30</b>
           <br />
-          <br />Hybrid and Silent options provide resistance
+          <br /><b>Hybrid and Silent</b> options provide more resistance
           <br />
           <br /><b>Hybrid</b> (Kawai CA99, Kawai Mp11se)
           <br />Digital instrument with acoustic features
@@ -169,6 +171,24 @@ You speak with your fingers, and you learn with your ear.
 
 🎵Notes = Letters \| 🎹Chords = Words \| 🎶Melodies = Sentences \| 🎼Pieces = Essays
 {% endhint %}
+
+### Improvosation 101
+
+{% embed url="https://drive.google.com/file/d/1\_jDJrUJxkD6atWfJqx4gwvYpuPdLlYIY/view?usp=sharing" %}
+
+{% embed url="https://drive.google.com/file/d/1LRzg3W4IpI8TfRnv1ot8HM25Nv8GguFD/view?usp=sharing" %}
+
+{% embed url="https://drive.google.com/file/d/1lOG5J79PAD37vxQJP6v4V7Wuz5ObvUaX/view?usp=sharing" %}
+
+{% embed url="https://drive.google.com/file/d/15eN9Sb08F8oPO46H7mlab-1QxLnwHo2A/view?usp=sharing" %}
+
+{% embed url="https://drive.google.com/file/d/15eN9Sb08F8oPO46H7mlab-1QxLnwHo2A/view?usp=sharing" %}
+
+{% embed url="https://drive.google.com/file/d/15eN9Sb08F8oPO46H7mlab-1QxLnwHo2A/view?usp=sharing" %}
+
+{% embed url="https://drive.google.com/file/d/15eN9Sb08F8oPO46H7mlab-1QxLnwHo2A/view?usp=sharing" %}
+
+
 
 ## Sometimes I completely **blank and** forget the notes during a concert or recital!
 

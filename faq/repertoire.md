@@ -76,6 +76,30 @@ Like playing a video game...gotta learn the controls in the tutorial, then you c
 
 Playing with the metronome is like Flappy Bird 🐦
 
+## **Can you play a piece too much?**
+
+> "Is it okay to keep practicing the same things over an over? ****I learn a song, then just keep playing it again and again."
+
+It is not a bad thing...I've played some pieces 100,000s of times
+
+**Just make sure you're fixing things, NOT building bad habits**
+
+## **Is it normal to fear Liszt or Chopin?** 
+
+**Probably / Probably Not**
+
+Do you surround yourself with people who fear it or people who don't? 
+
+That's the real question ❓😉
+
+## Want to learn Blues Riffs?
+
+### Start here
+
+C Blues Scale/Riff Example - [**Sheet Music \(Click Here\)** ](https://drive.google.com/file/d/1KELy3pWoPo2pBIz1mV5kGXkSagUtbIHC/view?usp=sharing)\*\*\*\*
+
+{% embed url="https://drive.google.com/file/d/1c3g0O\_u9cVrx9dmmemrm24au-00\_m\_A6/view?usp=sharing" %}
+
 ## **Pensees Du Soir by Michael Aaron**
 
 ### Difficulty with Fingering
@@ -127,30 +151,6 @@ Don't practice from start to finish. Only work on the trouble areas. If you don'
 
 ![](../.gitbook/assets/image%20%2821%29.png)
 
-## **Can you play a piece too much?**
-
-> "Is it okay to keep practicing the same things over an over? ****I learn a song, then just keep playing it again and again."
-
-It is not a bad thing...I've played some pieces 100,000s of times
-
-**Just make sure you're fixing things, NOT building bad habits**
-
-## **Is it normal to fear Liszt or Chopin?** 
-
-**Probably / Probably Not**
-
-Do you surround yourself with people who fear it or people who don't? 
-
-That's the real question ❓😉
-
-## Want to learn Blues Riffs?
-
-### Start here
-
-C Blues Scale/Riff Example - [**Sheet Music \(Click Here\)** ](https://drive.google.com/file/d/1KELy3pWoPo2pBIz1mV5kGXkSagUtbIHC/view?usp=sharing)\*\*\*\*
-
-{% embed url="https://drive.google.com/file/d/1c3g0O\_u9cVrx9dmmemrm24au-00\_m\_A6/view?usp=sharing" %}
-
 ## Hallelujah 
 
 ### Finding Patterns
@@ -165,11 +165,37 @@ Then you can figure out which key to practice to become fast and fluent at playi
 
 1 chord and arpeggio at a time
 
-![](../.gitbook/assets/image%20%2841%29.png)
+![](../.gitbook/assets/image%20%2845%29.png)
 
 ![](../.gitbook/assets/image%20%2834%29.png)
 
+![](../.gitbook/assets/image%20%2844%29.png)
+
+## Super Mario Bros
+
+### Counting in Super Mario Bros
+
 ![](../.gitbook/assets/image%20%2840%29.png)
+
+{% embed url="https://drive.google.com/file/d/1Q4febj1Xtpa-FgI4SyvuLImv8DUz-mmA/view?usp=sharing" %}
+
+{% embed url="https://drive.google.com/file/d/1g7\_USMTMDBwKSgX\_bNt6494JmbGjXQ-O/view?usp=sharing" %}
+
+{% embed url="https://drive.google.com/file/d/1npUcCzDsNwgzaUXAkbb\_tFwJjXTTT4XY/view?usp=sharing" %}
+
+
+
+### Sextuplets in Super Mario Bros
+
+In this case...
+
+Sextuplet = 6 beats = 1/8 note
+
+
+
+![](../.gitbook/assets/image%20%2847%29.png)
+
+{% embed url="https://drive.google.com/file/d/1m2HjnwUR-bPZM1UawvZPpVVJnl67HV\_F/view?usp=sharing" %}
 
 ## You've Got a Friend in Me - Kyle Landry
 
@@ -270,7 +296,7 @@ I did scales, shords and arpeggios for 8 years with the metronome**.**
 
 ### Example with Critique River Flows In You 
 
-![](../.gitbook/assets/image%20%2836%29.png)
+![](../.gitbook/assets/image%20%2837%29.png)
 
 **The notes in the image are rushed**   
 Keep them the same length as the C\# and D before them
@@ -286,6 +312,22 @@ Keep it up!
 {% embed url="https://drive.google.com/file/d/14\_FzELmTFZW3te99DonEl8xAllzoE6fX/view?usp=sharing" %}
 
 {% embed url="https://drive.google.com/file/d/1IrWkN9XUVQ2WPjjMIkS1qCzVsv7zE1zr/view?usp=sharing" %}
+
+## Giorno Theme
+
+### Struggling with Sustain Pedal
+
+Change pedal on every chord change
+
+You just need to count...I count when I play in the tutorial
+
+Make sure your alignment is correct
+
+{% embed url="https://drive.google.com/file/d/1ACF2XZ1FaDyvkO2UhkqvOmoVFsMr6XLp/view?usp=sharing" %}
+
+### Full Tutorial
+
+{% embed url="https://youtu.be/LErC2C8MiwQ" %}
 
 ## Fantaisie Impromptu
 
@@ -335,6 +377,28 @@ Otherwise, it will sound messy
 {% embed url="https://drive.google.com/file/d/1MLHth1qmNxah33ZjNro7GynnCMsnj5SA/view?usp=sharing" %}
 
 {% embed url="https://drive.google.com/file/d/16ak7bCCcDjA8-Z8Vo90VzW7lbyz1Wwly/view?usp=sharing" %}
+
+## Mandalorian 
+
+{% embed url="https://drive.google.com/file/d/1CDd0\_Bc44u7yyUG2hqhalJNJ0BN9zdcW/view?usp=sharing" %}
+
+{% embed url="https://drive.google.com/file/d/1pbaiM0h92a4XUuviJrhGjuSlqgHnhM7E/view?usp=sharing" %}
+
+## SpongeBob Flute
+
+### Example
+
+{% embed url="https://drive.google.com/file/d/1W1sWUEyPzHYxyQ\_QO-s6bPvgkj\_m1U61/view?usp=sharing" %}
+
+### Attempts
+
+{% embed url="https://drive.google.com/file/d/1IrWkN9XUVQ2WPjjMIkS1qCzVsv7zE1zr/view?usp=sharing" %}
+
+{% embed url="https://drive.google.com/file/d/1IrWkN9XUVQ2WPjjMIkS1qCzVsv7zE1zr/view?usp=sharing" %}
+
+{% embed url="https://drive.google.com/file/d/1IrWkN9XUVQ2WPjjMIkS1qCzVsv7zE1zr/view?usp=sharing" %}
+
+{% embed url="https://drive.google.com/file/d/1yDK8HwwvD3\_YtWsgp-M6PWja1WPDc3WL/view?usp=sharing" %}
 
 
 

@@ -41,24 +41,29 @@ Remember to use the metronome and count!
 
 {% embed url="https://youtu.be/YrqIHhgKno0" %}
 
-## What does "fingers collapsing" mean?
+## What is "finger collapsing?"
 
 
 
 {% embed url="https://drive.google.com/file/d/1Yp9thk-oXPAQaSW1XTQt7h-nw7PnMSF1/view?usp=sharing" %}
 
-![](../.gitbook/assets/image%20%2839%29.png)
+![](../.gitbook/assets/image%20%2843%29.png)
 
 {% embed url="https://drive.google.com/file/d/1DlWyhhz1VeJXJ0CoYkdIZaGG7uEBAb0d/view?usp=sharing" %}
 
 {% embed url="https://drive.google.com/file/d/1nSeDZVbXfVNMbzCU7gUYtcPqkblwb1ox/view?usp=sharing" %}
 
-## HOW LONG and WHAT should I practice?
+## Practice: HOW LONG and WHAT?
 
 {% hint style="success" %}
 ### Prioritize achievement of tasks instead of time spent practicing
 
-10-30 minutes/day can do a lot. I can do more in 10 minutes today than I could do with 10 hours 10 years ago. 
+10-30 minutes/day can do a lot. I can do more in 10 minutes today than I could do with 10 hours 10 years ago
+
+You can play something wrong 100x, and it will get worse  
+Worse than if you played it right 10x
+
+**If you do a push-up the wrong way 100x, you haven't really done any push-ups at all**
 {% endhint %}
 
 ### 1. Practice List
@@ -211,14 +216,17 @@ Like trying to lift 315 lbs when you can only do 50 lbs with correct form
 
 ## Can I increase my hand span? 
 
-{% hint style="warning" %}
-### My hand cannot reach 1 octave
+> "My hand cannot reach 1 octave. My teacher told me to give up and just play the way I'm able to play."
 
-My teacher told me to give up and just play the way I'm able to play. 
-{% endhint %}
+### Small Hands or Can't Stretch?
 
 {% hint style="success" %}
-### **Solution -** Practice [**Hanon**](http://csokabeata.hu/Kottak/Gyakorlatok/Hanon%20-%20The%20Virtuoso%20Pianist.pdf) **Exercise 31** every day
+### **Solution:** Practice [**Hanon**](http://csokabeata.hu/Kottak/Gyakorlatok/Hanon%20-%20The%20Virtuoso%20Pianist.pdf) **Exercise 31** every day
+
+Small hands can often be reach an octave or a 9th with this exercise  
+Beyond this, there are exercises to help you jump.
+
+Small hands mean you can move faster.
 
 📽️ [Send us videos once you learn it](https://www.videoask.com/fmrqcvw9w) 
 {% endhint %}
@@ -423,22 +431,4 @@ To build muscles, you need to do the drills.
 ![](../.gitbook/assets/image%20%2830%29.png)
 
 {% embed url="https://drive.google.com/file/d/1fIRCHYNvixbe24fDfQcqxN9y2FD\_OSw3/view?usp=sharing" %}
-
-## SpongeBob Flute Technique
-
-### Example
-
-{% embed url="https://drive.google.com/file/d/1W1sWUEyPzHYxyQ\_QO-s6bPvgkj\_m1U61/view?usp=sharing" %}
-
-### Attempts
-
-{% embed url="https://drive.google.com/file/d/1IrWkN9XUVQ2WPjjMIkS1qCzVsv7zE1zr/view?usp=sharing" %}
-
-{% embed url="https://drive.google.com/file/d/1IrWkN9XUVQ2WPjjMIkS1qCzVsv7zE1zr/view?usp=sharing" %}
-
-{% embed url="https://drive.google.com/file/d/1IrWkN9XUVQ2WPjjMIkS1qCzVsv7zE1zr/view?usp=sharing" %}
-
-{% embed url="https://drive.google.com/file/d/1yDK8HwwvD3\_YtWsgp-M6PWja1WPDc3WL/view?usp=sharing" %}
-
-{% embed url="https://drive.google.com/file/d/1ohLSyRzdEd71kYAEWrT\_Tjvw\_9-dA2sG/view?usp=sharing" %}
 

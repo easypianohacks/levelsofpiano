@@ -85,6 +85,12 @@ You will match because our voices are trained more than our fingers, so we must 
 
 {% embed url="https://drive.google.com/file/d/1iJ0ionZ73\_nG9uEIRaXU4XxHhH9Guv2E/view?usp=sharing" %}
 
+## Counting Sixteenth Notes
+
+![](../.gitbook/assets/image%20%2846%29.png)
+
+![](../.gitbook/assets/image%20%2838%29.png)
+
 ## Counting Tuplets
 
 ### Triplets
@@ -93,7 +99,7 @@ In this case...
 
 Triplet = 3 notes = 1 quarter note
 
-![](../.gitbook/assets/image%20%2838%29.png)
+![](../.gitbook/assets/image%20%2842%29.png)
 
 ### Sextuplets in Super Mario
 
@@ -103,9 +109,15 @@ Sextuplet = 6 beats = 1/8 note
 
 
 
-![](../.gitbook/assets/image%20%2842%29.png)
+![](../.gitbook/assets/image%20%2847%29.png)
 
 {% embed url="https://drive.google.com/file/d/1m2HjnwUR-bPZM1UawvZPpVVJnl67HV\_F/view?usp=sharing" %}
+
+## Complicated Counting
+
+![](../.gitbook/assets/image%20%2839%29.png)
+
+![](../.gitbook/assets/image%20%2836%29.png)
 
 ## How to play Alberti Bass fast and comfortably
 
