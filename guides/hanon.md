@@ -1,27 +1,6 @@
-# Hanon
+# 💪 Intro to Hanon
 
-## Getting Super Powers
-
-Becoming a super hero is a fairly straight forward process:
-
-```
-$ give me super-powers
-```
-
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
-
-Once you're strong enough, save the world:
-
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-{% endcode %}
-
-## **🤔 Which exercises are best \(1-31\)?**
+## **🤔 Which Hanon exercises are best \(1-31\)?**
 
 Do all of them
 
@@ -37,9 +16,9 @@ Not optional - Play fingering as written
 
 Other keys are not required because we do all the scales, chords and arpeggio
 
-## **I’ve been playing for 10 years.** 
+## **What's the point of Hanon?** 
 
-### **Is there still a point to play Hanon, or what else would you recommend?**
+### **I’ve been playing for 10 years. Is there still a point to play Hanon, or what else would you recommend?**
 
 For us it’s just maintenance. Just drill as necessary. 
 
