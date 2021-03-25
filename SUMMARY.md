@@ -28,9 +28,9 @@
 
 ## GUIDES
 
-* [💪 Intro to Hanon](guides/hanon.md)
 * [💨 How to play faster without mistakes](guides/basics/README.md)
   * [💪 3 Levels of Technique Exercises](guides/basics/3-levels-of-technique-exercises.md)
+  * [💪 Intro to Hanon](guides/basics/hanon.md)
 
 ---
 

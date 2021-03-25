@@ -19,7 +19,7 @@ description: >-
 
 Hanon exercises, est. since 1873 \(included in every level 😉\)
 
-{% page-ref page="../guides/hanon.md" %}
+{% page-ref page="../guides/basics/hanon.md" %}
 
 I'd like you to meet student [@iglikullolli](https://www.instagram.com/iglikullolli/) from Albania
 
