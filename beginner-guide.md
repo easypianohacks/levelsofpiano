@@ -1,4 +1,4 @@
-# 🐤 Beginner Guide
+# 🐤 Beginner Books Guide
 
 You must have completed at least 1 of these beginner books before attempting Level 0.  
   
