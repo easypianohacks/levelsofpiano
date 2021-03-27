@@ -1,3 +1,7 @@
+---
+description: Piano skills and how they are assessed to determine your level.
+---
+
 # 🌲 Piano Skill Tree
 
 ## **Piano, The Game**
