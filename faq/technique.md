@@ -1,6 +1,6 @@
 # 🖐 Technique
 
-## How do I play hands together?
+## 🙌 How do I play hands together?
 
 To learn any piano piece Hands Together, you must:
 
@@ -49,7 +49,7 @@ They get progressively more difficult as your skill for reading improves.
 
 {% embed url="https://youtu.be/6\_dIVA3TOms" %}
 
-## Why are Curved Fingers Important?
+## 👌 Why are Curved Fingers Important? 
 
 > "None of my teachers have ever told me to curve my fingers. Why does it matter?"
 
@@ -67,7 +67,7 @@ They get progressively more difficult as your skill for reading improves.
 
 {% embed url="https://drive.google.com/file/d/1nSeDZVbXfVNMbzCU7gUYtcPqkblwb1ox/view?usp=sharing" %}
 
-## How to FIX Pinky Collapsing
+## 🤞How to FIX Pinky Collapsing
 
 ### 1. Build your strength using drills
 
@@ -136,7 +136,9 @@ Remember to use the metronome and count!
   </tbody>
 </table>
 
-## Practice: HOW LONG and WHAT?
+## How long should I practice? 
+
+### What should I practice?
 
 {% hint style="success" %}
 ### Prioritize achievement of tasks instead of time spent practicing
@@ -151,8 +153,8 @@ Worse than if you played it right 10x
 
 ### 1. Practice List
 
-1. **Hanon No. 1 to 31** - Master 1 new exercise per week This will build you technique and finger agility
-2. **Czerny Op. 599** - Master 1 new exercise per week This will improve how fast you learn new pieces + sight reading
+1. **Hanon No. 1 to 31** - Master 1 new exercise per week This will build you technique and finger agility 
+2. **Czerny Op. 599** - Master 1 new exercise per week This will improve how fast you learn new pieces + sight reading 
 3. **Scales, Chords, Arpeggios** C, G, D, A, E, B, F\#, C\# F, Bb, Eb, Ab, Db, Gb, Cb
 
 ### **2. Repertoire**
@@ -172,7 +174,7 @@ Worse than if you played it right 10x
 
 ### 5. Supplemental Music Theory
 
-### Practice Coaching Session
+
 
 {% embed url="https://youtu.be/-E95zDG-X9A" %}
 
