@@ -191,8 +191,10 @@ Worse than if you played it right 10x
 
 
 {% hint style="info" %}
-📽️ [Send us your before videos for feedback](https://www.videoask.com/fmrqcvw9w)
+📽️ You can get [feedback from a piano teacher here](https://www.videoask.com/fmrqcvw9w)
 {% endhint %}
+
+
 
 ## My playing isn't fluid. It sounds choppy.
 
