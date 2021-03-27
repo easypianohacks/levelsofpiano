@@ -33,3 +33,23 @@ ETA August 2021
 
 🙌 **Advanced Technique** - big leaps, tuplets, tricky rhythms
 
+
+
+
+
+You may submit videos for feedback here:
+
+{% page-ref page="../guides/3-steps-to-get-piano-teacher-feedback.md" %}
+
+  
+Here's what our piano coaches look for in each category:  
+  
+****
+
+## **How do you measure mastery?** 
+
+1. **Hanon  ✔** Mastery achieved at 120bpm to the quarter note **✔** No unevenness, notes played evenly **✔** No splitting, notes are aligned, played together  
+2. **Czerny Op. 599  ✔** No wrong notes, 100% note accuracy **✔** No hesitations, played from start to finish  **✔** No wrong fingers, used the right fingering  **✔** No unevenness, notes played evenly **✔** No splitting, notes are aligned, played together  ****
+3. **Technique  Scales**  **✔** No wrong fingers, used the right fingering **✔** No unevenness, notes played evenly  **Chords**  **✔** No splitting, notes are aligned, played together **✔** No hesitations, played from start to finish   **Arpeggios**  **✔** No unevenness, notes played evenly **✔** No hesitations, played from start to finish    
+4. **Repertoire**  **✔** No wrong notes, 100% note accuracy **✔** No hesitations, played from start to finish  **✔** No wrong fingers, used the right fingering  **✔** No unevenness, notes played evenly **✔** No splitting, notes are aligned, played together
+
