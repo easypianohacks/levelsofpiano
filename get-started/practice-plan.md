@@ -65,30 +65,26 @@ Rumor has it, students from Russian conservatories often only play Hanon for 5 y
 
 ### **Repertoire \(35 min\)** 
 
-  
+{% hint style="success" %}
 + Learn new sheet music faster  
 + Master dynamic control, phrasing, articulation  
 + Make beautiful melodies sing  
-+ Learn to refine, memorize and perform  
-﻿﻿  
-  
-Master each repertoire piece in each level  
-Submit video for feedback  
-  
-  
++ Learn to refine, memorize and perform
+{% endhint %}
 
+* [x] Master each repertoire piece in each level
+* [x] [Submit video for feedback](https://www.videoask.com/fmrqcvw9w) 
 
 ![](https://i.gyazo.com/2bbe79d80c57fa541273e6c174a72fc0.png)
 
-  
-  
-**What if I don't have 60 minutes?**  
-Spending 15 to 30 minutes every day is better than not practicing, but you get the results that you put in.  
-  
-**Can I play other songs or sheet music?**  
-Yes, please practice your favorite sheet music after these 60 minutes.   
-  
+## **What if I don't have 60 minutes?**
 
+Spending 15 to 30 minutes every day is better than not practicing, but you get the results that you put in.  
+
+
+## **Can I play other songs or sheet music?**
+
+Yes, please practice your favorite sheet music after these 60 minutes. 
 
 * This practice plan = daily workout routine. Give you the fitness required to learn any sheet music. 
 * Your favorite music = the sport. What we train our fitness for. The fun part.
@@ -97,10 +93,15 @@ Yes, please practice your favorite sheet music after these 60 minutes.
 Once you finish, you will be warmed up and better able to make progress in any pieces you play afterwards.  
   
   
-**Q&A**  
-﻿[![](https://coachtestprep.s3.amazonaws.com/direct-uploads/user-76755/77f4690f-3949-4b53-8fc5-dc197c124f3d/image.png)](https://coachtestprep.s3.amazonaws.com/direct-uploads/user-76755/77f4690f-3949-4b53-8fc5-dc197c124f3d/image.png)﻿  
-  
-﻿[![](https://coachtestprep.s3.amazonaws.com/direct-uploads/user-76755/d6d387ff-bfd3-416b-a311-26547caf1170/image.png)](https://coachtestprep.s3.amazonaws.com/direct-uploads/user-76755/d6d387ff-bfd3-416b-a311-26547caf1170/image.png)﻿  
-﻿[![](https://coachtestprep.s3.amazonaws.com/direct-uploads/user-76755/661c353f-6408-46ee-b79f-c4eb84f3e70f/image.png)](https://coachtestprep.s3.amazonaws.com/direct-uploads/user-76755/661c353f-6408-46ee-b79f-c4eb84f3e70f/image.png)﻿  
 
+
+## **Q&A**
+
+DMs answered about practice time:
+
+![](https://coachtestprep.s3.amazonaws.com/direct-uploads/user-76755/d6d387ff-bfd3-416b-a311-26547caf1170/image.png)
+
+![](https://coachtestprep.s3.amazonaws.com/direct-uploads/user-76755/661c353f-6408-46ee-b79f-c4eb84f3e70f/image.png)
+
+![](https://coachtestprep.s3.amazonaws.com/direct-uploads/user-76755/77f4690f-3949-4b53-8fc5-dc197c124f3d/image.png)
 
