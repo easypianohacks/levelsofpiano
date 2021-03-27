@@ -4,7 +4,7 @@ description: What would you like to learn about today?
 
 # 👋 Welcome
 
-
+## **Courses**
 
 {% page-ref page="faq/technique.md" %}
 
@@ -17,6 +17,8 @@ description: What would you like to learn about today?
 {% page-ref page="faq/value.md" %}
 
 {% page-ref page="faq/mindset.md" %}
+
+## App Guides
 
 
 

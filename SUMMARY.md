@@ -28,6 +28,7 @@
 
 ## GUIDES
 
+* [💡 3 Steps to Get Piano Teacher Feedback](guides/3-steps-to-get-piano-teacher-feedback.md)
 * [💨 How to play faster without mistakes](guides/basics/README.md)
   * [💪 3 Levels of Technique Exercises](guides/basics/3-levels-of-technique-exercises.md)
   * [💪 Intro to Hanon](guides/basics/hanon.md)
