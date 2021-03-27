@@ -239,6 +239,8 @@ Once all weak spots are gone, then you will have mastery, and win the game
 
 ### 10x Slow 1x Fast
 
+For the best quality of playing, practice the trouble section 10 times accurate and slow, then try it 1 time fast to see if you have improved. 
+
 {% embed url="https://drive.google.com/file/d/1kYphjv9kNw4aiwSi8oCzCw9uDNWRwCXJ/view?usp=sharing" %}
 
 {% embed url="https://drive.google.com/file/d/1KmoJoIXoyYWBQyTpE9H-nOY8jhbDqoTI/view?usp=sharing" %}
