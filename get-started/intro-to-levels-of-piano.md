@@ -28,7 +28,7 @@ The hard work you put in will make it look like you're hacking.
 Some of us don't have access to or can't afford the luxury of a private piano teacher.   
 In 10 weeks, you will learn to think like a piano teacher. 
 
-The difference between this EasyPianoHacks and other alternatives is you will learn:
+The **difference between this EasyPianoHacks and other alternatives** is you will learn:
 
 * exactly what to practice on piano
 * how to improve on your own
