@@ -6,8 +6,6 @@ description: How to get piano teacher feedback so you can level up ✅
 
 To level up in the app \(and in real life\), you want someone with more experience to tell you what you are doing wrong and what you're doing right.
 
-
-
 ## 3 Steps to Get Feedback
 
 ### 1. Upload Videos to the App
