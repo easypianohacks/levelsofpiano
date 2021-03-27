@@ -11,7 +11,7 @@ To make progress, you must plan to spend at least 60 minutes every day practicin
 
 ![](https://i.gyazo.com/0bf3b5948dd5ba863b4faa0879acdf5c.png)
 
-## **60 MINUTE PRACTICE PLAN** 
+## **60 Minute Practice Plan** 
 
 We will begin warming up our fingers for speed and control using Hanon.   
   
@@ -57,9 +57,14 @@ Rumor has it, students from Russian conservatories often only play Hanon for 5 y
 + Know what fingering to use
 {% endhint %}
 
+* [x] Master each key in each level
+* [x] Practice 1 page daily
+* [x] Submit video for feedback  
+
 ![](https://i.gyazo.com/cf98911c73ed7c5de83a9750a210f90b.png)
 
-**Repertoire \(35 min\)**  
+### **Repertoire \(35 min\)** 
+
   
 + Learn new sheet music faster  
 + Master dynamic control, phrasing, articulation  
