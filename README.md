@@ -20,5 +20,13 @@ description: What would you like to learn about today?
 
 ## App Guides
 
+{% page-ref page="guides/3-steps-to-get-piano-teacher-feedback.md" %}
+
+{% page-ref page="guides/basics/" %}
+
+{% page-ref page="beginner-books-guide.md" %}
+
+{% page-ref page="how-to-be-more-confident-and-overcome-performance-anxiety.md" %}
+
 
 
