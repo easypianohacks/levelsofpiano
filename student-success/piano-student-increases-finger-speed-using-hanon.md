@@ -5,7 +5,7 @@ description: >-
   ancient piano methods.
 ---
 
-# 🏆 Increase Finger Speed
+# 🏆 Increase Finger Speed @igli
 
 ## Student increases Finger Speed by 52% in 3 weeks \(using this Ancient method\)
 

@@ -6,10 +6,11 @@
 ## GET STARTED
 
 * [🎹 Intro to Levels of Piano](get-started/intro-to-levels-of-piano.md)
+* [📓 Practice Plan](get-started/practice-plan.md)
 
 ## Student Success
 
-* [🏆 Increase Finger Speed](student-success/piano-student-increases-finger-speed-using-hanon.md)
+* [🏆 Increase Finger Speed @igli](student-success/piano-student-increases-finger-speed-using-hanon.md)
 
 ## FAQ
 
