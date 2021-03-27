@@ -7,6 +7,7 @@
 
 * [🎹 Intro to Levels of Piano](get-started/intro-to-levels-of-piano.md)
 * [📓 Practice Plan](get-started/practice-plan.md)
+* [🌲 Piano Skill Tree](get-started/piano-skill-tree.md)
 
 ## Student Success
 
