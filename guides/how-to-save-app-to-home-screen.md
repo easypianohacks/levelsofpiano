@@ -1,0 +1,24 @@
+---
+description: >-
+  How to install the Levels of Piano app to your PC, Tablet, or Mobile home
+  screen.
+---
+
+# How to Save App to Home Screen
+
+Let's get this app on your favorite device.
+
+### On Mobile
+
+On Mobile using Google Chrome, tap the "Add to Home Screen" button at the bottom.
+
+![](https://i.gyazo.com/0517130fc7a1b1359ff4af55bd632b0a.gif)
+
+### Computer or Tablet
+
+On PC or Mac using Google Chrome, click on the download app button next to the web address URL.
+
+![](https://i.gyazo.com/6cfd580d6fd5fa272a0a72d01ed089f1.gif)
+
+
+
