@@ -6,17 +6,16 @@ There's no way anyone can teach you everything about piano in 10 weeks. Piano is
   
 In these 10 weeks, you will learn the 10 levels of piano you must master if you wish to play piano well.   
   
-EasyPianoHacks is a movement. Once you join this movement, you know:
+**EasyPianoHacks is a movement.** Once you join this movement, you know:
 
 {% hint style="success" %}
-There are no EASY hacks to make REAL progress.
+There are no EASY hacks to **make REAL progress.**
 {% endhint %}
 
-I can only offer you the mindset and perspective   
-
+I can only offer you the mindset and perspective 
 
 {% hint style="success" %}
-How to break down a difficult sheet of music making it so EASY to practice, it'll look like you're HACKING.
+How to break down a difficult sheet of music making it **so EASY to practice, it'll look like you're HACKING.**
 {% endhint %}
 
   
