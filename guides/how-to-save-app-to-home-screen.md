@@ -4,7 +4,7 @@ description: >-
   screen.
 ---
 
-# How to Save App to Home Screen
+# 📲 How to Save App to Home Screen
 
 Let's get this app on your favorite device.
 
