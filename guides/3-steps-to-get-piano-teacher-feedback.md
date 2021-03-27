@@ -56,7 +56,13 @@ In a few seconds, navigate to the Feedback tab and find your post publicly avail
 
 ![](https://i.gyazo.com/e23628bcd92f3051414fa3bc562f055e.gif)
 
+### ✅ Level Up 
 
+Level up by collecting ✅.
+
+
+
+![](../.gitbook/assets/image%20%2852%29.png)
 
 
 
