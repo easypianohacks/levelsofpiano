@@ -1,16 +1,44 @@
 # 🖐 Technique
 
-## Trouble with hands together?
+## How do I play hands together?
+
+To learn any piano piece Hands Together, you must:
+
+* master the right hand
+* master the left hand, and THEN
+* master both hands 
+
+  
+If your hands can easily play hands together...  
+But you're having trouble playing different things in each hand, here's what you need to do:  
+  
+Ask yourself...
+
+* Where do my hands need to be on the next beat?
+* Where do the notes align together?
+
+  
+Remember...   
+  
+You are reading 2 hands at the same time.   
+You must move 2 hands at the same time.   
+  
+Playing a wrong note is okay.   
+Just try again.  
+  
+It's like learning to ride a bike.   
+You don't think about pedaling 1 foot at a time.  
+Both feet move in sync.  
+  
+Same with your hands on the piano.
+
+### Hand Independence
 
 Hand Independence is a common challenge. 
 
-When you are having trouble with coordination and speed, we call this Slow Finger Syndrome.
-
 You can improve with the right drills every day. 
 
-Playing both hands is just like reading English...the more books you read, the better you get. 
 
-That's all it is. 
 
 ### 1. Play [**Czerny Opus 599**](http://imslp.simssa.ca/files/imglnks/usimg/1/10/IMSLP86518-PMLP177048-CZERNY_Practical_Method_for_Beginners_on_the_Pianoforte_Op._599.pdf) ****
 
