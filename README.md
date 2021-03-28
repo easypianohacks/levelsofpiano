@@ -1,8 +1,10 @@
 ---
-description: What would you like to learn about today? Search your question!
+description: What would you like to learn about today?
 ---
 
 # 👋 Welcome
+
+Search for your question 🔍
 
 ## **Courses**
 
