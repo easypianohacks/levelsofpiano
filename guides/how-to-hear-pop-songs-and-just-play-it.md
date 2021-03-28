@@ -30,7 +30,12 @@ To be able to hear any song and play it back requires 2 to 3 things:
 
 I would begin by studying what chords are used in each of your favorite songs.
 
-It's harder to improvise and make your own cake if you haven't studied how other chefs make cakes. It's harder to write a book if you haven't read enough books.
+{% hint style="info" %}
+**It's harder to improvise and make your own cake...**  
+if you haven't studied how other chefs make cakes.
+
+It's harder to write a book if you haven't read enough books.
+{% endhint %}
 
 
 
