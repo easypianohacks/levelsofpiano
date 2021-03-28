@@ -4,29 +4,25 @@
 
 Hands Separately. Rhythm notation used below, no keyboard needed. Pinch fingers together firmly, hold for 4 beats
 
-![](https://embed-fastly.wistia.com/deliveries/0188d42bd9771acd683777b3791dd9c62ad0da7d.jpg?image_play_button_size=2x&image_crop_resized=960x540&image_play_button=1&image_play_button_color=000000e0)
-
 ![](../../../.gitbook/assets/image%20%2862%29.png)
+
+![](https://embed-fastly.wistia.com/deliveries/0188d42bd9771acd683777b3791dd9c62ad0da7d.jpg?image_play_button_size=2x&image_crop_resized=960x540&image_play_button=1&image_play_button_color=000000e0)
 
 ## 2. Arm Weight
 
 Hands Separately. Using a relaxed wrist, drop slowly with finger 3 onto each key. Wrist drops until level with arm.
 
-![](https://embedwistia-a.akamaihd.net/deliveries/2775b693b540931932c9ee7947de5d38ff0be579.jpg?image_play_button_size=2x&image_crop_resized=960x540&image_play_button=1&image_play_button_color=000000e0)
-
-
-
 ![](../../../.gitbook/assets/image%20%2854%29.png)
+
+![](https://embedwistia-a.akamaihd.net/deliveries/2775b693b540931932c9ee7947de5d38ff0be579.jpg?image_play_button_size=2x&image_crop_resized=960x540&image_play_button=1&image_play_button_color=000000e0)
 
 ## 3. Legato
 
 Hands Separately. Drop on the 1st note, then transfer weight to the 2nd note. Release, then lift wrist up into a "Swan's Neck."
 
-![](https://embed-fastly.wistia.com/deliveries/e14edc807fdb6633b05cdbca39320be90011ae17.jpg?image_play_button_size=2x&image_crop_resized=960x540&image_play_button=1&image_play_button_color=000000e0)
-
-
-
 ![](../../../.gitbook/assets/image%20%2857%29.png)
+
+![](https://embed-fastly.wistia.com/deliveries/e14edc807fdb6633b05cdbca39320be90011ae17.jpg?image_play_button_size=2x&image_crop_resized=960x540&image_play_button=1&image_play_button_color=000000e0)
 
 
 
@@ -34,19 +30,15 @@ Hands Separately. Drop on the 1st note, then transfer weight to the 2nd note. Re
 
 Like previous in Exercise 3, but staccato on the 2nd note.
 
-
-
-
-
 ![](../../../.gitbook/assets/image%20%2855%29.png)
+
+This prepares you for situations like this example in Czerny Op. 599 No. 12:
 
 ![](../../../.gitbook/assets/image%20%2861%29.png)
 
+This type of articulation is covered in detail in Level 0 - Minuet in F Major:
 
-
-This is covered in detail in Level 0 - Minuet in F Major. 
-
-For more like this:
+{% page-ref page="minuet-in-f-major.md" %}
 
 ![](https://embedwistia-a.akamaihd.net/deliveries/99d15e0675ac5560da2e7e8d81639fc3f740168b.jpg?image_play_button_size=2x&image_crop_resized=960x540&image_play_button=1&image_play_button_color=000000e0)
 
