@@ -6,15 +6,20 @@ description: >-
 
 # 📲 How to Save App to Home Screen
 
-Let's get this app on your favorite device.
+Let's get this app on your favorite device \(works on PC, Tablet, and Mobile\)  
+Login with your email address.
 
-### On Mobile
+{% embed url="https://app.easypianohacks.com" %}
+
+
+
+## On Mobile
 
 On Mobile using Google Chrome, tap the "Add to Home Screen" button at the bottom.
 
 ![](https://i.gyazo.com/0517130fc7a1b1359ff4af55bd632b0a.gif)
 
-### Computer or Tablet
+## Computer or Tablet
 
 On PC or Mac using Google Chrome, click on the download app button next to the web address URL.
 
