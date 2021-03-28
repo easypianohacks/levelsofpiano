@@ -1,6 +1,6 @@
 # 🎹 Intro to Levels of Piano
 
-## **Nobody made a comprehensive book to help you get to Fur Elise. Everyone made beginner piano books.**
+## "**Nobody made a comprehensive book to help you get to Fur Elise. Everyone made beginner piano books."**
 
 Until now 😉
 
@@ -27,7 +27,7 @@ The hard work you put in will make it look like you're hacking.
   
 
 
-## **What You Will Learn**
+## **What you will learn**
 
 Some of us don't have access to or can't afford the luxury of a private piano teacher.   
 In 10 weeks, you will learn to think like a piano teacher. 
