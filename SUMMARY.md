@@ -16,6 +16,7 @@
 
 ## Levels
 
+* [🐤 Before you Begin](levels/before-you-begin.md)
 * [Level 0️⃣](levels/level-0/README.md)
   * [🖐 19 Beginner Drills](levels/level-0/19-beginner-drills.md)
   * [🎹 Minuet in F Major](levels/level-0/minuet-in-f-major.md)
