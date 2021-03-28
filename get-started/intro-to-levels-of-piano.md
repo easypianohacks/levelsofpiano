@@ -1,5 +1,9 @@
 # 🎹 Intro to Levels of Piano
 
+## **Nobody made a comprehensive book to help you get to Fur Elise. Everyone made beginner piano books.**
+
+Until now 😉
+
 ## **Realistic Expectations**
 
 There's no way anyone can teach you everything about piano in 10 weeks. Piano is a lifelong journey.   
