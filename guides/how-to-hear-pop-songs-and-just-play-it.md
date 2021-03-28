@@ -6,7 +6,7 @@ description: >-
 
 # 👂 How to Hear Pop Songs and Just Play It
 
-![](../.gitbook/assets/image%20%2855%29.png)
+![](../.gitbook/assets/image%20%2859%29.png)
 
 
 
