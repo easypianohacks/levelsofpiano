@@ -8,7 +8,7 @@ Here's a refresher:
 
 You can see where to buy or **download a free beginner book here:**
 
-{% page-ref page="../../guides/beginner-books-guide.md" %}
+{% page-ref page="../../../guides/beginner-books-guide.md" %}
 
 
 

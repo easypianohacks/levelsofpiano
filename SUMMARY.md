@@ -16,9 +16,10 @@
 
 ## Levels
 
-* [Level 0️⃣](levels/level-0/README.md)
-  * [19 Beginner Drills](levels/level-0/19-beginner-drills.md)
-* [Level 1️⃣](levels/level-1.md)
+* [Levels](levels/levels/README.md)
+  * [Level 0️⃣](levels/levels/level-0/README.md)
+    * [19 Beginner Drills](levels/levels/level-0/19-beginner-drills.md)
+  * [Level 1️⃣](levels/levels/level-1.md)
 
 ## FAQ
 

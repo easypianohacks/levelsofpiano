@@ -6,7 +6,7 @@ description: What would you like to learn about today?
 
 Search for your question 🔍
 
-## **Courses**
+## **Frequently Asked Questions**
 
 {% page-ref page="faq/technique.md" %}
 
@@ -18,9 +18,7 @@ Search for your question 🔍
 
 {% page-ref page="faq/value.md" %}
 
-{% page-ref page="faq/mindset.md" %}
-
-## App Guides
+## Guides
 
 {% page-ref page="guides/3-steps-to-get-piano-teacher-feedback.md" %}
 
