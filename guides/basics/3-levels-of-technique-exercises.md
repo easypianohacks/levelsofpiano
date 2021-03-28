@@ -1,7 +1,5 @@
 # 💪 3 Levels of Technique Exercises
 
-## 
-
 ### Level 1
 
 **5 FINGER EXERCISE**

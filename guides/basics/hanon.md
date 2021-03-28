@@ -10,7 +10,7 @@ Whichever one you haven’t learned is probably the best use of your time
 
 ## **Is noted fingering intentional or optional?**
 
-Not optional - Play fingering as written
+Not optional - play fingering as written
 
 ## **🎼 Should I do Hanon in all keys?**
 
