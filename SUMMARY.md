@@ -12,7 +12,7 @@
 
 ## Student Success
 
-* [🏆 Increase Finger Speed @igli](student-success/piano-student-increases-finger-speed-using-hanon.md)
+* [🏆 Increased Finger Speed 52%](student-success/piano-student-increases-finger-speed-using-hanon.md)
 
 ## Levels
 
