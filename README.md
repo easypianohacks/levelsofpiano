@@ -1,5 +1,5 @@
 ---
-description: What would you like to learn about today?
+description: What would you like to learn about today? Search your question!
 ---
 
 # 👋 Welcome
