@@ -4,7 +4,7 @@ description: >-
   use
 ---
 
-# How to Hear Pop Songs and Just Play It
+# 👂 How to Hear Pop Songs and Just Play It
 
 ![](../.gitbook/assets/image%20%2855%29.png)
 

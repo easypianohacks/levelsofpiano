@@ -33,10 +33,11 @@
 
 ## GUIDES
 
+* [Untitled](guides/untitled.md)
 * [💡 3 Steps to Get Piano Teacher Feedback](guides/3-steps-to-get-piano-teacher-feedback.md)
 * [📲 How to Save App to Home Screen](guides/how-to-save-app-to-home-screen.md)
 * [🏃‍♂️ How to Play Without Gaps or Hesitations](guides/how-to-play-without-gaps-or-hesitations.md)
-* [How to Hear Pop Songs and Just Play It](guides/how-to-hear-pop-songs-and-just-play-it.md)
+* [👂 How to Hear Pop Songs and Just Play It](guides/how-to-hear-pop-songs-and-just-play-it.md)
 * [💨 How to play faster without mistakes](guides/basics/README.md)
   * [💪 3 Levels of Technique Exercises](guides/basics/3-levels-of-technique-exercises.md)
   * [💪 Intro to Hanon](guides/basics/hanon.md)
