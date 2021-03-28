@@ -19,7 +19,8 @@ On Mobile using Google Chrome, tap the "Add to Home Screen" button at the bottom
 
 ## Computer or Tablet
 
-On PC or Mac using Google Chrome, click on the download app button next to the web address URL.
+On PC or Mac you must use Google Chrome.  
+Click on the download app button next to the web address URL.
 
 ![](https://i.gyazo.com/6cfd580d6fd5fa272a0a72d01ed089f1.gif)
 
