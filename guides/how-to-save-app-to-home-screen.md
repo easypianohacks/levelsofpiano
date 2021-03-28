@@ -9,9 +9,7 @@ description: >-
 Let's get this app on your favorite device \(works on PC, Tablet, and Mobile\)  
 Login with your email address.
 
-{% embed url="https://app.easypianohacks.com" %}
-
-
+{% embed url="https://app.easypianohacks.com" caption="Hint: check the box to login with Google" %}
 
 ## On Mobile
 
