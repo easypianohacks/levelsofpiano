@@ -4,7 +4,9 @@
 
 Until now 😉
 
-## **Realistic Expectations**
+## **What can I expect to achieve?** 
+
+### **Realistic Expectations**
 
 There's no way anyone can teach you everything about piano in 10 weeks. Piano is a lifelong journey.   
   
@@ -37,6 +39,19 @@ The **difference between this EasyPianoHacks and other alternatives** is you wil
 * exactly what to practice on piano
 * how to improve on your own
 * apply this method to learn any piano sheet music 
+
+### **Learn by Doing**
+
+In each Level, we learn new concepts from each piece of music called 🎹 Repertoire.
+
+1. **🎼 Sight Reading** ANALYSIS - 5 Steps to Read Faster  There is always a faster way to read than reading music 1 note at a time. Here's how to analyze music so you can learn new music faster. 
+2. 🖐 **Technique** ARTICULATION **-** 5 Tips to Improve Control.   There are always new technical challenges to learn. Here's what they are and how to drill them. 
+3. 🎹 **Repertoire** 
+
+   PRACTICE **-** 3 Common Mistakes  
+  
+   There are always a few tricky parts to master in each piece of repertoire. Here's how to fix them.  
+   __
 
 ## **How do I practice using this course?**
 
