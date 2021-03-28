@@ -20,13 +20,19 @@ Very common [Anke Baath](https://www.facebook.com/groups/230918914342383/user/10
 
 To be able to hear any song and play it back requires 2 to 3 things:
 
-1. Ear Training - knowing what notes are being played, and being able to play back melodies. Helps if you have perfect pitch
+### 1. Ear Training
 
-2. Chords - This is a combination of learning chords from technique and music theory. Music is made of chords. Each note in the melody belongs to a note in a chord. Some chords go well together, some don't.
+ knowing what notes are being played, and being able to play back melodies. Helps if you have perfect pitch
+
+### 2. Chords
+
+ This is a combination of learning chords from technique and music theory. Music is made of chords. Each note in the melody belongs to a note in a chord. Some chords go well together, some don't.
 
 I would begin by studying what chords are used in each of your favorite songs.
 
 It's harder to improvise and make your own cake if you haven't studied how other chefs make cakes. It's harder to write a book if you haven't read enough books.
+
+
 
 
 
