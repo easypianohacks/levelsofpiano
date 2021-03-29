@@ -42,8 +42,7 @@ Ex. Sheet music has time signatures, the fraction looking numbers at the beginni
 
 ### Example 1
 
-This example is in 2/4 time  
-
+This example is in 2/4 time
 
 * Top Number = 2 = 2 beats in each bar
 * Bottom Number = 1/4 = quarter note is 1 beat
@@ -55,32 +54,21 @@ This example is in 2/4 time
 
 ### Example 2
 
-This example is in 4/4 time  
-  
-
+This example is in 4/4 time
 
 * Top Number = 4 = 4 beats in each bar
-* Bottom Number = 1/4 = quarter note is 1 beat
+* Bottom Number = 1/4 = quarter note is 1 beat  
 
-  
-![](https://i.gyazo.com/5bb33ca16f2e74985e81796bfe048bb8.png)  
-  
-
+![](https://i.gyazo.com/5bb33ca16f2e74985e81796bfe048bb8.png)
 
 ### Example 3
 
-  
-This example is in 3/4 time  
-  
-
+This example is in 3/4 time
 
 * Top Number = 3 = 3 beats in each bar
-* Bottom Number = 1/4 = quarter note is 1 beat
+* Bottom Number = 1/4 = quarter note is 1 beat 
 
-![](https://i.gyazo.com/c20ce6b096d71436a065b72fc436d0ce.png)  
-  
-  
-
+![](https://i.gyazo.com/c20ce6b096d71436a065b72fc436d0ce.png)
 
 ## **What is the "note = number"?** 
 
@@ -89,11 +77,11 @@ This example is in 3/4 time
   
 That's a metronome marking, the note above the music with a number, sometimes beside an [Italian tempo description like Allegretto, Allegro, and more](http://www.goodwinshighend.com/music/classical/tempo_glossary.htm)  
   
-In this case, the sheet music is to be performed at a metronome speed of:  
-  
+In this case, the sheet music is to be performed at a metronome speed of:
 
-
-> 112 - 126 to the quarter note.
+{% hint style="success" %}
+### 112 - 126 to the quarter note.
+{% endhint %}
 
   
 At each tick, you must play 1 quarter note worth of music.  
