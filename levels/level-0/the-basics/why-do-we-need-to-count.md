@@ -297,36 +297,28 @@ This is because there is lag between:
 * when you want your fingers to play, and 
 * when your fingers actually play
 
-  
-  
-  
-**How do we play with the metronome?**
+## **How do we count + play with the metronome?**
 
-Here are 3 steps you must master in order:  
-  
-
+Here are 3 steps you must master in order:
 
 1. Count out loud with the metronome
 2. Count + clap with the metronome
 3. Count + play with the metronome
 
-  
-  
-**If you can say it, you can play it**
+{% embed url="https://youtu.be/jFjf5tEAONo" %}
 
-You can only play as fast as you can count out loud  
-If you play faster than you count, you have no control, which is why your rhythm will sound uneven  
+###  **If you can say it, you can play it**
+
+You can only play as fast as you can count out loud**.**  
+If you play faster than you count, **you have no control,** which is why your rhythm will sound uneven  
   
 If you keep under control, you rhythm will be even and measured, like you have a metronome inside you  
   
-  
-
-
 
 
 ## 🏆 **Success Stories**
 
-### Learn to count in 15 minutes ft. MK @watchinggordo
+### 1. Learn to count in 15 minutes ft. MK @watchinggordo
 
 [Watch Video](https://courses.easypianohacks.com/courses/how-to-sight-read-sheet-music-8x-faster-in-5-days/619513-part-i-before-you-begin/1928662-student-learns-to-count-in-15-minutes-ft-watchinggordo?wvideo=tk4zi4tjf7)
 
@@ -341,13 +333,7 @@ Counting was super hard for her until she did this:
 
 
 
-
-
-
-
-
-
-Student using the 5 finger exercise with the metronome
+### 2. Using the metronome on the 5 finger exercise 
 
 {% embed url="https://coachtestprep.s3.amazonaws.com/direct-uploads/user-76755/ebe0d194-3990-42b9-8048-b274fb21e4a2/Student%20using%20the%205%20finger%20exercise%20with%20the%20metronome.mp4" %}
 
@@ -366,7 +352,7 @@ Student using the 5 finger exercise with the metronome
   
 ****
 
-## **Here's a Relatable Story**
+## **Relatable Story**
 
   
 ****As you may know, I answer a lot of questions in the Instagram DMs.  
