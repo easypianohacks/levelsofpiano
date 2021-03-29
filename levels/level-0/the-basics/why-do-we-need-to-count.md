@@ -85,7 +85,11 @@ At each tick, you must play 1 quarter note worth of music.
   
 To count with the metronome, you can say:
 
-* 1       2        3
+{% hint style="success" %}
+###  Count       1       2        3
+{% endhint %}
+
+
 
   
 If you count in subdivisions, like counting the 1/8th or 1/16th notes, the ticks on the metronome would align with the numbers:  
