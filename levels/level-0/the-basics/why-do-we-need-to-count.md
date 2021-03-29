@@ -150,7 +150,7 @@ To count the main beat with the metronome, you would:
 **Quarter note**  = [![quarter note](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Figure_rythmique_noire_hampe_haut.svg/6px-Figure_rythmique_noire_hampe_haut.svg.png)](https://en.wikipedia.org/wiki/File:Figure_rythmique_noire_hampe_haut.svg)=  ****1 beat 
 
 Since the quarter note = 1 beat, you would count the numbers with the quarter notes.  
-Since there are only 3 beats in 1 bar, you would could only 3 beats in each bar.
+Since there are only 3 beats in 1 bar, you would count only 3 beats in each bar.
 
 
 

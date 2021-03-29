@@ -38,7 +38,7 @@ In 4/4 time, the bottom number 4 says the [![quarter note](https://upload.wikime
 {% endtab %}
 {% endtabs %}
 
-### 
+
 
 ## Rests
 
