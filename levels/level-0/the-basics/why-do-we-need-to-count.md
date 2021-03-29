@@ -45,12 +45,9 @@ Ex. Sheet music has time signatures, the fraction looking numbers at the beginni
 This example is in 2/4 time
 
 * Top Number = 2 = 2 beats in each bar
-* Bottom Number = 1/4 = quarter note is 1 beat
+* Bottom Number = 1/4 = quarter note is 1 beat  
 
-  
-![](https://i.gyazo.com/be23d11f375b86b10c4e2be9f33166a7.png)  
-  
-
+![](https://i.gyazo.com/be23d11f375b86b10c4e2be9f33166a7.png)
 
 ### Example 2
 
@@ -86,15 +83,12 @@ In this case, the sheet music is to be performed at a metronome speed of:
   
 At each tick, you must play 1 quarter note worth of music.  
   
-To count with the metronome, you can say:  
-  
-
+To count with the metronome, you can say:
 
 * 1       2        3
 
   
 If you count in subdivisions, like counting the 1/8th or 1/16th notes, the ticks on the metronome would align with the numbers:  
-  
 
 
 * 1  +   2  +   3  + 
