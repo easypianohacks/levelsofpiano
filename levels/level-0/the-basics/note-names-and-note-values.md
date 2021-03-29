@@ -104,11 +104,21 @@ Here's how they compare:
 ## **Example**
 
 Since the quarter note[![quarter note](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Figure_rythmique_noire_hampe_haut.svg/6px-Figure_rythmique_noire_hampe_haut.svg.png)](https://en.wikipedia.org/wiki/File:Figure_rythmique_noire_hampe_haut.svg) = 1 beat, you would count the numbers with the quarter notes.  
-Since there are only 3 beats in 1 bar, you would could only 3 beats in each bar.
-
 
 
 ![](https://i.gyazo.com/54d9324fe284e8a3db1fd218fa4eb508.gif)
 
-\*\*\*\*
+Since there are only 3 beats in 1 bar, you would only 3 beats in each bar.
+
+![](../../../.gitbook/assets/image%20%2864%29.png)
+
+{% hint style="info" %}
+**The top number =** how many beats in 1 bar   
+**The bottom number =** which note is equal to 1 beat 
+{% endhint %}
+
+{% hint style="success" %}
+**3** = 3 beats in a bar  
+**4** = ¼ note = 1 beat
+{% endhint %}
 
