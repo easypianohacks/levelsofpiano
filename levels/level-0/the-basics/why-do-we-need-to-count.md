@@ -127,30 +127,97 @@ In this case, the sheet music is to be performed at a metronome speed of:
 
   
 At each tick, you must play 1 quarter note worth of music.  
-  
-To count with the metronome, you would:
+
+
+## How to Count Out Loud
+
+Turn the metronome on to a speed like 52 bpm.
+
+### 1 Beat
+
+To count the main beat with the metronome, you would:
 
 {% hint style="success" %}
-###  Count       1       2        3
-{% endhint %}
+###  Count       1       2       3
 
-From Example 3, 
+###  Hear          tick  tick  tick
+{% endhint %}
 
 ![](https://i.gyazo.com/37f55f391a704226354716cc69977e32.gif)
 
+#### Quarter note = 1 beat 
+
+Since the quarter note = 1 beat, you would count the numbers with the quarter notes.  
+Since there are only 3 beats in 1 bar, you would could only 3 beats in each bar.
 
 
-  
-If you count in subdivisions, like counting the 1/8th or 1/16th notes, the ticks on the metronome would align with the numbers:  
+
+### 1/2 Beat
+
+If you count in subdivisions, like counting the 1/8th or 1/16th notes, the ticks on the metronome would align with the numbers:
+
+{% hint style="success" %}
+### Count       1     +    2     +    3      +
+
+### Hear          tick      tick       tick
+{% endhint %}
 
 
-* 1  +   2  +   3  + 
+
+![](https://i.gyazo.com/54d9324fe284e8a3db1fd218fa4eb508.gif)
+
+#### Quarter note = 1 beat 
+
+**Eighth note = 1/2 beat**
+
+\*\*\*\*
+
+|  |  |
+| :--- | :--- |
+| `♩` |  |
+|  |  |
+
+### ♩
+
+
+
+| Type | Symbol | Equal to | Also Equal To |  |
+| :--- | :---: | :---: | :---: | :--- |
+| Whole ****note | [![whole note](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Figure_rythmique_ronde.svg/10px-Figure_rythmique_ronde.svg.png)](https://en.wikipedia.org/wiki/File:Figure_rythmique_ronde.svg)  | [![half note](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Figure_rythmique_blanche_hampe_haut.svg/6px-Figure_rythmique_blanche_hampe_haut.svg.png)](https://en.wikipedia.org/wiki/File:Figure_rythmique_blanche_hampe_haut.svg) + [![half note](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Figure_rythmique_blanche_hampe_haut.svg/6px-Figure_rythmique_blanche_hampe_haut.svg.png)](https://en.wikipedia.org/wiki/File:Figure_rythmique_blanche_hampe_haut.svg) | [![quarter note](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Figure_rythmique_noire_hampe_haut.svg/6px-Figure_rythmique_noire_hampe_haut.svg.png)](https://en.wikipedia.org/wiki/File:Figure_rythmique_noire_hampe_haut.svg)+[![quarter note](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Figure_rythmique_noire_hampe_haut.svg/6px-Figure_rythmique_noire_hampe_haut.svg.png)](https://en.wikipedia.org/wiki/File:Figure_rythmique_noire_hampe_haut.svg)+[![quarter note](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Figure_rythmique_noire_hampe_haut.svg/6px-Figure_rythmique_noire_hampe_haut.svg.png)](https://en.wikipedia.org/wiki/File:Figure_rythmique_noire_hampe_haut.svg)+[![quarter note](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Figure_rythmique_noire_hampe_haut.svg/6px-Figure_rythmique_noire_hampe_haut.svg.png)](https://en.wikipedia.org/wiki/File:Figure_rythmique_noire_hampe_haut.svg) | [![beamed eighth notes](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Figure_rythmique_deux_croches_lien_haut.svg/20px-Figure_rythmique_deux_croches_lien_haut.svg.png)](https://en.wikipedia.org/wiki/File:Figure_rythmique_deux_croches_lien_haut.svg)+[![beamed eighth notes](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Figure_rythmique_deux_croches_lien_haut.svg/20px-Figure_rythmique_deux_croches_lien_haut.svg.png)](https://en.wikipedia.org/wiki/File:Figure_rythmique_deux_croches_lien_haut.svg)+[![beamed eighth notes](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Figure_rythmique_deux_croches_lien_haut.svg/20px-Figure_rythmique_deux_croches_lien_haut.svg.png)](https://en.wikipedia.org/wiki/File:Figure_rythmique_deux_croches_lien_haut.svg)+[![beamed eighth notes](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Figure_rythmique_deux_croches_lien_haut.svg/20px-Figure_rythmique_deux_croches_lien_haut.svg.png)](https://en.wikipedia.org/wiki/File:Figure_rythmique_deux_croches_lien_haut.svg) |
+| Half note | [![half note](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Figure_rythmique_blanche_hampe_haut.svg/6px-Figure_rythmique_blanche_hampe_haut.svg.png)](https://en.wikipedia.org/wiki/File:Figure_rythmique_blanche_hampe_haut.svg) | [![quarter note](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Figure_rythmique_noire_hampe_haut.svg/6px-Figure_rythmique_noire_hampe_haut.svg.png)](https://en.wikipedia.org/wiki/File:Figure_rythmique_noire_hampe_haut.svg)+[![quarter note](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Figure_rythmique_noire_hampe_haut.svg/6px-Figure_rythmique_noire_hampe_haut.svg.png)](https://en.wikipedia.org/wiki/File:Figure_rythmique_noire_hampe_haut.svg) | [![eighth note](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Figure_rythmique_croche_hampe_haut.svg/10px-Figure_rythmique_croche_hampe_haut.svg.png)](https://en.wikipedia.org/wiki/File:Figure_rythmique_croche_hampe_haut.svg)+[![eighth note](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Figure_rythmique_croche_hampe_haut.svg/10px-Figure_rythmique_croche_hampe_haut.svg.png)](https://en.wikipedia.org/wiki/File:Figure_rythmique_croche_hampe_haut.svg)+[![eighth note](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Figure_rythmique_croche_hampe_haut.svg/10px-Figure_rythmique_croche_hampe_haut.svg.png)](https://en.wikipedia.org/wiki/File:Figure_rythmique_croche_hampe_haut.svg)+[![eighth note](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Figure_rythmique_croche_hampe_haut.svg/10px-Figure_rythmique_croche_hampe_haut.svg.png)](https://en.wikipedia.org/wiki/File:Figure_rythmique_croche_hampe_haut.svg) |  |
+| Quarter note | [![quarter note](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Figure_rythmique_noire_hampe_haut.svg/6px-Figure_rythmique_noire_hampe_haut.svg.png)](https://en.wikipedia.org/wiki/File:Figure_rythmique_noire_hampe_haut.svg) | [![beamed eighth notes](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Figure_rythmique_deux_croches_lien_haut.svg/20px-Figure_rythmique_deux_croches_lien_haut.svg.png)](https://en.wikipedia.org/wiki/File:Figure_rythmique_deux_croches_lien_haut.svg) | [![beamed sixteenth notes](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Figure_rythmique_deux_double_croches_lien_haut.svg/20px-Figure_rythmique_deux_double_croches_lien_haut.svg.png)](https://en.wikipedia.org/wiki/File:Figure_rythmique_deux_double_croches_lien_haut.svg)+[![beamed sixteenth notes](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Figure_rythmique_deux_double_croches_lien_haut.svg/20px-Figure_rythmique_deux_double_croches_lien_haut.svg.png)](https://en.wikipedia.org/wiki/File:Figure_rythmique_deux_double_croches_lien_haut.svg) |  |
+| Eighth note | [![eighth note](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Figure_rythmique_croche_hampe_haut.svg/10px-Figure_rythmique_croche_hampe_haut.svg.png)](https://en.wikipedia.org/wiki/File:Figure_rythmique_croche_hampe_haut.svg) | [![beamed sixteenth notes](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Figure_rythmique_deux_double_croches_lien_haut.svg/20px-Figure_rythmique_deux_double_croches_lien_haut.svg.png)](https://en.wikipedia.org/wiki/File:Figure_rythmique_deux_double_croches_lien_haut.svg) | [![thirty-second note](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Figure_rythmique_triple_croche_hampe_haut.svg/10px-Figure_rythmique_triple_croche_hampe_haut.svg.png)](https://en.wikipedia.org/wiki/File:Figure_rythmique_triple_croche_hampe_haut.svg)+[![thirty-second note](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Figure_rythmique_triple_croche_hampe_haut.svg/10px-Figure_rythmique_triple_croche_hampe_haut.svg.png)](https://en.wikipedia.org/wiki/File:Figure_rythmique_triple_croche_hampe_haut.svg)+[![thirty-second note](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Figure_rythmique_triple_croche_hampe_haut.svg/10px-Figure_rythmique_triple_croche_hampe_haut.svg.png)](https://en.wikipedia.org/wiki/File:Figure_rythmique_triple_croche_hampe_haut.svg)+[![thirty-second note](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Figure_rythmique_triple_croche_hampe_haut.svg/10px-Figure_rythmique_triple_croche_hampe_haut.svg.png)](https://en.wikipedia.org/wiki/File:Figure_rythmique_triple_croche_hampe_haut.svg) |  |
+| Sixteenth note | [![sixteenth note](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Figure_rythmique_double_croche_hampe_haut.svg/10px-Figure_rythmique_double_croche_hampe_haut.svg.png)](https://en.wikipedia.org/wiki/File:Figure_rythmique_double_croche_hampe_haut.svg) | [![thirty-second note](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Figure_rythmique_triple_croche_hampe_haut.svg/10px-Figure_rythmique_triple_croche_hampe_haut.svg.png)](https://en.wikipedia.org/wiki/File:Figure_rythmique_triple_croche_hampe_haut.svg)+[![thirty-second note](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Figure_rythmique_triple_croche_hampe_haut.svg/10px-Figure_rythmique_triple_croche_hampe_haut.svg.png)](https://en.wikipedia.org/wiki/File:Figure_rythmique_triple_croche_hampe_haut.svg) | [![sixty-fourth note](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/64th_note.svg/10px-64th_note.svg.png)](https://en.wikipedia.org/wiki/File:64th_note.svg)+[![sixty-fourth note](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/64th_note.svg/10px-64th_note.svg.png)](https://en.wikipedia.org/wiki/File:64th_note.svg)+ |  |
+| Thirty-second note | [![thirty-second note](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Figure_rythmique_triple_croche_hampe_haut.svg/10px-Figure_rythmique_triple_croche_hampe_haut.svg.png)](https://en.wikipedia.org/wiki/File:Figure_rythmique_triple_croche_hampe_haut.svg) | [![sixty-fourth note](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/64th_note.svg/10px-64th_note.svg.png)](https://en.wikipedia.org/wiki/File:64th_note.svg)+[![sixty-fourth note](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/64th_note.svg/10px-64th_note.svg.png)](https://en.wikipedia.org/wiki/File:64th_note.svg) |  |  |
+| Sixty- fourth note | [![sixty-fourth note](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/64th_note.svg/10px-64th_note.svg.png)](https://en.wikipedia.org/wiki/File:64th_note.svg) |  |  |  |
+| Dot | . |  |  |  |
+| Dotted quarter note | [![dotted quarter note](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Figure_rythmique_noire_hampe_haut.svg/6px-Figure_rythmique_noire_hampe_haut.svg.png)](https://en.wikipedia.org/wiki/File:Figure_rythmique_noire_hampe_haut.svg). |  |  |  |
+| Dotted half note | [![dotted half note](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Figure_rythmique_blanche_hampe_haut.svg/6px-Figure_rythmique_blanche_hampe_haut.svg.png)](https://en.wikipedia.org/wiki/File:Figure_rythmique_blanche_hampe_haut.svg). |  |  |  |
+| Whole rest | [![whole rest](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Whole_rest.svg/18px-Whole_rest.svg.png)](https://en.wikipedia.org/wiki/File:Whole_rest.svg) |  |  |  |
+| Half rest | [![half rest](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Half_rest.svg/18px-Half_rest.svg.png)](https://en.wikipedia.org/wiki/File:Half_rest.svg) |  |  |  |
+| Quarter rest | [![quarter rest](https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/QuarterRest.svg/10px-QuarterRest.svg.png)](https://en.wikipedia.org/wiki/File:QuarterRest.svg) |  |  |  |
+| Eighth rest | [![eighth rest](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/8thRest.svg/10px-8thRest.svg.png)](https://en.wikipedia.org/wiki/File:8thRest.svg) |  |  |  |
+| Sixteenth rest | [![sixteenth rest](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/16th_rest.svg/7px-16th_rest.svg.png)](https://en.wikipedia.org/wiki/File:16th_rest.svg) |  |  |  |
+| Thirty- second rest | [![thirty-second rest](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/32nd_rest.svg/9px-32nd_rest.svg.png)](https://en.wikipedia.org/wiki/File:32nd_rest.svg) |  |  |  |
+| Sixty- fourth rest | [![thirty-second rest](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/64th_rest.svg/9px-64th_rest.svg.png)](https://en.wikipedia.org/wiki/File:64th_rest.svg) |  |  |  |
+
+\*\*\*\*
+
+Since the quarter note = 1 beat, you would count the numbers with the quarter notes.  
+Since there are only 3 beats in 1 bar, you would could only 3 beats in each bar.
+
+
+
+
+
+### **1/4 Beat**
+
 * 1e+a 2e+a 3e+a
 
+![](https://i.gyazo.com/54d9324fe284e8a3db1fd218fa4eb508.gif)
+
   
-  
-**I tried, but why is it so hard?**  
-You want to be able to play with the metronome.  
+****You want to be able to play with the metronome.  
 Most people find it hard to do, or don't know they're not playing with the metronome.  
   
 This is because there is lag between:
@@ -161,7 +228,9 @@ This is because there is lag between:
   
   
   
-**How do we play with the metronome?**Here are 3 steps you must master in order:  
+**How do we play with the metronome?**
+
+Here are 3 steps you must master in order:  
   
 
 
@@ -171,7 +240,9 @@ This is because there is lag between:
 
   
   
-**If you can say it, you can play it**You can only play as fast as you can count out loud  
+**If you can say it, you can play it**
+
+You can only play as fast as you can count out loud  
 If you play faster than you count, you have no control, which is why your rhythm will sound uneven  
   
 If you keep under control, you rhythm will be even and measured, like you have a metronome inside you  
