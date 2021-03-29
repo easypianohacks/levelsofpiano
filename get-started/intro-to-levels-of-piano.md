@@ -1,12 +1,12 @@
 # 🎹 Intro to Levels of Piano
 
-## "**Nobody made a comprehensive book to help you get to Fur Elise. Everyone made beginner piano books."**
+## "**Nobody made a comprehensive book to help you get to Fur Elise. Everyone just made beginner piano books."**
 
 Until now 😉
 
 ## **What can I expect to achieve?** 
 
-### **Realistic Expectations**
+### **1. Realistic Expectations**
 
 There's no way anyone can teach you everything about piano in 10 weeks. Piano is a lifelong journey.   
   
@@ -18,16 +18,47 @@ In these 10 weeks, you will learn the 10 levels of piano you must master if you 
 There are no EASY hacks to **make REAL progress.**
 {% endhint %}
 
+### 2. Tools to Teach Yourself
+
 I can only offer you the mindset and perspective 
 
 {% hint style="success" %}
 How to break down a difficult sheet of music making it **so EASY to practice, it'll look like you're HACKING.**
 {% endhint %}
 
-  
 The hard work you put in will make it look like you're hacking.  
   
 
+
+### 3. Tell you when you're wrong
+
+The best thing my teachers have ever done for me - they told me I was wrong.
+
+If you want to develop 
+
+* a good ear for what is right or wrong, or
+* good taste for what is good or bad...
+
+{% hint style="success" %}
+You need someone with more experience to tell you:
+
+* when you suck
+* why you suck
+* how to not suck 
+{% endhint %}
+
+Otherwise, you'll be that person playing the piano thinking you sound great...  
+And you might sound great to people who are tone deaf...
+
+But you wonder why your videos don't get you as many views or followers  
+But you wonder why your version of the music doesn't sound like the one on YouTube
+
+And deep down you know there's something about your playing that could be improved...  
+And you wonder why you suck because nobody had the heart to say it to your face.  
+  
+You don't want to be that person.
+
+Let's do something about it.
 
 ## **What you will learn**
 
