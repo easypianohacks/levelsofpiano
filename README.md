@@ -10,7 +10,9 @@ A guide to each level of EasyPianoHacks.
 
 {% tabs %}
 {% tab title="Beginner" %}
-How to count, Minuet in G Major
+### You will learn
+
+How to count, legato touch, arm weight, staccato, correct fingering for scales, intro to Hanon. 
 
 {% page-ref page="levels/level-0/" %}
 
@@ -22,6 +24,10 @@ How to count, Minuet in G Major
 {% endtab %}
 
 {% tab title="Intermediate" %}
+### You will learn
+
+How to play fast scalular runs, make hard pieces easy to understand, and expressive melodies.
+
 {% page-ref page="levels/level-4.md" %}
 
 {% page-ref page="levels/level-5.md" %}
@@ -32,6 +38,10 @@ How to count, Minuet in G Major
 {% endtab %}
 
 {% tab title="Advanced" %}
+### You will learn
+
+How to fix mistakes in less time, increase your dynamic range, and make your melodies sing.
+
 {% page-ref page="levels/level-8.md" %}
 
 {% page-ref page="levels/level-9.md" %}
