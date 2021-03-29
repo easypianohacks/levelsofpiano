@@ -4,11 +4,18 @@
 
 ## **Why do we need to count?**
 
-If you can play music without 0 wrong notes and 0 rhythm issues, you can do whatever you like.  
-  
-Otherwise, if you make 1 note accuracy or rhythm mistake, it means you can't play in time.   
-  
-We count to 
+{% hint style="success" %}
+If you can **play music without 0 wrong notes and 0 rhythm issues,**   
+you can skip this part and do whatever you like.
+{% endhint %}
+
+For everyone else including me...
+
+{% hint style="danger" %}
+**If you play wrong notes...**  chances are you aren't playing notes on time either.
+{% endhint %}
+
+We count because we want to:
 
 * keep in time, have perfect rhythm
 * know exactly when to play
