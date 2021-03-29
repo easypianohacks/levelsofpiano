@@ -6,12 +6,33 @@ Until now 😉
 
 ## **What can I expect to achieve?** 
 
-### **1. Realistic Expectations**
+### **1. Easy Concepts, Hard Work**
 
+We make it Easy to understand, but like anything worthwhile, the work is hard.  
+  
 There's no way anyone can teach you everything about piano in 10 weeks. Piano is a lifelong journey.   
   
-In these 10 weeks, you will learn the 10 levels of piano you must master if you wish to play piano well.   
+The 10 levels of piano will prepare you with a fundamental skill set to play harder, masterpieces.  
   
+Students learning online often try these harder masterpieces...  
+...within the first 6 months of starting to learn piano.  
+  
+That is like trying to lift 315 lbs within the first 6 months at the gym.  
+It is probably a mistake.  
+  
+Instead of telling you to get private lessons...  
+EasyPianoHacks makes piano easy to understand
+
+We help you understand how to get from Level 0 to Level 10  
+  
+So you can actually have a fun time learning 
+
+* Fur Elise, 
+* Moonlight Sonata, 
+* Fantaisie Impromptu, 
+* Pirates of the Caribbean, 
+* Avengers... and more
+
 **EasyPianoHacks is a movement.** Once you join this movement, you know:
 
 {% hint style="success" %}
@@ -20,7 +41,16 @@ There are no EASY hacks to **make REAL progress.**
 
 ### 2. Tools to Teach Yourself
 
-I can only offer you the mindset and perspective 
+A good teacher shows you how to teach yourself.  
+They tell you what they would do if they were in your shoes.  
+  
+They show you
+
+* [ ] What is wrong
+* [ ] Why it is wrong
+* [ ] How to fix it
+
+That is the secret formula. If you follow these steps, you will know:
 
 {% hint style="success" %}
 How to break down a difficult sheet of music making it **so EASY to practice, it'll look like you're HACKING.**
