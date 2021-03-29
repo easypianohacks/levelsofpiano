@@ -202,12 +202,12 @@ If you count in subdivisions, like counting the 1/8th or 1/16th notes, the ticks
 
 ## **What does the dot mean?**
 
-| Name | Symbol | Count |
-| :--- | :--- | :--- |
-| Dot | . | _half the value of the note it's next to_ |
-| Dotted half note | [![dotted half note](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Figure_rythmique_blanche_hampe_haut.svg/6px-Figure_rythmique_blanche_hampe_haut.svg.png)](https://en.wikipedia.org/wiki/File:Figure_rythmique_blanche_hampe_haut.svg). | 1      2      3 |
-| Dotted quarter ****note | [![dotted quarter note](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Figure_rythmique_noire_hampe_haut.svg/6px-Figure_rythmique_noire_hampe_haut.svg.png)](https://en.wikipedia.org/wiki/File:Figure_rythmique_noire_hampe_haut.svg). | 1  +  2 |
-| Dotted eighth note | [![eighth note](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Figure_rythmique_croche_hampe_haut.svg/10px-Figure_rythmique_croche_hampe_haut.svg.png)](https://en.wikipedia.org/wiki/File:Figure_rythmique_croche_hampe_haut.svg). | 1e |
+| Name | Symbol |  | Count |
+| :--- | :--- | :--- | :--- |
+| Dot | . |  | _half the value of the note it's next to_ |
+| Dotted half note | [![dotted half note](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Figure_rythmique_blanche_hampe_haut.svg/6px-Figure_rythmique_blanche_hampe_haut.svg.png)](https://en.wikipedia.org/wiki/File:Figure_rythmique_blanche_hampe_haut.svg). | [![half note](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Figure_rythmique_blanche_hampe_haut.svg/6px-Figure_rythmique_blanche_hampe_haut.svg.png)](https://en.wikipedia.org/wiki/File:Figure_rythmique_blanche_hampe_haut.svg)+[![quarter note](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Figure_rythmique_noire_hampe_haut.svg/6px-Figure_rythmique_noire_hampe_haut.svg.png)](https://en.wikipedia.org/wiki/File:Figure_rythmique_noire_hampe_haut.svg) | 1              2   ****        `3` |
+| Dotted quarter ****note | [![dotted quarter note](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Figure_rythmique_noire_hampe_haut.svg/6px-Figure_rythmique_noire_hampe_haut.svg.png)](https://en.wikipedia.org/wiki/File:Figure_rythmique_noire_hampe_haut.svg). | [![quarter note](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Figure_rythmique_noire_hampe_haut.svg/6px-Figure_rythmique_noire_hampe_haut.svg.png)](https://en.wikipedia.org/wiki/File:Figure_rythmique_noire_hampe_haut.svg)+[![eighth rest](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/8thRest.svg/10px-8thRest.svg.png)](https://en.wikipedia.org/wiki/File:8thRest.svg) | 1       +  **** `2` |
+| Dotted eighth note | [![eighth note](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Figure_rythmique_croche_hampe_haut.svg/10px-Figure_rythmique_croche_hampe_haut.svg.png)](https://en.wikipedia.org/wiki/File:Figure_rythmique_croche_hampe_haut.svg). | [![eighth note](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Figure_rythmique_croche_hampe_haut.svg/10px-Figure_rythmique_croche_hampe_haut.svg.png)](https://en.wikipedia.org/wiki/File:Figure_rythmique_croche_hampe_haut.svg)+[![sixteenth rest](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/16th_rest.svg/7px-16th_rest.svg.png)](https://en.wikipedia.org/wiki/File:16th_rest.svg) | 1 ****`e` |
 
 \*\*\*\*
 
