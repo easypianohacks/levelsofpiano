@@ -9,7 +9,7 @@ description: 'Besides playing the right notes, you have to play them at the righ
 Want to know why your piano playing sound worse?   
 Compared to the one you watched on YouTube?  
   
-**You are playing the right notes, but not at the right time.**
+You are playing the right notes, **but not at the right time.**
 
 {% hint style="danger" %}
 **The Problem:** Not Counting. ****Out Loud.
@@ -29,20 +29,6 @@ You are probably 1 of 3 people:
 {% endhint %}
 
 You need to learn how to count out loud.
-
-
-
-
-
-![](../../../.gitbook/assets/image%20%2863%29.png)
-
-
-
-
-
-
-
-![](../../../.gitbook/assets/image%20%2864%29.png)
 
 
 
