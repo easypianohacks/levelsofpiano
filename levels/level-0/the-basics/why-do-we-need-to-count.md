@@ -176,7 +176,7 @@ If you count in subdivisions, like counting the 1/8th or 1/16th notes, the ticks
 
 ## 🎵  Note Names & Note Values
 
-
+### How to Count
 
 | Term | Say |
 | :--- | :--- |
@@ -247,8 +247,6 @@ In 4/4 time, the bottom number 4 says the [![quarter rest](https://upload.wikime
 {% endtabs %}
 
 
-
-\*\*\*\*
 
 ### **What does the dot mean?**
 
