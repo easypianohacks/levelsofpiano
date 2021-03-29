@@ -46,9 +46,9 @@ They tell you what they would do if they were in your shoes.
   
 They show you
 
-* [ ] What is wrong
-* [ ] Why it is wrong
-* [ ] How to fix it
+* [x] What is wrong
+* [x] Why it is wrong
+* [x] How to fix it
 
 That is the secret formula. If you follow these steps, you will know:
 
