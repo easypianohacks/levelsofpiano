@@ -52,8 +52,6 @@ How to fix mistakes in less time, increase your dynamic range, and make your mel
 {% endtab %}
 {% endtabs %}
 
-
-
 ## **Frequently Asked Questions**
 
 Questions you've asked, and we've answered about piano.
