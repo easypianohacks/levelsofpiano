@@ -1,18 +1,18 @@
 ---
-description: What would you like to learn about today?
+description: "What would you like to learn about today?  \U0001F50D Search for your question"
 ---
 
 # 👋 Welcome
 
-Search for your question 🔍
+## Levels of Piano
+
+A guide to each level of EasyPianoHacks.
 
 {% page-ref page="levels/level-0/" %}
 
-
-
-
-
 ## **Frequently Asked Questions**
+
+Questions you've asked, and we've answered about piano.
 
 {% page-ref page="faq/technique.md" %}
 

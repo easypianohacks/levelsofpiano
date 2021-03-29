@@ -2,13 +2,13 @@
 
 ## 🖐 Technique
 
-
+Introduction to Legato, Staccato, Portato, Arm Weight, Slurs, Phrases, Scales, and Hanon.
 
 {% page-ref page="19-beginner-drills.md" %}
 
 ## 🎼 Sight Reading
 
-
+How to count, and why the \#1 most overlooked mistake is **not counting out loud.** 
 
 {% page-ref page="the-basics/" %}
 
@@ -18,7 +18,7 @@
 
 ## 🎹 Repertoire
 
-
+Learn all the above concepts by playing a 3/4 dance piece by Mozart's father: Leopold Mozart.
 
 {% page-ref page="minuet-in-f-major.md" %}
 

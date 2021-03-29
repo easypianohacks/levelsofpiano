@@ -23,6 +23,7 @@
     * [🔢 Why do we need to count?](levels/level-0/the-basics/why-do-we-need-to-count.md)
   * [🎹 Minuet in F Major](levels/level-0/minuet-in-f-major.md)
 * [Level 1](levels/level-1.md)
+* [Level 2](levels/level-2.md)
 * [Fur Elise](levels/fur-elise.md)
 
 ## FAQ
