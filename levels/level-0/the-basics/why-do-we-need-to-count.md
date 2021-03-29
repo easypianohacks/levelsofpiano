@@ -166,13 +166,13 @@ If you count in subdivisions, like counting the 1/8th or 1/16th notes, the ticks
 
 ![](https://i.gyazo.com/54d9324fe284e8a3db1fd218fa4eb508.gif)
 
-#### Quarter note = 1 beat 
+**Quarter note**  = [![quarter note](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Figure_rythmique_noire_hampe_haut.svg/6px-Figure_rythmique_noire_hampe_haut.svg.png)](https://en.wikipedia.org/wiki/File:Figure_rythmique_noire_hampe_haut.svg)=  ****1 beat 
 
-**Eighth note = 1/2 beat**
-
-
+**Eighth note =** [![eighth note](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Figure_rythmique_croche_hampe_haut.svg/10px-Figure_rythmique_croche_hampe_haut.svg.png)](https://en.wikipedia.org/wiki/File:Figure_rythmique_croche_hampe_haut.svg)= 1/2 beat
 
 
+
+## 🎵  Note Names & Note Values
 
 | Note Name | Symbol | = | = |
 | :--- | :---: | :---: | :---: |
