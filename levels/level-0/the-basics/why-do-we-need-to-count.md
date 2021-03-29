@@ -1,6 +1,8 @@
 # 🔢 Why do we need to count?
 
+Need a refresher on note values?
 
+{% page-ref page="note-names-and-note-values.md" %}
 
 ![](https://media.giphy.com/media/N1pMn2QOtG8Q8/giphy.gif)
 
