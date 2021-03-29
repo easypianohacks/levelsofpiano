@@ -58,8 +58,17 @@ Sheet music has time signatures, the fraction looking numbers at the beginning o
 
 This example is in 2/4 time
 
-* Top Number = 2 = 2 beats in each bar
-* Bottom Number = 1/4 = quarter note is 1 beat
+{% tabs %}
+{% tab title="Question" %}
+* What does the top number mean?
+* What does the bottom number mean?
+{% endtab %}
+
+{% tab title="Answer" %}
+* Top Number = 2 = **2 beats in each bar**
+* Bottom Number = 1/4 = **quarter note is 1 beat**
+{% endtab %}
+{% endtabs %}
 
 
 
@@ -71,8 +80,17 @@ This example is in 2/4 time
 
 This example is in 4/4 time
 
-* Top Number = 4 = 4 beats in each bar
-* Bottom Number = 1/4 = quarter note is 1 beat  
+{% tabs %}
+{% tab title="Question" %}
+* What does the top number mean?
+* What does the bottom number mean?
+{% endtab %}
+
+{% tab title="Answer" %}
+* Top Number = 4 = **4 beats in each bar**
+* Bottom Number = 1/4 = **quarter note is 1 beat**
+{% endtab %}
+{% endtabs %}
 
 ![](https://i.gyazo.com/b1e6143da5a62ae1ce915638253ecbfb.gif)
 
@@ -80,8 +98,17 @@ This example is in 4/4 time
 
 This example is in 3/4 time
 
-* Top Number = 3 = 3 beats in each bar
-* Bottom Number = 1/4 = quarter note is 1 beat 
+{% tabs %}
+{% tab title="Question" %}
+* What does the top number mean?
+* What does the bottom number mean?
+{% endtab %}
+
+{% tab title="Answer" %}
+* Top Number = 3 = **3 beats in each bar**
+* Bottom Number = 1/4 = **quarter note is 1 beat**
+{% endtab %}
+{% endtabs %}
 
 ![](https://i.gyazo.com/37f55f391a704226354716cc69977e32.gif)
 
