@@ -261,18 +261,63 @@ If you play faster than you count, you have no control, which is why your rhythm
 If you keep under control, you rhythm will be even and measured, like you have a metronome inside you  
   
   
-**Successful Results**  
+
+
+
+
+## 🏆 **Success Stories**
+
+### Learn to count in 15 minutes ft. MK @watchinggordo
+
+[Watch Video](https://courses.easypianohacks.com/courses/how-to-sight-read-sheet-music-8x-faster-in-5-days/619513-part-i-before-you-begin/1928662-student-learns-to-count-in-15-minutes-ft-watchinggordo?wvideo=tk4zi4tjf7)
+
+Having trouble learning to count? So did MK.
+
+* MK is one of my adult students
+* MK has had rhythm problems for 7 years
+
+Counting was super hard for her until she did this:
+
+{% embed url="https://youtu.be/9bDg\_C-kxqc" %}
+
+
+
+
+
+
+
+
+
+Student using the 5 finger exercise with the metronome
+
+{% embed url="https://coachtestprep.s3.amazonaws.com/direct-uploads/user-76755/ebe0d194-3990-42b9-8048-b274fb21e4a2/Student%20using%20the%205%20finger%20exercise%20with%20the%20metronome.mp4" %}
+
+
+
+![](https://coachtestprep.s3.amazonaws.com/direct-uploads/user-76755/aa7c8384-020a-4082-abe3-1ae9ce5bed2c/117051876_291311652156696_8125525816484266178_n.jpg)
+
   
-[Student using the 5 finger exercise with the metronome.mp4 151.54 KB](https://coachtestprep.s3.amazonaws.com/direct-uploads/user-76755/ebe0d194-3990-42b9-8048-b274fb21e4a2/Student%20using%20the%205%20finger%20exercise%20with%20the%20metronome.mp4)  
-[![](https://coachtestprep.s3.amazonaws.com/direct-uploads/user-76755/aa7c8384-020a-4082-abe3-1ae9ce5bed2c/117051876_291311652156696_8125525816484266178_n.jpg)](https://coachtestprep.s3.amazonaws.com/direct-uploads/user-76755/aa7c8384-020a-4082-abe3-1ae9ce5bed2c/117051876_291311652156696_8125525816484266178_n.jpg)  
-[![](https://coachtestprep.s3.amazonaws.com/direct-uploads/user-76755/072d4af0-37cc-417a-8dce-99939762b349/image.png)](https://coachtestprep.s3.amazonaws.com/direct-uploads/user-76755/072d4af0-37cc-417a-8dce-99939762b349/image.png)  
+
+
+![](https://coachtestprep.s3.amazonaws.com/direct-uploads/user-76755/072d4af0-37cc-417a-8dce-99939762b349/image.png)
+
   
   
-**Here's a Relatable Story**  
-As you may know, I answer a lot of questions in the Instagram DMs.  
+  
+  
+****
+
+## **Here's a Relatable Story**
+
+  
+****As you may know, I answer a lot of questions in the Instagram DMs.  
   
 Here's an example of a conversation with Vitaly, a student struggling to learn to count on his first day.  
-![](https://i.gyazo.com/45668a17b579074d50f471c51d350e2d.png)  
+
+
+![](https://i.gyazo.com/45668a17b579074d50f471c51d350e2d.png)
+
+  
   
 Sometimes we work on 1-2 bars for an entire 2 hour practice session.   
   
@@ -282,29 +327,62 @@ If you want to:
 * you've never taken any piano lessons, you're in for a reality check!
 
   
+
+
+![](https://i.gyazo.com/cd17ea1023eee5c431e60e6a1d15701e.png)
+
+
+
+![](https://i.gyazo.com/a43b99db5f331b5229ccba5a9033d268.png)
+
   
   
-![](https://i.gyazo.com/cd17ea1023eee5c431e60e6a1d15701e.png)  
-![](https://i.gyazo.com/a43b99db5f331b5229ccba5a9033d268.png)  
+  
+
+
+### **Does Jarrod Radnich count?**
+
+  
+****Does \(any good musician\) count?  
+Vitaly didn't seem convinced.
+
+![](https://i.gyazo.com/e96c5cef20465e7e84f45fef175955d9.png)
+
   
   
-  
-**Does Jarrod Radnich count?**  
-Does \(any good musician\) count?  
-Vitaly didn't seem convinced.  
-![](https://i.gyazo.com/e96c5cef20465e7e84f45fef175955d9.png)  
   
 First of all, Jarrod Radnich most definitely counts.  
   
 If you want to play[ Pirates arranged by Jarrod Radnich,](https://youtu.be/Eg0DFFsRaZQ?t=150) you'll need to count in 12/8 time, and 3/4 time.  
   
-![](https://i.gyazo.com/07b9d45f448440bdf44e97af3c6cf76a.png)  
+
+
+![](https://i.gyazo.com/07b9d45f448440bdf44e97af3c6cf76a.png)
+
   
-![](https://i.gyazo.com/bddaecb44737b00dd5f95f98897167f0.png)  
+
+
+![](https://i.gyazo.com/bddaecb44737b00dd5f95f98897167f0.png)
+
   
   
-**Related Links**  
   
-[How to play Pirates of the Caribbean \(full tutorial\)](https://youtu.be/Eg0DFFsRaZQ?t=150)  
+  
+****
+
+## **Related Links** 
+
+  
+[How to play Pirates of the Caribbean \(full tutorial\)](https://youtu.be/Eg0DFFsRaZQ?t=150)
+
+{% embed url="https://www.youtube.com/watch?v=Eg0DFFsRaZQ&t=150s" %}
+
+
+
+  
 [How long it will take to practice ANYTHING on piano](https://youtu.be/Qi1VRSE18lQ)
+
+{% embed url="https://www.youtube.com/watch?v=Qi1VRSE18lQ" %}
+
+
 

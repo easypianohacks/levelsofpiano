@@ -91,9 +91,9 @@ I still use it
 
 ## Counting Sixteenth Notes
 
-![](../.gitbook/assets/image%20%2848%29.png)
+![](../../.gitbook/assets/image%20%2848%29.png)
 
-![](../.gitbook/assets/image%20%2839%29.png)
+![](../../.gitbook/assets/image%20%2839%29.png)
 
 ## Counting Tuplets
 
@@ -103,7 +103,7 @@ In this case...
 
 Triplet = 3 notes = 1 quarter note
 
-![](../.gitbook/assets/image%20%2844%29.png)
+![](../../.gitbook/assets/image%20%2844%29.png)
 
 ### Sextuplets in Super Mario
 
@@ -113,15 +113,15 @@ Sextuplet = 6 beats = 1/8 note
 
 
 
-![](../.gitbook/assets/image%20%2849%29.png)
+![](../../.gitbook/assets/image%20%2849%29.png)
 
 {% embed url="https://drive.google.com/file/d/1m2HjnwUR-bPZM1UawvZPpVVJnl67HV\_F/view?usp=sharing" %}
 
 ## Complicated Counting
 
-![](../.gitbook/assets/image%20%2840%29.png)
+![](../../.gitbook/assets/image%20%2840%29.png)
 
-![](../.gitbook/assets/image%20%2836%29.png)
+![](../../.gitbook/assets/image%20%2836%29.png)
 
 ## How to play Alberti Bass fast and comfortably
 

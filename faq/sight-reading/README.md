@@ -117,13 +117,13 @@ The eighth notes could have been written without the bracket above, but it's gro
 
 Rest on the 2nd beat
 
-![](../.gitbook/assets/image%20%2824%29.png)
+![](../../.gitbook/assets/image%20%2824%29.png)
 
 ## This fingering is confusing! Is this right?
 
 > "Is this supposed to be the same finger? I don't know if the writer pretended to write the wrong finger number or if it's just wrong."
 
-![](../.gitbook/assets/image%20%2828%29.png)
+![](../../.gitbook/assets/image%20%2828%29.png)
 
 **It's intentional...**you're meant to practice switching
 

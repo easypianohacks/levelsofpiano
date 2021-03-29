@@ -14,7 +14,7 @@ Music is made of keys, scales, chords, and arpeggios. Mastering these will help 
 
 Most people can't read sheet music. Little do they know, reading sheet music is easier than learning English. If you want to read English faster, you read more books. If you want to play any sheet music, you just need to read more music.
 
-{% page-ref page="faq/sight-reading.md" %}
+{% page-ref page="faq/sight-reading/" %}
 
 ## Repertoire
 
@@ -28,7 +28,7 @@ This series shows you what you are doing wrong, with step-by-step videos from Le
 
 {% page-ref page="faq/repertoire.md" %}
 
-{% page-ref page="faq/rhythm.md" %}
+{% page-ref page="faq/sight-reading/rhythm.md" %}
 
 {% page-ref page="faq/value.md" %}
 

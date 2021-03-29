@@ -58,11 +58,11 @@ Questions you've asked, and we've answered about piano.
 
 {% page-ref page="faq/technique.md" %}
 
-{% page-ref page="faq/sight-reading.md" %}
+{% page-ref page="faq/sight-reading/" %}
 
 {% page-ref page="faq/repertoire.md" %}
 
-{% page-ref page="faq/rhythm.md" %}
+{% page-ref page="faq/sight-reading/rhythm.md" %}
 
 {% page-ref page="faq/value.md" %}
 

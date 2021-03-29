@@ -43,9 +43,9 @@
 
 * [💡 How to add FAQs ✅](faq/how-to-add-faqs.md)
 * [🖐 Technique](faq/technique.md)
-* [🎼 Sight Reading](faq/sight-reading.md)
+* [🎼 Sight Reading](faq/sight-reading/README.md)
+  * [🥁 Rhythm](faq/sight-reading/rhythm.md)
 * [🎹 Repertoire](faq/repertoire.md)
-* [🥁 Rhythm](faq/rhythm.md)
 * [💸 Free Stuff](faq/value.md)
 * [🎩 Performing](faq/performing/README.md)
   * [😱 How to be more confident & overcome performance anxiety](faq/performing/how-to-be-more-confident-and-overcome-performance-anxiety.md)
