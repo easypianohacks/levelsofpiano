@@ -28,7 +28,7 @@ Musicians use a metronome to play in time
 
 ![](https://www.soundbrenner.com/assets/images/app/app-banner.png)
 
-### **What's a metronome?**
+## **What's a metronome?**
 
 These days you can [download a metronome app](https://www.soundbrenner.com/the-metronome-app) or buy one on Amazon.
 
@@ -38,16 +38,34 @@ These days you can [download a metronome app](https://www.soundbrenner.com/the-m
 
 ##  **What is a time signature?**
 
-Ex. Sheet music has time signatures, the fraction looking numbers at the beginning of the music.
+Sheet music has time signatures, the fraction looking numbers at the beginning of the music.
+
+![](../../../.gitbook/assets/image%20%2864%29.png)
+
+{% hint style="info" %}
+**The top number =** how many beats in 1 bar   
+**The bottom number =** which note is equal to 1 beat 
+{% endhint %}
+
+{% hint style="success" %}
+**3** = 3 beats in a bar  
+**4** = ¼ note = 1 beat
+{% endhint %}
+
+### 
 
 ### Example 1
 
 This example is in 2/4 time
 
 * Top Number = 2 = 2 beats in each bar
-* Bottom Number = 1/4 = quarter note is 1 beat  
+* Bottom Number = 1/4 = quarter note is 1 beat
+
+
 
 ![](https://i.gyazo.com/be23d11f375b86b10c4e2be9f33166a7.png)
+
+
 
 ### Example 2
 
@@ -56,7 +74,7 @@ This example is in 4/4 time
 * Top Number = 4 = 4 beats in each bar
 * Bottom Number = 1/4 = quarter note is 1 beat  
 
-![](https://i.gyazo.com/5bb33ca16f2e74985e81796bfe048bb8.png)
+![](https://i.gyazo.com/b1e6143da5a62ae1ce915638253ecbfb.gif)
 
 ### Example 3
 
@@ -65,7 +83,7 @@ This example is in 3/4 time
 * Top Number = 3 = 3 beats in each bar
 * Bottom Number = 1/4 = quarter note is 1 beat 
 
-![](https://i.gyazo.com/c20ce6b096d71436a065b72fc436d0ce.png)
+![](https://i.gyazo.com/37f55f391a704226354716cc69977e32.gif)
 
 ## **What is the "note = number"?** 
 
@@ -83,11 +101,15 @@ In this case, the sheet music is to be performed at a metronome speed of:
   
 At each tick, you must play 1 quarter note worth of music.  
   
-To count with the metronome, you can say:
+To count with the metronome, you would:
 
 {% hint style="success" %}
 ###  Count       1       2        3
 {% endhint %}
+
+From Example 3, 
+
+![](https://i.gyazo.com/37f55f391a704226354716cc69977e32.gif)
 
 
 
