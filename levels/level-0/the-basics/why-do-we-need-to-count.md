@@ -178,7 +178,7 @@ If you count in subdivisions, like counting the 1/8th or 1/16th notes, the ticks
 
 
 
-| term | Say |
+| Term | Say |
 | :--- | :--- |
 | 1       2        3        4 | one                        two                  three                        four |
 | 1  +   2  +    3  +   4  + | one       `and`      two       `and`  three       `and`       four       `and`  |
