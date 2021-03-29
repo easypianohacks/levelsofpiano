@@ -24,7 +24,20 @@
   * [🎹 Minuet in F Major](levels/level-0/minuet-in-f-major.md)
 * [Level 1](levels/level-1.md)
 * [Level 2](levels/level-2.md)
-* [Fur Elise](levels/fur-elise.md)
+* [Level 3](levels/level-3.md)
+* [Level 4](levels/level-4.md)
+* [Level 5](levels/level-5.md)
+* [Level 6](levels/level-6.md)
+* [Level 7](levels/level-7.md)
+* [Level 8](levels/level-8.md)
+* [Level 9](levels/level-9.md)
+* [Level 10](levels/level-10.md)
+* [Master](levels/master/README.md)
+  * [Fur Elise](levels/master/fur-elise.md)
+
+---
+
+* [Viral](viral.md)
 
 ## FAQ
 

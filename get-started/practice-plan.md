@@ -95,6 +95,15 @@ Once you finish, you will be warmed up and better able to make progress in any p
   
 
 
+## **How do you measure mastery?** 
+
+### **How do I know if I'm improving?** 
+
+1. **Hanon  ✔** Mastery achieved at 120bpm to the quarter note **✔** No unevenness, notes played evenly **✔** No splitting, notes are aligned, played together  
+2. **Czerny Op. 599  ✔** No wrong notes, 100% note accuracy **✔** No hesitations, played from start to finish  **✔** No wrong fingers, used the right fingering  **✔** No unevenness, notes played evenly **✔** No splitting, notes are aligned, played together  ****
+3. **Technique  Scales**  **✔** No wrong fingers, used the right fingering **✔** No unevenness, notes played evenly  **Chords**  **✔** No splitting, notes are aligned, played together **✔** No hesitations, played from start to finish   **Arpeggios**  **✔** No unevenness, notes played evenly **✔** No hesitations, played from start to finish    
+4. **Repertoire**  **✔** No wrong notes, 100% note accuracy **✔** No hesitations, played from start to finish  **✔** No wrong fingers, used the right fingering  **✔** No unevenness, notes played evenly **✔** No splitting, notes are aligned, played together
+
 ## **Q&A**
 
 DMs answered about practice time:

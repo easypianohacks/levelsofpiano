@@ -23,7 +23,41 @@ We will begin by improving the 3 weakest areas of online piano students:
 
 🖐 **Technique** - how fast you can play 
 
-### 
+## Technique 
+
+#### **Learn to play faster, with agility and control.**
+
+Music is made of keys, scales, chords, and arpeggios. Mastering these will help you learn music faster, and make less mistakes.
+
+{% page-ref page="../faq/technique.md" %}
+
+
+
+## Sight Reading 
+
+#### Learn to read sheet music like reading English.
+
+Most people can't read sheet music. Little do they know, reading sheet music is easier than learning English. If you want to read English faster, you read more books. If you want to play any sheet music, you just need to read more music.
+
+{% page-ref page="../faq/sight-reading.md" %}
+
+
+
+## Repertoire
+
+#### Learn what pieces to practice to advance your skill.
+
+Feel lost? Do you practice every day but never get anywhere? 
+
+> It's not just _**how much**_ ****you practice, it's also _**how**_ you practice.
+
+This series shows you what you are doing wrong, with step-by-step videos from Level 1 to 10.
+
+{% page-ref page="../faq/repertoire.md" %}
+
+
+
+
 
 ### Updates to be added 
 
@@ -50,12 +84,5 @@ Here's what our piano coaches look for in each category:
   
 ****
 
-## **How do you measure mastery?** 
-
-### **How do I know if I'm improving?** 
-
-1. **Hanon  ✔** Mastery achieved at 120bpm to the quarter note **✔** No unevenness, notes played evenly **✔** No splitting, notes are aligned, played together  
-2. **Czerny Op. 599  ✔** No wrong notes, 100% note accuracy **✔** No hesitations, played from start to finish  **✔** No wrong fingers, used the right fingering  **✔** No unevenness, notes played evenly **✔** No splitting, notes are aligned, played together  ****
-3. **Technique  Scales**  **✔** No wrong fingers, used the right fingering **✔** No unevenness, notes played evenly  **Chords**  **✔** No splitting, notes are aligned, played together **✔** No hesitations, played from start to finish   **Arpeggios**  **✔** No unevenness, notes played evenly **✔** No hesitations, played from start to finish    
-4. **Repertoire**  **✔** No wrong notes, 100% note accuracy **✔** No hesitations, played from start to finish  **✔** No wrong fingers, used the right fingering  **✔** No unevenness, notes played evenly **✔** No splitting, notes are aligned, played together
+## \*\*\*\*
 
