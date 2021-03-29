@@ -21,6 +21,8 @@ In each Level, we learn new concepts from each piece of music called 🎹 Repert
 
 ![](https://embed-fastly.wistia.com/deliveries/1430af8d38a18811d5f80778a6f70bf7af550df2.jpg?image_play_button_size=2x&image_crop_resized=960x540&image_play_button=1&image_play_button_color=000000e0)
 
+{% embed url="https://courses.easypianohacks.com/courses/classical-piano-in-10-levels/597973-0c-repertoire/1967368-0-1-minuet-in-f-major-overview" %}
+
 
 
 ## 1. 🎼 Sight Reading
