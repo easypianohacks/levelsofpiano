@@ -51,10 +51,12 @@ Otherwise, you'll be that person playing the piano thinking you sound great...
 And you might sound great to people who are tone deaf...
 
 But you wonder why your videos don't get you as many views or followers  
-But you wonder why your version of the music doesn't sound like the one on YouTube
-
+But you wonder why your version of the music doesn't sound like the one on YouTube  
+  
 And deep down you know there's something about your playing that could be improved...  
-And you wonder why you suck because nobody had the heart to say it to your face.  
+  
+If nobody already left comments hating on your video...   
+You wonder why nobody had the heart to say it to your face.  
   
 You don't want to be that person.
 
