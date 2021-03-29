@@ -30,5 +30,13 @@ You are probably 1 of 3 people:
 
 You need to learn how to count out loud.
 
+Still not convinced? Let me show you why...
+
+{% page-ref page="why-do-we-need-to-count.md" %}
+
+
+
+
+
 
 

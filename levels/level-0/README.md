@@ -1,4 +1,4 @@
-# Level 0️⃣
+# Level 0
 
 ## 🖐 Technique
 
@@ -11,6 +11,8 @@
 
 
 {% page-ref page="the-basics/" %}
+
+{% page-ref page="the-basics/why-do-we-need-to-count.md" %}
 
 
 

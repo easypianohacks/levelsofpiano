@@ -17,12 +17,13 @@
 ## Levels
 
 * [🐤 Before you Begin](levels/before-you-begin.md)
-* [Level 0️⃣](levels/level-0/README.md)
+* [Level 0](levels/level-0/README.md)
   * [🖐 19 Beginner Drills](levels/level-0/19-beginner-drills.md)
   * [🎼 How to Count Tricky Rhythms](levels/level-0/the-basics/README.md)
-    * [Why do we need to count?](levels/level-0/the-basics/why-do-we-need-to-count.md)
+    * [🔢 Why do we need to count?](levels/level-0/the-basics/why-do-we-need-to-count.md)
   * [🎹 Minuet in F Major](levels/level-0/minuet-in-f-major.md)
-* [Level 1️⃣](levels/level-1.md)
+* [Level 1](levels/level-1.md)
+* [Fur Elise](levels/fur-elise.md)
 
 ## FAQ
 
