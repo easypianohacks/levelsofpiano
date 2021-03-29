@@ -10,7 +10,7 @@
 
 
 
-{% page-ref page="the-basics.md" %}
+{% page-ref page="the-basics/" %}
 
 
 
