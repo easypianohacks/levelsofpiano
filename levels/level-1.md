@@ -1,4 +1,4 @@
-# Level 1
+# 1️⃣ Level 1
 
 ## 🖐 Technique
 

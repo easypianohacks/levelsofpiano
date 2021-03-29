@@ -1,4 +1,4 @@
-# Level 10
+# 🔟 Level 10
 
 ## 🖐 Technique
 

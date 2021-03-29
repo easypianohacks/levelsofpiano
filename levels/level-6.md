@@ -1,4 +1,4 @@
-# Level 6
+# 6️⃣ Level 6
 
 ## 🖐 Technique
 
