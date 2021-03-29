@@ -202,11 +202,16 @@ If you count in subdivisions, like counting the 1/8th or 1/16th notes, the ticks
 
 ## **What does the dot mean?**
 
-|  |  | Count |
+| Name | Symbol | Count |
 | :--- | :--- | :--- |
-| Dot | . |  |
-| Dotted quarter ****note | [![dotted quarter note](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Figure_rythmique_noire_hampe_haut.svg/6px-Figure_rythmique_noire_hampe_haut.svg.png)](https://en.wikipedia.org/wiki/File:Figure_rythmique_noire_hampe_haut.svg). |  |
-| Dotted half note | [![dotted half note](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Figure_rythmique_blanche_hampe_haut.svg/6px-Figure_rythmique_blanche_hampe_haut.svg.png)](https://en.wikipedia.org/wiki/File:Figure_rythmique_blanche_hampe_haut.svg). |  |
+| Dot | . | _half the value of the note it's next to_ |
+| Dotted half note | [![dotted half note](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Figure_rythmique_blanche_hampe_haut.svg/6px-Figure_rythmique_blanche_hampe_haut.svg.png)](https://en.wikipedia.org/wiki/File:Figure_rythmique_blanche_hampe_haut.svg). | 1      2      3 |
+| Dotted quarter ****note | [![dotted quarter note](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Figure_rythmique_noire_hampe_haut.svg/6px-Figure_rythmique_noire_hampe_haut.svg.png)](https://en.wikipedia.org/wiki/File:Figure_rythmique_noire_hampe_haut.svg). | 1  +  2 |
+| Dotted eighth note | [![eighth note](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Figure_rythmique_croche_hampe_haut.svg/10px-Figure_rythmique_croche_hampe_haut.svg.png)](https://en.wikipedia.org/wiki/File:Figure_rythmique_croche_hampe_haut.svg). | 1e |
+
+\*\*\*\*
+
+## **What about 6/8 or 3/8 time?**
 
 \*\*\*\*
 
