@@ -108,7 +108,7 @@ Since the quarter note[![quarter note](https://upload.wikimedia.org/wikipedia/co
 
 ![](https://i.gyazo.com/54d9324fe284e8a3db1fd218fa4eb508.gif)
 
-Since there are only 3 beats in 1 bar, you would only 3 beats in each bar.
+Since there are only 3 beats in 1 bar, you would count only 3 beats in each bar.
 
 ![](../../../.gitbook/assets/image%20%2864%29.png)
 
