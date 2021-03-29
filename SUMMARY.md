@@ -3,20 +3,20 @@
 * [👋 Welcome](README.md)
 * [⚡ Quick Start!](quick-start.md)
 
+## Student Success
+
+* [🏆 Increased Finger Speed 52%](student-success/piano-student-increases-finger-speed-using-hanon.md)
+
 ## GET STARTED
 
 * [🎹 Intro to Levels of Piano](get-started/intro-to-levels-of-piano.md)
 * [📓 Practice Plan](get-started/practice-plan.md)
 * [🌲 Piano Skill Tree](get-started/piano-skill-tree.md)
 * [📞 My Personal Contact](get-started/my-personal-contact.md)
-
-## Student Success
-
-* [🏆 Increased Finger Speed 52%](student-success/piano-student-increases-finger-speed-using-hanon.md)
+* [🐤 Before you Begin](get-started/before-you-begin.md)
 
 ## Levels
 
-* [🐤 Before you Begin](levels/before-you-begin.md)
 * [Level 0](levels/level-0/README.md)
   * [🖐 19 Beginner Drills](levels/level-0/19-beginner-drills.md)
   * [🎼 How to Count Tricky Rhythms](levels/level-0/the-basics/README.md)
