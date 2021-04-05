@@ -503,7 +503,7 @@ How do you know when you're ready to lift **225 lbs**? When you can lift **205 l
 
 ## **What is the proper Hand Position /** Finger Position? ****
 
-**D**oes wrist position make a difference? 
+Does wrist position make a difference? 
 
 **Your wrists should be level.** If your wrists bend way up or way down, it's because your fingers aren't strong enough, and your over-compensating with your arms.
 
@@ -518,6 +518,8 @@ How do you know when you're ready to lift **225 lbs**? When you can lift **205 l
 You need muscles.   
 To build muscles, you need to do the drills.  
 {% endhint %}
+
+### Bad Hand Position
 
 ![](../.gitbook/assets/image%20%2830%29.png)
 
