@@ -549,7 +549,7 @@ How do you know when you're ready to lift **225 lbs**? When you can lift **205 l
 
 ### **Bad Finger Position**
 
-![Second finger in the RH is not curved.](../.gitbook/assets/image%20%2871%29.png)
+![Second finger in the RH is not curved.](../.gitbook/assets/image%20%2874%29.png)
 
 {% hint style="danger" %}
 This is because you are playing too fast to keep up good form.   
@@ -560,7 +560,7 @@ You will hurt yourself painfully if this continues. You will also limit your spe
 
 ### **Good Finger Position**
 
-![All fingers are curved.](../.gitbook/assets/image%20%2870%29.png)
+![All fingers are curved.](../.gitbook/assets/image%20%2873%29.png)
 
 {% hint style="success" %}
 This is because you are playing slow enough to keep up good form.  

@@ -143,7 +143,7 @@ If you don't follow the finger numbers, you will limit your accuracy and speed.
 
 ![](../../.gitbook/assets/image%20%2866%29.png)
 
-![](../../.gitbook/assets/image%20%2872%29.png)
+![](../../.gitbook/assets/image%20%2876%29.png)
 
 Fingering written on sheet music is usually the best way to play the music. 
 
