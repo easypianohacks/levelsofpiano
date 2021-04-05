@@ -53,6 +53,8 @@ You will hurt yourself painfully if this continues. You will also limit your spe
 
 
 
+![](../.gitbook/assets/image%20%2845%29.png)
+
 ### **Good Finger Position**
 
 ![All fingers are curved.](../.gitbook/assets/image%20%2870%29.png)
@@ -62,7 +64,11 @@ This is because you are playing slow enough to keep up good form.
 You will have healthy, strong fingers that can play fast and accurately this way.
 {% endhint %}
 
+{% embed url="https://drive.google.com/file/d/1DlWyhhz1VeJXJ0CoYkdIZaGG7uEBAb0d/view?usp=sharing" %}
 
+{% embed url="https://drive.google.com/file/d/1nSeDZVbXfVNMbzCU7gUYtcPqkblwb1ox/view?usp=sharing" %}
+
+### \*\*\*\*
 
 
 
