@@ -527,6 +527,8 @@ How do you know when you're ready to lift **225 lbs**? When you can lift **205 l
 
 ## **What is the proper Hand Position /** Finger Position? ****
 
+**Review** [**this video here**](https://youtu.be/5JtguHoRWlE?t=80)\*\*\*\*
+
 ![](https://i.gyazo.com/c8770a1ea8202fd48c76ad7f9cd929f5.gif)
 
 #### Does **hand and wrist** position make a difference? 

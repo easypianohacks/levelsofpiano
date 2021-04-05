@@ -133,6 +133,8 @@ Rest on the 2nd beat
 
 What are those little numbers above the notes?
 
+Watch [this video here](https://youtu.be/5JtguHoRWlE?t=117)
+
 ![](https://i.gyazo.com/34a02487efee51b6cec4f42867ee1761.gif)
 
 ### The Finger Numbers 
