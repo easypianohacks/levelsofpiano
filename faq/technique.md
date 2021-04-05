@@ -320,6 +320,8 @@ Small hands mean you can move faster, and you're more agile. Use it to your adva
 📽️ [Send us videos once you learn it](https://www.videoask.com/fmrqcvw9w) 
 {% endhint %}
 
+
+
 ## Sitting position reaching for notes
 
 > "The part I am playing takes place on the lower half of the keyboard. I tend to just stay seated by the pedals and sway in the direction I'm playing, but I'm not sure if that is how one should play.
@@ -499,7 +501,9 @@ How do you know when you're ready to lift **225 lbs**? When you can lift **205 l
 
 {% embed url="https://www.youtube.com/watch?v=UkN05fFiPP0&t=50s" %}
 
-## **D**oes wrist position make a difference? 
+## **What is the proper Hand Position /** Finger Position? ****
+
+**D**oes wrist position make a difference? 
 
 **Your wrists should be level.** If your wrists bend way up or way down, it's because your fingers aren't strong enough, and your over-compensating with your arms.
 
@@ -518,4 +522,28 @@ To build muscles, you need to do the drills.
 ![](../.gitbook/assets/image%20%2830%29.png)
 
 {% embed url="https://drive.google.com/file/d/1fIRCHYNvixbe24fDfQcqxN9y2FD\_OSw3/view?usp=sharing" %}
+
+### \*\*\*\*
+
+### **Bad Finger Position**
+
+![Second finger in the RH is not curved.](../.gitbook/assets/image%20%2870%29.png)
+
+{% hint style="danger" %}
+This is because you are playing too fast to keep up good form.   
+You will hurt yourself painfully if this continues. You will also limit your speed.
+{% endhint %}
+
+
+
+### **Good Finger Position**
+
+![All fingers are curved.](../.gitbook/assets/image%20%2869%29.png)
+
+{% hint style="success" %}
+This is because you are playing slow enough to keep up good form.  
+You will have healthy, strong fingers that can play fast and accurately this way.
+{% endhint %}
+
+
 
