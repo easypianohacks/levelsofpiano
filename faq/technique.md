@@ -57,7 +57,7 @@ They get progressively more difficult as your skill for reading improves.
 2. **When you run, you bend your knees** Curving your fingers gives you more power and control.  
 3. **Does a spider have curved legs or straight legs?** It allows you to move and jump faster.
 
-### What is "finger collapsing?"
+### What is the correct position? Why does my finger collapse?
 
 {% embed url="https://drive.google.com/file/d/1Yp9thk-oXPAQaSW1XTQt7h-nw7PnMSF1/view?usp=sharing" %}
 
@@ -567,7 +567,15 @@ This is because you are playing slow enough to keep up good form.
 You will have healthy, strong fingers that can play fast and accurately this way.
 {% endhint %}
 
+### What is the correct finger position? Why does my finger collapse?
 
+{% embed url="https://drive.google.com/file/d/1Yp9thk-oXPAQaSW1XTQt7h-nw7PnMSF1/view?usp=sharing" %}
+
+![](../.gitbook/assets/image%20%2845%29.png)
+
+{% embed url="https://drive.google.com/file/d/1DlWyhhz1VeJXJ0CoYkdIZaGG7uEBAb0d/view?usp=sharing" %}
+
+{% embed url="https://drive.google.com/file/d/1nSeDZVbXfVNMbzCU7gUYtcPqkblwb1ox/view?usp=sharing" %}
 
 ## 
 
