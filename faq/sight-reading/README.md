@@ -127,3 +127,23 @@ Rest on the 2nd beat
 
 **It's intentional...**you're meant to practice switching
 
+
+
+## Does fingering matter? Why is it important to follow the fingering?
+
+What are those little numbers above the notes?
+
+![](https://i.gyazo.com/34a02487efee51b6cec4f42867ee1761.gif)
+
+### The Finger Numbers 
+
+If you don't follow the finger numbers, you will limit your accuracy and speed.
+
+![](../../.gitbook/assets/image%20%2866%29.png)
+
+![](../../.gitbook/assets/image%20%2872%29.png)
+
+Fingering written on sheet music is usually the best way to play the music. 
+
+Fingering is written for efficient movement. Follow the fingering for speed and accuracy.
+

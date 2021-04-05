@@ -443,16 +443,30 @@ Practice slow and accurate for 5 - 10 reps, then fast for 1 rep to test the resu
 {% hint style="success" %}
 #### **Level 1 is too easy for you, so it's boring**
 
-#### **Level 10 is too hard**
+#### **L**evel 10 is too hard
 
-#### **Why not make sure you get 100% at Level 2, 3, 4, 5...before you try Level 10?**
+Why not make sure you get 100% at Level 2, 3, 4, 5...before you try Level 10?
+{% endhint %}
+
+### **Use an exercise to increase your speed**
+
+**My students play these 3 things every day to build technique and strength:**  
+
+1. Scales, Chords and Arpeggios
+2. Hanon
+3. Czerny
+
+{% hint style="success" %}
+🏋️ **It's basically like a sport.**  
+You need muscles.   
+To build muscles, you need to do the drills.  
 {% endhint %}
 
 ### Level up like a video game
 
 Find the next comfortable tempo instead of increasing to a speed that is too difficult
 
-Pretend your're trying to shoot arrows while running
+Pretend you're trying to shoot arrows while running
 
 When accuracy of 100% at 52 bpm becomes too easy, you need to find the speed where your accuracy is 90% \(e.g. 66 bpm\)
 
@@ -501,23 +515,27 @@ How do you know when you're ready to lift **225 lbs**? When you can lift **205 l
 
 {% embed url="https://www.youtube.com/watch?v=UkN05fFiPP0&t=50s" %}
 
+## **What is the proper Sitting Position?**
+
+![](https://i.gyazo.com/ed250310a5c179e4f8b52fba4195e525.gif)
+
+* [ ] Front half of the bench.
+* [ ] Back straight
+* [ ] Arms relaxed
+* [ ] Elbows slightly above the keys
+* [ ] Feet flat on the floor
+
 ## **What is the proper Hand Position /** Finger Position? ****
 
-Does wrist position make a difference? 
+![](https://i.gyazo.com/c8770a1ea8202fd48c76ad7f9cd929f5.gif)
+
+#### Does **hand and wrist** position make a difference? 
 
 **Your wrists should be level.** If your wrists bend way up or way down, it's because your fingers aren't strong enough, and your over-compensating with your arms.
 
-**My students play these three things every day to build technique and strength:**  
+![](https://i.gyazo.com/480c405118c10c957ef490ca4dcb5b6a.gif)
 
-1. Scales, Chords and Arpeggios
-2. Hanon
-3. Czerny
-
-{% hint style="success" %}
-🏋️ **It's basically like a sport.**  
-You need muscles.   
-To build muscles, you need to do the drills.  
-{% endhint %}
+\*\*\*\*
 
 ### Bad Hand Position
 
@@ -529,7 +547,7 @@ To build muscles, you need to do the drills.
 
 ### **Bad Finger Position**
 
-![Second finger in the RH is not curved.](../.gitbook/assets/image%20%2870%29.png)
+![Second finger in the RH is not curved.](../.gitbook/assets/image%20%2871%29.png)
 
 {% hint style="danger" %}
 This is because you are playing too fast to keep up good form.   
@@ -540,7 +558,7 @@ You will hurt yourself painfully if this continues. You will also limit your spe
 
 ### **Good Finger Position**
 
-![All fingers are curved.](../.gitbook/assets/image%20%2869%29.png)
+![All fingers are curved.](../.gitbook/assets/image%20%2870%29.png)
 
 {% hint style="success" %}
 This is because you are playing slow enough to keep up good form.  
@@ -548,4 +566,6 @@ You will have healthy, strong fingers that can play fast and accurately this way
 {% endhint %}
 
 
+
+## 
 
