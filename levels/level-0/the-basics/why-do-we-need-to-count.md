@@ -8,6 +8,8 @@ Need a refresher on note values?
 
 ## **Why do we need to count?**
 
+![](../../../.gitbook/assets/image%20%2877%29.png)
+
 {% hint style="success" %}
 If you can **play music without 0 wrong notes and 0 rhythm issues,**   
 you can skip this part and do whatever you like.
