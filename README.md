@@ -70,7 +70,7 @@ Questions you've asked, and we've answered about piano.
 
 Guides to common problems
 
-{% page-ref page="levels/level-0/the-basics/why-do-we-need-to-count.md" %}
+{% page-ref page="get-started/the-basics/why-do-we-need-to-count.md" %}
 
 {% page-ref page="guides/3-steps-to-get-piano-teacher-feedback.md" %}
 

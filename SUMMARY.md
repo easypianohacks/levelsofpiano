@@ -14,14 +14,14 @@
 * [🌲 Piano Skill Tree](get-started/piano-skill-tree.md)
 * [📞 My Personal Contact](get-started/my-personal-contact.md)
 * [🐤 Before you Begin](get-started/before-you-begin.md)
+* [🎼 How to Count Tricky Rhythms](get-started/the-basics/README.md)
+  * [🔢 Why do we need to count?](get-started/the-basics/why-do-we-need-to-count.md)
+  * [🎵  Note Names & Note Values](get-started/the-basics/note-names-and-note-values.md)
 
 ## Levels
 
 * [0️⃣ Level 0](levels/level-0/README.md)
   * [🖐 19 Beginner Drills](levels/level-0/19-beginner-drills.md)
-  * [🎼 How to Count Tricky Rhythms](levels/level-0/the-basics/README.md)
-    * [🔢 Why do we need to count?](levels/level-0/the-basics/why-do-we-need-to-count.md)
-    * [🎵  Note Names & Note Values](levels/level-0/the-basics/note-names-and-note-values.md)
   * [🎹 Minuet in F Major](levels/level-0/minuet-in-f-major.md)
 * [1️⃣ Level 1](levels/level-1.md)
 * [2️⃣ Level 2](levels/level-2.md)
