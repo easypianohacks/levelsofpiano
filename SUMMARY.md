@@ -16,6 +16,7 @@
 * [🐤 Before you Begin](get-started/before-you-begin.md)
 * [🎼 How to Count Tricky Rhythms](get-started/the-basics/README.md)
   * [🔢 Why do we need to count?](get-started/the-basics/why-do-we-need-to-count.md)
+  * [🔄 How to Practice Counting](get-started/the-basics/how-to-practice-counting.md)
   * [🎵  Note Names & Note Values](get-started/the-basics/note-names-and-note-values.md)
 
 ## Levels
