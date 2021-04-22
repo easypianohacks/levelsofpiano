@@ -20,5 +20,5 @@ Count the left hand
     G    F\#   F     E    Eb  D   
 G    F\#    F    E    Eb   D
 
-![](.gitbook/assets/image%20%2882%29.png)
+![](../.gitbook/assets/image%20%2882%29.png)
 

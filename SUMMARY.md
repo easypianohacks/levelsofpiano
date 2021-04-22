@@ -40,8 +40,8 @@
 
 ---
 
-* [💖 Viral](viral.md)
-* [Pirates of the Caribbean](pirates-of-the-caribbean.md)
+* [💖 Viral](viral/README.md)
+  * [Pirates of the Caribbean](viral/pirates-of-the-caribbean.md)
 
 ## FAQ
 
