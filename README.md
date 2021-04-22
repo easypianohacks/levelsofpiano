@@ -76,7 +76,7 @@ Guides to common problems
 
 {% page-ref page="guides/basics/" %}
 
-{% page-ref page="guides/beginner-books-guide.md" %}
+{% page-ref page="get-started/beginner-books-guide.md" %}
 
 {% page-ref page="faq/performing/how-to-be-more-confident-and-overcome-performance-anxiety.md" %}
 

@@ -14,6 +14,7 @@
 * [🌲 Piano Skill Tree](get-started/piano-skill-tree.md)
 * [📞 My Personal Contact](get-started/my-personal-contact.md)
 * [🐤 Before you Begin](get-started/before-you-begin.md)
+* [📚 Beginner Books Guide](get-started/beginner-books-guide.md)
 * [🎼 How to Count Tricky Rhythms](get-started/the-basics/README.md)
   * [🔢 Why do we need to count?](get-started/the-basics/why-do-we-need-to-count.md)
   * [🔄 How to Practice Counting](get-started/the-basics/how-to-practice-counting.md)
@@ -63,5 +64,4 @@
 * [💨 How to play faster without mistakes](guides/basics/README.md)
   * [💪 3 Levels of Technique Exercises](guides/basics/3-levels-of-technique-exercises.md)
   * [💪 Intro to Hanon](guides/basics/hanon.md)
-* [🐤 Beginner Books Guide](guides/beginner-books-guide.md)
 
