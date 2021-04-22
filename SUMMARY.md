@@ -40,6 +40,7 @@
 ---
 
 * [💖 Viral](viral.md)
+* [Pirates of the Caribbean](pirates-of-the-caribbean.md)
 
 ## FAQ
 
