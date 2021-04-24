@@ -22,7 +22,8 @@ Here is the final result in Google Sheets for all 100 exercises:
 Czerny Op. 599 - No. 1 Steps & Skips  
 ****[https://musescore.com/user/33774800/scores/6735957/s/BtHxkO/embed](https://musescore.com/user/33774800/scores/6735957/s/BtHxkO/embed)  
   
-Czerny Op. 599 - No. 1 Steps & Skips  
+Czerny Op. 599 - No. 2 Ledger Lines I  
+[https://musescore.com/user/33774800/scores/6735975/s/K5CAhg/embed](https://musescore.com/user/33774800/scores/6735975/s/K5CAhg/embed)  
 {% endhint %}
 
 ![Distance between Systems at 1.0 \(or your best judgement\) ](../.gitbook/assets/image%20%2883%29.png)
