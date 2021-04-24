@@ -45,7 +45,6 @@
 
 ## FAQ
 
-* [💡 How to add FAQs ✅](faq/how-to-add-faqs.md)
 * [🖐 Technique](faq/technique.md)
 * [🎼 Sight Reading](faq/sight-reading/README.md)
   * [🥁 Rhythm](faq/sight-reading/rhythm.md)
@@ -64,4 +63,9 @@
 * [💨 How to play faster without mistakes](guides/basics/README.md)
   * [💪 3 Levels of Technique Exercises](guides/basics/3-levels-of-technique-exercises.md)
   * [💪 Intro to Hanon](guides/basics/hanon.md)
+
+## Team
+
+* [💡 How to add FAQs ✅](team/how-to-add-faqs.md)
+* [Uploading Public Domain Sheets to Musescore](team/uploading-public-domain-sheets-to-musescore.md)
 
