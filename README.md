@@ -16,7 +16,7 @@ How to count, legato touch, arm weight, staccato, correct fingering for scales, 
 
 {% page-ref page="levels/level-0/" %}
 
-{% page-ref page="levels/level-1.md" %}
+{% page-ref page="levels/level-1/" %}
 
 {% page-ref page="levels/level-2.md" %}
 

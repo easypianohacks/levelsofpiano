@@ -20,12 +20,19 @@
   * [🔄 How to Practice Counting](get-started/the-basics/how-to-practice-counting.md)
   * [🎵  Note Names & Note Values](get-started/the-basics/note-names-and-note-values.md)
 
+## 30 Days
+
+* [Read 🎼](30-days/read.md)
+* [Train 🖐](30-days/train.md)
+* [Perform 🎹](30-days/perform.md)
+
 ## Levels
 
 * [0️⃣ Level 0](levels/level-0/README.md)
   * [🖐 19 Beginner Drills](levels/level-0/19-beginner-drills.md)
   * [🎹 Minuet in F Major](levels/level-0/minuet-in-f-major.md)
-* [1️⃣ Level 1](levels/level-1.md)
+* [1️⃣ Level 1](levels/level-1/README.md)
+  * [🎼 Steps & Skips - Czerny No. 1](levels/level-1/steps-and-skips-czerny-no.-1.md)
 * [2️⃣ Level 2](levels/level-2.md)
 * [3️⃣ Level 3](levels/level-3.md)
 * [4️⃣ Level 4](levels/level-4.md)
