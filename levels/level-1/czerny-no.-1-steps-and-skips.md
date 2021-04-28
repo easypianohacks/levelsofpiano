@@ -62,11 +62,11 @@ ex. measure number 1 = mm. 1
 >
 > Hence I’m doing as many reps as I can at Low speed before getting to Medium
 
-Start at 52 bpm 
 
-Count out loud
 
-If too easy bump it up to 66, then 72, then 84, then 100, then 112
+1. Start at 52 bpm 
+2. Count out loud
+3. If too easy bump it up to 66, then 72, then 84, then 100, then 112 bpm
 
 ![](../../.gitbook/assets/image%20%2893%29.png)
 
