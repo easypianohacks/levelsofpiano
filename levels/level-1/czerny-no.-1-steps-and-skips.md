@@ -56,9 +56,21 @@ ex. measure number 1 = mm. 1
 
 
 
+## Do I need to use the metronome?
 
+> Lucien, do I need to use the metronome for Czerny yet? Or I just need to familiarise with the counting first? As you’ve mentioned try to do it at 3 speed; Low, Medium, and Fast. I’ve managed to do it with 100% accuracy on Low speed, now getting to Medium speed but still have mistakes
+>
+> Hence I’m doing as many reps as I can at Low speed before getting to Medium
 
+Start at 52 bpm 
 
+Count out loud
+
+If too easy bump it up to 66, then 72, then 84, then 100, then 112
+
+![](../../.gitbook/assets/image%20%2893%29.png)
+
+![](../../.gitbook/assets/image%20%2894%29.png)
 
 
 
