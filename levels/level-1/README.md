@@ -10,9 +10,7 @@
 
 ## 🎼 Sight Reading
 
-
-
-![](../../.gitbook/assets/image%20%2892%29.png)
+{% page-ref page="czerny-no.-1-steps-and-skips.md" %}
 
 
 
