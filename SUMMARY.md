@@ -2,6 +2,7 @@
 
 * [👋 Welcome](README.md)
 * [⚡ Quick Start!](quick-start.md)
+* [🏆 How to win](how-to-win.md)
 
 ## Student Success
 
