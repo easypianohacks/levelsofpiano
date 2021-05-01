@@ -20,9 +20,13 @@ Once you've played your dream piece you will have a video. You graduate by playi
 
 ## ✨ Achieving your Dream Piece
 
-If you play Pirates of the Caribbean like I did and upload it to YouTube... 
+When you play \[your dream piece\] 
+
+* in public, or 
+* upload your best video to YouTube... 
 
 You will not only graduate with the best feeling in the world...  
+  
 Upon uploading your video, and successful mastery of your dream piece...
 
 You will receive:
