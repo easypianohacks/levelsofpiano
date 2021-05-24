@@ -10,9 +10,9 @@ Introduction to Legato, Staccato, Portato, Arm Weight, Slurs, Phrases, Scales, a
 
 How to count, and why the \#1 most overlooked mistake is **not counting out loud.** 
 
-{% page-ref page="../../get-started/the-basics/" %}
+{% page-ref page="../../get-started/the-basics.md" %}
 
-{% page-ref page="../../get-started/the-basics/why-do-we-need-to-count.md" %}
+{% page-ref page="../../get-started/why-do-we-need-to-count.md" %}
 
 
 
