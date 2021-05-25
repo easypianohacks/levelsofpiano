@@ -64,3 +64,9 @@ But how do I count it?
 
 ![](../.gitbook/assets/image%20%28100%29.png)
 
+
+
+{% embed url="https://youtu.be/4tblaG0ZNCc" %}
+
+
+
