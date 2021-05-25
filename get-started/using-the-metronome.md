@@ -56,3 +56,11 @@ This means you play [![beamed eighth notes](https://upload.wikimedia.org/wikiped
 
 Since the quarter note[![quarter note](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Figure_rythmique_noire_hampe_haut.svg/6px-Figure_rythmique_noire_hampe_haut.svg.png)](https://en.wikipedia.org/wiki/File:Figure_rythmique_noire_hampe_haut.svg) = 1 beat, you would count the numbers with the quarter notes.
 
+
+
+## How do I count it?
+
+But how do I count it?
+
+![](../.gitbook/assets/image%20%28100%29.png)
+
