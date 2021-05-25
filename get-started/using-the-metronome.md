@@ -2,13 +2,19 @@
 
 ## Counting Faster Speeds
 
-The numbers on a metronome have a set speed from 40 all the way to 218.
-
+The numbers on a metronome have a set speed from 40 all the way to 218.  
 How do we go faster than 218? How do we go slower than 40?
 
-We assign different note values to the metronome tick.
-
+We assign different note values to the metronome tick.  
 The metronome bpm can be the same, but we can multiply the value by 2.. or divide by 2...
+
+
+
+![](../.gitbook/assets/image%20%2898%29.png)
+
+{% embed url="https://www.google.com/search?q=metronome" %}
+
+
 
 ### Which one is faster?
 
@@ -23,14 +29,6 @@ You need  2 x[![eighth note](https://upload.wikimedia.org/wikipedia/commons/thum
 
 That means  [![quarter note](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Figure_rythmique_noire_hampe_haut.svg/6px-Figure_rythmique_noire_hampe_haut.svg.png)](https://en.wikipedia.org/wiki/File:Figure_rythmique_noire_hampe_haut.svg)=  100  is 2x faster than[![eighth note](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Figure_rythmique_croche_hampe_haut.svg/10px-Figure_rythmique_croche_hampe_haut.svg.png)](https://en.wikipedia.org/wiki/File:Figure_rythmique_croche_hampe_haut.svg)= 100 
 {% endhint %}
-
-
-
-![](../.gitbook/assets/image%20%2898%29.png)
-
-{% embed url="https://www.google.com/search?q=metronome" %}
-
-
 
 ## 1 Tick = Quarter Note
 
