@@ -20,7 +20,7 @@
 * [🔢 Why do we need to count?](get-started/why-do-we-need-to-count.md)
 * [🔄 How to Practice Counting](get-started/how-to-practice-counting.md)
 * [🎵  Note Names & Note Values](get-started/note-names-and-note-values.md)
-* [Using the Metronome](get-started/using-the-metronome.md)
+* [🥁 Using the Metronome](get-started/using-the-metronome.md)
 
 ## 30 Days
 

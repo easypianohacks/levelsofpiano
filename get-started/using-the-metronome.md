@@ -1,4 +1,4 @@
-# Using the Metronome
+# 🥁 Using the Metronome
 
 ## Counting Faster Speeds
 
