@@ -1,9 +1,11 @@
 # 🥁 Using the Metronome
 
-## Counting Faster Speeds
+## How to Count Faster Speeds
 
 The numbers on a metronome have a set speed from 40 all the way to 218.  
 How do we go faster than 218? How do we go slower than 40?
+
+**Short Answer:** We change the value of each metronome tick!
 
 ![Igli had a hard time getting it at first...](../.gitbook/assets/image%20%2897%29.png)
 
