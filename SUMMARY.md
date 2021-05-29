@@ -68,11 +68,9 @@
   * [💪 3 Levels of Technique Exercises](guides/basics/3-levels-of-technique-exercises.md)
   * [💪 Intro to Hanon](guides/basics/hanon.md)
 
-## 30 Days
+## Feedback Fridays
 
-* [Read 🎼](30-days/read.md)
-* [Train 🖐](30-days/train.md)
-* [Perform 🎹](30-days/perform.md)
+* [Season 1](feedback-fridays/season-1.md)
 
 ## Team
 
