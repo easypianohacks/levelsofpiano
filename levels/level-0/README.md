@@ -16,6 +16,8 @@ How to count, and why the \#1 most overlooked mistake is **not counting out loud
 
 {% page-ref page="minuet-in-f-major/key-signatures-vs.-accidentals.md" %}
 
+{% page-ref page="czerny-no.-1-steps-and-skips.md" %}
+
 
 
 ## 🎹 Repertoire
