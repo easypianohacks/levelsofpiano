@@ -30,6 +30,7 @@
 
 ## Levels
 
+* [Key Signatures vs. Accidentals](levels/key-signatures-vs.-accidentals.md)
 * [0️⃣ Level 0](levels/level-0/README.md)
   * [🖐 19 Beginner Drills](levels/level-0/19-beginner-drills.md)
   * [🎹 Minuet in F Major](levels/level-0/minuet-in-f-major.md)
