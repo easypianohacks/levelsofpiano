@@ -22,12 +22,6 @@
   * [🔄 How to Practice Counting](get-started/why-do-we-need-to-count/how-to-practice-counting.md)
   * [🥁 Using the Metronome](get-started/why-do-we-need-to-count/using-the-metronome.md)
 
-## 30 Days
-
-* [Read 🎼](30-days/read.md)
-* [Train 🖐](30-days/train.md)
-* [Perform 🎹](30-days/perform.md)
-
 ## Levels
 
 * [0️⃣ Level 0](levels/level-0/README.md)
@@ -73,6 +67,12 @@
 * [💨 How to play faster without mistakes](guides/basics/README.md)
   * [💪 3 Levels of Technique Exercises](guides/basics/3-levels-of-technique-exercises.md)
   * [💪 Intro to Hanon](guides/basics/hanon.md)
+
+## 30 Days
+
+* [Read 🎼](30-days/read.md)
+* [Train 🖐](30-days/train.md)
+* [Perform 🎹](30-days/perform.md)
 
 ## Team
 
