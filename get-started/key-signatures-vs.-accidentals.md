@@ -1,4 +1,4 @@
-# Key Signatures vs. Accidentals
+# \# ♭ Key Signatures vs. Accidentals
 
 ## What is the difference?
 

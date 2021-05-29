@@ -21,6 +21,7 @@
 * [🔄 How to Practice Counting](get-started/how-to-practice-counting.md)
 * [🎵  Note Names & Note Values](get-started/note-names-and-note-values.md)
 * [🥁 Using the Metronome](get-started/using-the-metronome.md)
+* [\# ♭ Key Signatures vs. Accidentals](get-started/key-signatures-vs.-accidentals.md)
 
 ## 30 Days
 
@@ -30,7 +31,6 @@
 
 ## Levels
 
-* [Key Signatures vs. Accidentals](levels/key-signatures-vs.-accidentals.md)
 * [0️⃣ Level 0](levels/level-0/README.md)
   * [🖐 19 Beginner Drills](levels/level-0/19-beginner-drills.md)
   * [🎹 Minuet in F Major](levels/level-0/minuet-in-f-major.md)

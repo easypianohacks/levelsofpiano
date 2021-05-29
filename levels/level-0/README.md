@@ -14,6 +14,8 @@ How to count, and why the \#1 most overlooked mistake is **not counting out loud
 
 {% page-ref page="../../get-started/why-do-we-need-to-count.md" %}
 
+{% page-ref page="../../get-started/key-signatures-vs.-accidentals.md" %}
+
 
 
 ## 🎹 Repertoire
