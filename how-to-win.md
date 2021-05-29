@@ -2,7 +2,9 @@
 
 ## ✅ Leveling Up
 
-Each time you upload a new video for feedback, we assess if you level up in the app. 
+Each time you upload a new video for feedback in the [Facebook Group](https://www.facebook.com/groups/levelsofpiano/), we assess if you level up!
+
+If you pass that level, your level will increase in the app :\)
 
 Everyone comes in wanting to play their dream piece. 
 
