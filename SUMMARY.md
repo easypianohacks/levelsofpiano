@@ -47,6 +47,10 @@
 * [💖 Viral](viral/README.md)
   * [Pirates of the Caribbean](viral/pirates-of-the-caribbean.md)
 
+## Feedback Fridays
+
+* [Season 1](feedback-fridays/season-1.md)
+
 ## FAQ
 
 * [🖐 Technique](faq/technique.md)
@@ -67,10 +71,6 @@
 * [💨 How to play faster without mistakes](guides/basics/README.md)
   * [💪 3 Levels of Technique Exercises](guides/basics/3-levels-of-technique-exercises.md)
   * [💪 Intro to Hanon](guides/basics/hanon.md)
-
-## Feedback Fridays
-
-* [Season 1](feedback-fridays/season-1.md)
 
 ## Team
 
