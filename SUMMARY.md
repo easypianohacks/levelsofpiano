@@ -16,12 +16,11 @@
 * [📞 My Personal Contact](get-started/my-personal-contact.md)
 * [🐤 Before you Begin](get-started/before-you-begin.md)
 * [📚 Beginner Books Guide](get-started/beginner-books-guide.md)
-* [🎼 How to Count Tricky Rhythms](get-started/the-basics.md)
-* [🔢 Why do we need to count?](get-started/why-do-we-need-to-count.md)
-* [🔄 How to Practice Counting](get-started/how-to-practice-counting.md)
-* [🎵  Note Names & Note Values](get-started/note-names-and-note-values.md)
-* [🥁 Using the Metronome](get-started/using-the-metronome.md)
-* [\# ♭ Key Signatures vs. Accidentals](get-started/key-signatures-vs.-accidentals.md)
+* [🔢 Why do we need to count?](get-started/why-do-we-need-to-count/README.md)
+  * [🎵  Note Names & Note Values](get-started/why-do-we-need-to-count/note-names-and-note-values.md)
+  * [🎼 How to Count + Play](get-started/why-do-we-need-to-count/the-basics.md)
+  * [🔄 How to Practice Counting](get-started/why-do-we-need-to-count/how-to-practice-counting.md)
+  * [🥁 Using the Metronome](get-started/why-do-we-need-to-count/using-the-metronome.md)
 
 ## 30 Days
 
@@ -32,10 +31,11 @@
 ## Levels
 
 * [0️⃣ Level 0](levels/level-0/README.md)
+  * [🎼 Czerny No. 1 - Steps & Skips](levels/level-0/czerny-no.-1-steps-and-skips.md)
   * [🖐 19 Beginner Drills](levels/level-0/19-beginner-drills.md)
-  * [🎹 Minuet in F Major](levels/level-0/minuet-in-f-major.md)
-* [1️⃣ Level 1](levels/level-1/README.md)
-  * [🎼 Czerny No. 1 - Steps & Skips](levels/level-1/czerny-no.-1-steps-and-skips.md)
+  * [🎹 Minuet in F Major](levels/level-0/minuet-in-f-major/README.md)
+    * [\# ♭ Key Signatures vs. Accidentals](levels/level-0/minuet-in-f-major/key-signatures-vs.-accidentals.md)
+* [1️⃣ Level 1](levels/level-1.md)
 * [2️⃣ Level 2](levels/level-2.md)
 * [3️⃣ Level 3](levels/level-3.md)
 * [4️⃣ Level 4](levels/level-4.md)

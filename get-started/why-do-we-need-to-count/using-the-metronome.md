@@ -7,14 +7,14 @@ How do we go faster than 218? How do we go slower than 40?
 
 **Short Answer:** We change the value of each metronome tick!
 
-![Igli had a hard time getting it at first...](../.gitbook/assets/image%20%2897%29.png)
+![Igli had a hard time getting it at first...](../../.gitbook/assets/image%20%2897%29.png)
 
 We assign different note values to the metronome tick.  
 The metronome bpm can be the same, but we can multiply the value by 2.. or divide by 2...
 
 
 
-![](../.gitbook/assets/image%20%2899%29.png)
+![](../../.gitbook/assets/image%20%2899%29.png)
 
 {% embed url="https://www.google.com/search?q=metronome" %}
 
@@ -66,7 +66,7 @@ Since the quarter note[![quarter note](https://upload.wikimedia.org/wikipedia/co
 
 But how do I count it?
 
-![](../.gitbook/assets/image%20%28101%29.png)
+![](../../.gitbook/assets/image%20%28101%29.png)
 
 
 

@@ -16,7 +16,7 @@ How to count, legato touch, arm weight, staccato, correct fingering for scales, 
 
 {% page-ref page="levels/level-0/" %}
 
-{% page-ref page="levels/level-1/" %}
+{% page-ref page="levels/level-1.md" %}
 
 {% page-ref page="levels/level-2.md" %}
 
@@ -70,7 +70,7 @@ Questions you've asked, and we've answered about piano.
 
 Guides to common problems
 
-{% page-ref page="get-started/why-do-we-need-to-count.md" %}
+{% page-ref page="get-started/why-do-we-need-to-count/" %}
 
 {% page-ref page="guides/3-steps-to-get-piano-teacher-feedback.md" %}
 

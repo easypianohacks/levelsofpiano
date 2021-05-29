@@ -2,7 +2,7 @@
 description: 'Besides playing the right notes, you have to play them at the right time.'
 ---
 
-# 🎼 How to Count Tricky Rhythms
+# 🎼 How to Count + Play
 
 ## The \#1 Beginner Mistake 
 
@@ -35,7 +35,7 @@ You need to learn how to count out loud.
 
 Still not convinced? Let me show you why...
 
-{% page-ref page="why-do-we-need-to-count.md" %}
+{% page-ref page="./" %}
 
 
 

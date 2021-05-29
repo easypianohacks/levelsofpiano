@@ -10,7 +10,7 @@
 
 ## 🎼 Sight Reading
 
-{% page-ref page="czerny-no.-1-steps-and-skips.md" %}
+{% page-ref page="level-0/czerny-no.-1-steps-and-skips.md" %}
 
 
 

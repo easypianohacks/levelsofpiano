@@ -132,7 +132,7 @@ If you want to play[ Pirates arranged by Jarrod Radnich,](https://youtu.be/Eg0DF
 
 ## How do I count triplets, tuplets or syncopation?
 
-![](../.gitbook/assets/image%20%2879%29.png)
+![](../../.gitbook/assets/image%20%2879%29.png)
 
 > I got a good knowledge in music theory in general since I've always interested in it, but something I struggle now is counting out loud❤️The problem of counting out loud is when the rhythm changes, with triplets or syncopations for example.
 
@@ -142,7 +142,7 @@ If you want to play[ Pirates arranged by Jarrod Radnich,](https://youtu.be/Eg0DF
 
 ### **Example 1**
 
-![](../.gitbook/assets/image%20%2881%29.png)
+![](../../.gitbook/assets/image%20%2881%29.png)
 
 ### **Example 2** 
 
@@ -152,7 +152,7 @@ For example, in these bars you have:
 * a sextuplet 
 * a triplet 
 
-![](../.gitbook/assets/image%20%2880%29.png)
+![](../../.gitbook/assets/image%20%2880%29.png)
 
 
 

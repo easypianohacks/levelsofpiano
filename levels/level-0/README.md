@@ -10,11 +10,11 @@ Introduction to Legato, Staccato, Portato, Arm Weight, Slurs, Phrases, Scales, a
 
 How to count, and why the \#1 most overlooked mistake is **not counting out loud.** 
 
-{% page-ref page="../../get-started/the-basics.md" %}
+{% page-ref page="../../get-started/why-do-we-need-to-count/the-basics.md" %}
 
-{% page-ref page="../../get-started/why-do-we-need-to-count.md" %}
+{% page-ref page="../../get-started/why-do-we-need-to-count/" %}
 
-{% page-ref page="../../get-started/key-signatures-vs.-accidentals.md" %}
+{% page-ref page="minuet-in-f-major/key-signatures-vs.-accidentals.md" %}
 
 
 
@@ -22,7 +22,7 @@ How to count, and why the \#1 most overlooked mistake is **not counting out loud
 
 Learn all the above concepts by playing a 3/4 dance piece by Mozart's father: Leopold Mozart.
 
-{% page-ref page="minuet-in-f-major.md" %}
+{% page-ref page="minuet-in-f-major/" %}
 
 
 

@@ -38,7 +38,7 @@ This prepares you for situations like this example in Czerny Op. 599 No. 12:
 
 This type of articulation is covered in detail in Level 0 - Minuet in F Major:
 
-{% page-ref page="minuet-in-f-major.md" %}
+{% page-ref page="minuet-in-f-major/" %}
 
 ![](https://embedwistia-a.akamaihd.net/deliveries/99d15e0675ac5560da2e7e8d81639fc3f740168b.jpg?image_play_button_size=2x&image_crop_resized=960x540&image_play_button=1&image_play_button_color=000000e0)
 
