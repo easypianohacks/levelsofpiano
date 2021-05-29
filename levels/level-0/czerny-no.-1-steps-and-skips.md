@@ -5,7 +5,7 @@ description: Czerny Op. 599 No. 1
 # 🎼 Czerny No. 1 - Steps & Skips
 
 Welcome to the 1st of 100 Czerny exercises!   
-By the time you finish all exercises, you will be a skilled sight reader...  
+By the time you finish all exercises, you will be a skilled sight reader...   
   
 Approved by Czerny, one of Beethoven's students once upon a time 😀
 
