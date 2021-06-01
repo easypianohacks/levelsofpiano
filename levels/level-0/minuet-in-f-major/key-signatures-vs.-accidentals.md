@@ -8,5 +8,5 @@ Watch this video:
 
 {% embed url="https://youtu.be/ITSj60MIDE8\'" %}
 
-
+![](../../../.gitbook/assets/image%20%28103%29.png)
 
