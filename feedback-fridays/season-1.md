@@ -36,3 +36,11 @@
 
 
 
+## Episode 7
+
+We meet Kenzo and do a refresher on note values, and how to count while playing piano. 
+
+{% embed url="https://youtu.be/bKMZ8gesYyo" %}
+
+
+
