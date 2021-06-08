@@ -44,3 +44,9 @@ We meet Kenzo and do a refresher on note values, and how to count while playing 
 
 
 
+## Episode 8 
+
+{% embed url="https://youtu.be/XO28zlrimSw" %}
+
+
+
