@@ -17,7 +17,7 @@ As we progress, we might have 2-3 different shades of tone production
 
 There is a whole range of **dynamics** we can use to color a piece from very very quiet to very very loud.
 
-![](../../../.gitbook/assets/image%20%28107%29.png)
+![](../../../.gitbook/assets/image%20%28108%29.png)
 
 As you get better at controlling how loud or soft you can get, the more colorful your music can sound.
 
@@ -35,14 +35,18 @@ As you get better at controlling how loud or soft you can get, the more colorful
 | [![Music-crescendo.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Music-crescendo.svg/50px-Music-crescendo.svg.png)](https://en.wikipedia.org/wiki/File:Music-crescendo.svg) | **Crescendo** Gradually get louder. |
 | [![Music-diminuendo.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Music-diminuendo.svg/50px-Music-diminuendo.svg.png)](https://en.wikipedia.org/wiki/File:Music-diminuendo.svg) | **Diminuendo \(Decrescendo\)** Gradually get softer. |
 
-
+## How to Increase Your Dynamic Range
 
 **Find out what your quietest sound is, then find out your loudest sound**  
-Next, figure out how many different shades you can do in between
+Next, figure out how many different shades you can do in between.
 
 **Start from middle C the quietest**  
 Then **crescendo** all the way to the top C being the loudest  
 Then **diminuendo** back down to middle C
+
+![](../../../.gitbook/assets/image%20%28107%29.png)
+
+![](../../../.gitbook/assets/image%20%28109%29.png)
 
 **Do this slowly and evenly** _**with the metronome**_ **every day 10-20 times**  
 Watch...as you speed up, it gets harder
