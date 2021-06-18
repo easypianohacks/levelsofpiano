@@ -1,5 +1,7 @@
 # 🔢 Why do we need to count?
 
+
+
 ![](https://media.giphy.com/media/N1pMn2QOtG8Q8/giphy.gif)
 
 Need a refresher on note values?
@@ -7,6 +9,8 @@ Need a refresher on note values?
 {% page-ref page="note-names-and-note-values.md" %}
 
 ## **Why do we need to count?**
+
+![](https://i.gyazo.com/2bab93efc76529abac402e1fb7c8cd6f.gif)
 
 ![](../../.gitbook/assets/image%20%2877%29.png)
 
