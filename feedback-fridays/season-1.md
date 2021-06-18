@@ -50,3 +50,23 @@ We meet Kenzo and do a refresher on note values, and how to count while playing 
 
 
 
+## Episode 9
+
+{% embed url="https://youtu.be/zeAyOSbbrTA" %}
+
+
+
+## Episode 10
+
+{% embed url="https://youtu.be/NPkP0Uzk8eg" %}
+
+
+
+## Episode 11
+
+{% embed url="https://youtu.be/bg8bCo\_A\_ZY" %}
+
+
+
+
+
