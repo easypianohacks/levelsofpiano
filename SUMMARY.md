@@ -28,6 +28,7 @@
   * [🎼 Czerny No. 1 - Steps & Skips](levels/level-0/czerny-no.-1-steps-and-skips.md)
   * [🖐 19 Beginner Drills](levels/level-0/19-beginner-drills.md)
   * [🎹 Minuet in F Major](levels/level-0/minuet-in-f-major/README.md)
+    * [Student Feedback ft. Kavinvit @k7n3wt0n](levels/level-0/minuet-in-f-major/student-feedback-ft.-kavinvit-k7n3wt0n.md)
     * [Intro to Dynamics](levels/level-0/minuet-in-f-major/intro-to-dynamics.md)
     * [\# ♭ Key Signatures vs. Accidentals](levels/level-0/minuet-in-f-major/key-signatures-vs.-accidentals.md)
 * [1️⃣ Level 1](levels/level-1.md)
