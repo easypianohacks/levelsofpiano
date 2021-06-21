@@ -6,11 +6,7 @@ If you master this piece, you will know when to hold / play smoothly, and when t
 
 {% embed url="https://youtu.be/6IryNjSC0Qk" %}
 
-
-
-![](../../../.gitbook/assets/image%20%28112%29.png)
-
-
+![](../../../.gitbook/assets/image%20%28113%29.png)
 
 ### **1st slur \(blue\)** 
 
