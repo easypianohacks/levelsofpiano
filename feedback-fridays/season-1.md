@@ -68,5 +68,11 @@ We meet Kenzo and do a refresher on note values, and how to count while playing 
 
 
 
+## Episode 12
+
+{% embed url="https://youtu.be/5lfIZV-QpdQ" %}
+
+
+
 
 
