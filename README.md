@@ -14,13 +14,13 @@ A guide to each level of EasyPianoHacks.
 
 How to count, legato touch, arm weight, staccato, correct fingering for scales, intro to Hanon. 
 
-{% page-ref page="levels/level-0/" %}
+{% page-ref page="levels/beginner/level-0/" %}
 
-{% page-ref page="levels/level-1.md" %}
+{% page-ref page="levels/beginner/level-1.md" %}
 
-{% page-ref page="levels/level-2.md" %}
+{% page-ref page="levels/beginner/level-2.md" %}
 
-{% page-ref page="levels/level-3.md" %}
+{% page-ref page="levels/beginner/level-3.md" %}
 {% endtab %}
 
 {% tab title="Intermediate" %}
@@ -28,13 +28,13 @@ How to count, legato touch, arm weight, staccato, correct fingering for scales, 
 
 How to play fast scalular runs, make hard pieces easy to understand, and expressive melodies.
 
-{% page-ref page="levels/level-4.md" %}
+{% page-ref page="levels/intermediate/level-4.md" %}
 
-{% page-ref page="levels/level-5.md" %}
+{% page-ref page="levels/intermediate/level-5.md" %}
 
-{% page-ref page="levels/level-6.md" %}
+{% page-ref page="levels/intermediate/level-6.md" %}
 
-{% page-ref page="levels/level-7.md" %}
+{% page-ref page="levels/intermediate/level-7.md" %}
 {% endtab %}
 
 {% tab title="Advanced" %}
@@ -42,13 +42,13 @@ How to play fast scalular runs, make hard pieces easy to understand, and express
 
 How to fix mistakes in less time, increase your dynamic range, and make your melodies sing.
 
-{% page-ref page="levels/level-8.md" %}
+{% page-ref page="levels/advanced/level-8.md" %}
 
-{% page-ref page="levels/level-9.md" %}
+{% page-ref page="levels/advanced/level-9.md" %}
 
-{% page-ref page="levels/level-10.md" %}
+{% page-ref page="levels/advanced/level-10.md" %}
 
-{% page-ref page="levels/master/" %}
+{% page-ref page="levels/master.md" %}
 {% endtab %}
 {% endtabs %}
 

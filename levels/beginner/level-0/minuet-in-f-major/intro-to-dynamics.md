@@ -17,7 +17,7 @@ As we progress, we might have 2-3 different shades of tone production
 
 There is a whole range of **dynamics** we can use to color a piece from very very quiet to very very loud.
 
-![](../../../.gitbook/assets/image%20%28108%29.png)
+![](../../../../.gitbook/assets/image%20%28108%29.png)
 
 As you get better at controlling how loud or soft you can get, the more colorful your music can sound.
 
@@ -44,9 +44,9 @@ Next, figure out how many different shades you can do in between.
 Then **crescendo** all the way to the top C being the loudest  
 Then **diminuendo** back down to middle C
 
-![](../../../.gitbook/assets/image%20%28107%29.png)
+![](../../../../.gitbook/assets/image%20%28107%29.png)
 
-![](../../../.gitbook/assets/image%20%28109%29.png)
+![](../../../../.gitbook/assets/image%20%28109%29.png)
 
 **Do this slowly and evenly** _**with the metronome**_ **every day 10-20 times**  
 Watch...as you speed up, it gets harder

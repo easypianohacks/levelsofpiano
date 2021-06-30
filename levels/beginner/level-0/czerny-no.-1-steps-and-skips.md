@@ -9,7 +9,7 @@ By the time you finish all exercises, you will be a skilled sight reader...
   
 Approved by Czerny, one of Beethoven's students once upon a time 😀
 
-![](../../.gitbook/assets/image%20%2891%29.png)
+![](../../../.gitbook/assets/image%20%2891%29.png)
 
 Common questions...
 
@@ -19,7 +19,7 @@ Common questions...
 
 > The biggest question I have is why does it says Right and Left hand but both of the signs are Treble Clef? Is not the one for the left hand is supposed to be Bass Clef?
 
-![](../../.gitbook/assets/image%20%2888%29.png)
+![](../../../.gitbook/assets/image%20%2888%29.png)
 
 Left hand plays because the grand staff says to play with both hands.
 
@@ -38,7 +38,7 @@ Luna, a student asks:
 > But just needed to confirm, we only repeat once, yes?   
 > Meaning we need to play it twice? Or as many repetitions that we like?
 
-![](../../.gitbook/assets/image%20%2889%29.png)
+![](../../../.gitbook/assets/image%20%2889%29.png)
 
 Repeat sign tells you to repeat once to the beginning, or the nearest repeat sign 
 
@@ -68,9 +68,9 @@ ex. measure number 1 = mm. 1
 2. Count out loud
 3. If too easy bump it up to 66, then 72, then 84, then 100, then 112 bpm
 
-![](../../.gitbook/assets/image%20%2893%29.png)
+![](../../../.gitbook/assets/image%20%2893%29.png)
 
-![](../../.gitbook/assets/image%20%2894%29.png)
+![](../../../.gitbook/assets/image%20%2894%29.png)
 
 
 

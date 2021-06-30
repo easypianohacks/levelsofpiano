@@ -10,7 +10,7 @@ Watch this video:
 
 ## Why is there a redundant flat after a natural sign?
 
-![](../../../.gitbook/assets/image%20%28110%29.png)
+![](../../../../.gitbook/assets/image%20%28110%29.png)
 
 
 
@@ -23,11 +23,11 @@ After a natural sign usually will put a redundant flat as a reminder, but not al
   
 Does this B natural make the next B also natural?
 
-![](../../../.gitbook/assets/image%20%28106%29.png)
+![](../../../../.gitbook/assets/image%20%28106%29.png)
 
 
 
-![](../../../.gitbook/assets/image%20%28103%29.png)
+![](../../../../.gitbook/assets/image%20%28103%29.png)
 
 
 
