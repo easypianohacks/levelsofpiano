@@ -8,7 +8,7 @@ Until now 😉
 
 ### **1. Easy Concepts, Hard Work**
 
-We make it Easy to understand, but like anything worthwhile, the work is hard.  
+**We make piano easy to understand**, but like anything worthwhile, the work is hard.  
   
 There's no way anyone can teach you everything about piano in 10 weeks. Piano is a lifelong journey.   
   
