@@ -91,11 +91,20 @@ Just because you understand something, doesn't mean you're good at it.
 
 If you need something to remind you what to do each day, there's no one that comes close to this than
 
-Gary Vaynerchuk @garyvee himself
+### **Gary Vaynerchuk @garyvee** 
 
-{% embed url="https://open.spotify.com/show/6SZVsPIxPfVs6aavqM1peY?si=RsiA2YpSRAKmf0cmyss2Ag&dl\_branch=1" %}
+Gary's content is 
 
+* how I was able to build all my businesses
+* the reason why I feel no judgement from haters
+* why I have such an engaging community because I care so much 
+* how I profit from new trends before they go mainstream  
 
+{% embed url="https://open.spotify.com/episode/4dlI4QfuTUHrlerWMhKqt7?si=f2824c859c1f4278" %}
+
+{% embed url="https://open.spotify.com/episode/14HcGtawaKpg7beo658JBV?si=12b3daa0ed09422a" %}
+
+\*\*\*\*
 
 **I highly recommend listening to this every day: 👉** [https://open.spotify.com/show/6SZVsPIxPfVs6aavqM1peY?si=RsiA2YpSRAKmf0cmyss2Ag&dl\_branch=1](https://open.spotify.com/show/6SZVsPIxPfVs6aavqM1peY?si=RsiA2YpSRAKmf0cmyss2Ag&dl_branch=1)
 
