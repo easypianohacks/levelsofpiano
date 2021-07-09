@@ -32,7 +32,7 @@ This series shows you what you are doing wrong, with step-by-step videos from Le
 
 {% page-ref page="faq/value.md" %}
 
-{% page-ref page="faq/mindset.md" %}
+{% page-ref page="faq/mindset/" %}
 
 
 

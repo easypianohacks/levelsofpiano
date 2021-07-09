@@ -65,7 +65,8 @@
 * [💸 Free Stuff](faq/value.md)
 * [🎩 Performing](faq/performing/README.md)
   * [😱 How to be more confident & overcome performance anxiety](faq/performing/how-to-be-more-confident-and-overcome-performance-anxiety.md)
-* [🧠 Mindset](faq/mindset.md)
+* [🧠 Mindset](faq/mindset/README.md)
+  * [Book List](faq/mindset/book-list.md)
 
 ## GUIDES
 
