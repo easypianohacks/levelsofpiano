@@ -80,5 +80,41 @@ We meet Kenzo and do a refresher on note values, and how to count while playing 
 
 
 
+## Episode 14
+
+{% embed url="https://youtu.be/qceSiPGufzs" %}
+
+
+
+## Episode 15
+
+{% embed url="https://youtu.be/3pa\_b-mJ9A4" %}
+
+
+
+## Episode 16
+
+{% embed url="https://www.youtube.com/watch?v=XwsVMYGcs9Q" %}
+
+
+
+
+
+## Episode 17
+
+{% embed url="https://youtu.be/3tyf8BUpDDc" %}
+
+
+
+## Episode 18
+
+
+
+{% embed url="https://youtu.be/-2LWGnqySmg" %}
+
+
+
+
+
 
 
