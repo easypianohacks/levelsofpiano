@@ -56,6 +56,7 @@ Everyone comes in wanting to play their dream piece.
 * Fur Elise
 * Chopin Nocturne
 * Clair de Lune
+* Minute Waltz
 * Any dream piece...
 
 Once you've played your dream piece you will have a video. You graduate by playing that dream piece. You can play piano in public or upload a video to IG / YouTube ![&#x1F642;](https://static.xx.fbcdn.net/images/emoji.php/v9/t4c/1/16/1f642.png) 
