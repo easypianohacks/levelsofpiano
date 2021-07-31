@@ -15,6 +15,10 @@ You will get a huge virtual hug from me.
 * [x] 🖐 21 Finger Speed Drills - [Watch Now](https://app.easypianohacks.com/dl/ewAiAHQAIgA6ADIAMwAsACIAcwAiADoAIgBjAGwAYQBzAHMALQBDAG8AdQByAHMAZQBzACIALAAiAHIAIgA6ACIAbgBJAE4AcQA0AGwASQAuAFEAbwBlAHoATwBFAFcAcQBJADMAMQBIADAAQQAiACwAIgBuACIAOgAiADIAMQAgAEYAaQBuAGcAZQByACAARAByAGkAbABsAHMAIgB9AA%3D%3D)
 * [x] 🖐 Hand Independence III - [Watch Now](https://app.easypianohacks.com/dl/ewAiAHQAIgA6ADIAMwAsACIAcwAiADoAIgBjAGwAYQBzAHMALQBDAG8AdQByAHMAZQBzACIALAAiAHIAIgA6ACIAWQBVAFcAVwBMAEQANAByAFQAMABpAEoAWgBHAFQAVgBSAHkAcgBOAEUAZwAiACwAIgBuACIAOgAiAEYAaQB4ACAAQwBsAHUAbQBzAHkAIABIAGEAbgBkAHMAIgB9AA%3D%3D)
 
+**+ 50% increase in motivation**   
+At this point, you'll feel like what you practice actually helps you improve.  
+
+
 ### **🥈 SILVER**
 
 If you master the following 2 tasks \(4-8 weeks\)  
