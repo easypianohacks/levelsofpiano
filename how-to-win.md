@@ -11,9 +11,9 @@ If you master the following 3 tasks \(2-4 weeks\)
 You will be able learn **80%** of sheet music online with speed + ease.   
 You will be granted the **Group Expert** badge.
 
-* [ ] 🎼 How to Count in 5 Levels - [Watch Now](https://app.easypianohacks.com/dl/ewAiAHQAIgA6ADIAMwAsACIAcwAiADoAIgBjAGwAYQBzAHMALQBDAG8AdQByAHMAZQBzACIALAAiAHIAIgA6ACIANwBHAHMAZgBxAE8AMABQAFQAcwBtAHEAWABpAFIANQBiAGUAcQA0AGcAdwAiACwAIgBuACIAOgAiAFQAaABlACAAQgBhAHMAaQBjAHMAIgB9AA%3D%3D)
-* [ ] 🖐 21 Finger Speed Drills - [Watch Now](https://app.easypianohacks.com/dl/ewAiAHQAIgA6ADIAMwAsACIAcwAiADoAIgBjAGwAYQBzAHMALQBDAG8AdQByAHMAZQBzACIALAAiAHIAIgA6ACIAbgBJAE4AcQA0AGwASQAuAFEAbwBlAHoATwBFAFcAcQBJADMAMQBIADAAQQAiACwAIgBuACIAOgAiADIAMQAgAEYAaQBuAGcAZQByACAARAByAGkAbABsAHMAIgB9AA%3D%3D)
-* [ ] 🖐 Hand Independence III - [Watch Now](https://app.easypianohacks.com/dl/ewAiAHQAIgA6ADIAMwAsACIAcwAiADoAIgBjAGwAYQBzAHMALQBDAG8AdQByAHMAZQBzACIALAAiAHIAIgA6ACIAWQBVAFcAVwBMAEQANAByAFQAMABpAEoAWgBHAFQAVgBSAHkAcgBOAEUAZwAiACwAIgBuACIAOgAiAEYAaQB4ACAAQwBsAHUAbQBzAHkAIABIAGEAbgBkAHMAIgB9AA%3D%3D)
+* [x] 🎼 How to Count in 5 Levels - [Watch Now](https://app.easypianohacks.com/dl/ewAiAHQAIgA6ADIAMwAsACIAcwAiADoAIgBjAGwAYQBzAHMALQBDAG8AdQByAHMAZQBzACIALAAiAHIAIgA6ACIANwBHAHMAZgBxAE8AMABQAFQAcwBtAHEAWABpAFIANQBiAGUAcQA0AGcAdwAiACwAIgBuACIAOgAiAFQAaABlACAAQgBhAHMAaQBjAHMAIgB9AA%3D%3D)
+* [x] 🖐 21 Finger Speed Drills - [Watch Now](https://app.easypianohacks.com/dl/ewAiAHQAIgA6ADIAMwAsACIAcwAiADoAIgBjAGwAYQBzAHMALQBDAG8AdQByAHMAZQBzACIALAAiAHIAIgA6ACIAbgBJAE4AcQA0AGwASQAuAFEAbwBlAHoATwBFAFcAcQBJADMAMQBIADAAQQAiACwAIgBuACIAOgAiADIAMQAgAEYAaQBuAGcAZQByACAARAByAGkAbABsAHMAIgB9AA%3D%3D)
+* [x] 🖐 Hand Independence III - [Watch Now](https://app.easypianohacks.com/dl/ewAiAHQAIgA6ADIAMwAsACIAcwAiADoAIgBjAGwAYQBzAHMALQBDAG8AdQByAHMAZQBzACIALAAiAHIAIgA6ACIAWQBVAFcAVwBMAEQANAByAFQAMABpAEoAWgBHAFQAVgBSAHkAcgBOAEUAZwAiACwAIgBuACIAOgAiAEYAaQB4ACAAQwBsAHUAbQBzAHkAIABIAGEAbgBkAHMAIgB9AA%3D%3D)
 
 ### **🥈 SILVER**
 
@@ -22,8 +22,8 @@ If you master the following 2 tasks \(4-8 weeks\)
 You will be able learn **80%** of sheet music online with speed + ease.   
 You will be granted the **Group Expert** badge.
 
-* [ ] **🎼** Czerny No. 1 to 100 - [Watch Now](https://app.easypianohacks.com/dl/ewAiAHQAIgA6ADIAMwAsACIAcwAiADoAIgBjAGwAYQBzAHMALQBDAG8AdQByAHMAZQBzACIALAAiAHIAIgA6ACIAbgBFAGUAZABnAGsARwBoAFIAegBxADgAZABNAG0AMgB6AEkATABFADUAQQAiACwAIgBuACIAOgAiAEMAegBlAHIAbgB5ACAATgBvAC4AIAAxACAAdABvACAANQAiAH0A)
-* [ ] 🖐 Hanon No. 1 to 31 - [Watch Now](https://app.easypianohacks.com/dl/ewAiAHQAIgA6ADIAMwAsACIAcwAiADoAIgBjAGwAYQBzAHMALQBWAGkAZABlAG8AcwAiACwAIgByACIAOgAiAEcAVgBQAHIATABsAGcARQBSAE0ARwA5AGwAbgB6ADEAWQBYAFgAdABDAEEAIgAsACIAbgAiADoAIgBJAG4AdAByAG8AIAB0AG8AIABIAGEAbgBvAG4AIgB9AA%3D%3D)
+* [x] **🎼** Czerny No. 1 to 100 - [Watch Now](https://app.easypianohacks.com/dl/ewAiAHQAIgA6ADIAMwAsACIAcwAiADoAIgBjAGwAYQBzAHMALQBDAG8AdQByAHMAZQBzACIALAAiAHIAIgA6ACIAbgBFAGUAZABnAGsARwBoAFIAegBxADgAZABNAG0AMgB6AEkATABFADUAQQAiACwAIgBuACIAOgAiAEMAegBlAHIAbgB5ACAATgBvAC4AIAAxACAAdABvACAANQAiAH0A)
+* [x] 🖐 Hanon No. 1 to 31 - [Watch Now](https://app.easypianohacks.com/dl/ewAiAHQAIgA6ADIAMwAsACIAcwAiADoAIgBjAGwAYQBzAHMALQBWAGkAZABlAG8AcwAiACwAIgByACIAOgAiAEcAVgBQAHIATABsAGcARQBSAE0ARwA5AGwAbgB6ADEAWQBYAFgAdABDAEEAIgAsACIAbgAiADoAIgBJAG4AdAByAG8AIAB0AG8AIABIAGEAbgBvAG4AIgB9AA%3D%3D)
 
 ![](.gitbook/assets/image%20%28124%29.png)
 
@@ -36,9 +36,9 @@ If you master the following 3 tasks \(8 weeks+\)
 You will be able learn **95%** of sheet music online with speed + ease.   
 You will be granted the **Moderator** badge.
 
-* [ ] 🎹 Fur Elise - [Start Now ](https://app.easypianohacks.com/dl/ewAiAHQAIgA6ADIAMwAsACIAcwAiADoAIgBjAGwAYQBzAHMALQBWAGkAZABlAG8AcwAiACwAIgByACIAOgAiAEMARwB6AHoAQwBIAEwAcABUAFgAaQA2AG8ASQBjAGQANQB0AGwAVQBkAHcAIgAsACIAbgAiADoAIgBGAHUAcgAgAEUAbABpAHMAZQAgACgAbQBtAC4AIAAxACAAdABvACAAOAApACIAfQA%3D)
-* [ ] 🖐 24 Scales, Chords, Arpeggios - [Start Now](https://app.easypianohacks.com/dl/ewAiAHQAIgA6ADIAMwAsACIAcwAiADoAIgBjAGwAYQBzAHMALQBDAG8AdQByAHMAZQBzACIALAAiAHIAIgA6ACIAegA1AFUATQB4AHAAbQA2AFEAVQBtAHEAWgBGAGoAYgBNAHcAZwB2AFgAdwAiACwAIgBuACIAOgAiAEwAZQB2AGUAbAAgADEAIABTAGMAYQBsAGUAcwAiAH0A)
-* [ ] 🎹 1 Expert Level Piece \(Pirates, Avengers, Chopin Nocturne, your dream piece\)
+* [x] 🎹 Fur Elise - [Start Now ](https://app.easypianohacks.com/dl/ewAiAHQAIgA6ADIAMwAsACIAcwAiADoAIgBjAGwAYQBzAHMALQBWAGkAZABlAG8AcwAiACwAIgByACIAOgAiAEMARwB6AHoAQwBIAEwAcABUAFgAaQA2AG8ASQBjAGQANQB0AGwAVQBkAHcAIgAsACIAbgAiADoAIgBGAHUAcgAgAEUAbABpAHMAZQAgACgAbQBtAC4AIAAxACAAdABvACAAOAApACIAfQA%3D)
+* [x] 🖐 24 Scales, Chords, Arpeggios - [Start Now](https://app.easypianohacks.com/dl/ewAiAHQAIgA6ADIAMwAsACIAcwAiADoAIgBjAGwAYQBzAHMALQBDAG8AdQByAHMAZQBzACIALAAiAHIAIgA6ACIAegA1AFUATQB4AHAAbQA2AFEAVQBtAHEAWgBGAGoAYgBNAHcAZwB2AFgAdwAiACwAIgBuACIAOgAiAEwAZQB2AGUAbAAgADEAIABTAGMAYQBsAGUAcwAiAH0A)
+* [x] 🎹 1 Expert Level Piece \(Pirates, Avengers, Chopin Nocturne, your dream piece\)
 
 
 
