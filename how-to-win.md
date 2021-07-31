@@ -9,7 +9,7 @@ On your quest, to musical freedom + perfect piano playing:
 If you master the following 3 tasks \(2-4 weeks\)  
   
 You will be able learn **20%** of sheet music online with speed + ease.   
-You will be granted the **Group Expert** badge.
+You will get a huge virtual hug from me.
 
 * [x] 🎼 How to Count in 5 Levels - [Watch Now](https://app.easypianohacks.com/dl/ewAiAHQAIgA6ADIAMwAsACIAcwAiADoAIgBjAGwAYQBzAHMALQBDAG8AdQByAHMAZQBzACIALAAiAHIAIgA6ACIANwBHAHMAZgBxAE8AMABQAFQAcwBtAHEAWABpAFIANQBiAGUAcQA0AGcAdwAiACwAIgBuACIAOgAiAFQAaABlACAAQgBhAHMAaQBjAHMAIgB9AA%3D%3D)
 * [x] 🖐 21 Finger Speed Drills - [Watch Now](https://app.easypianohacks.com/dl/ewAiAHQAIgA6ADIAMwAsACIAcwAiADoAIgBjAGwAYQBzAHMALQBDAG8AdQByAHMAZQBzACIALAAiAHIAIgA6ACIAbgBJAE4AcQA0AGwASQAuAFEAbwBlAHoATwBFAFcAcQBJADMAMQBIADAAQQAiACwAIgBuACIAOgAiADIAMQAgAEYAaQBuAGcAZQByACAARAByAGkAbABsAHMAIgB9AA%3D%3D)
