@@ -120,6 +120,14 @@ We meet Kenzo and do a refresher on note values, and how to count while playing 
 
 {% embed url="https://youtu.be/9rdxxv6GYeU" %}
 
+## Episode 21
+
+{% embed url="https://youtu.be/4aZwI76SNzU" %}
+
+## Episode 22
+
+{% embed url="https://youtu.be/YwNxzFpNRks" %}
+
 
 
 
