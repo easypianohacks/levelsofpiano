@@ -40,6 +40,10 @@ You will be granted the **Moderator** badge.
 * [ ] 🖐 24 Scales, Chords, Arpeggios - [Start Now](https://app.easypianohacks.com/dl/ewAiAHQAIgA6ADIAMwAsACIAcwAiADoAIgBjAGwAYQBzAHMALQBDAG8AdQByAHMAZQBzACIALAAiAHIAIgA6ACIAegA1AFUATQB4AHAAbQA2AFEAVQBtAHEAWgBGAGoAYgBNAHcAZwB2AFgAdwAiACwAIgBuACIAOgAiAEwAZQB2AGUAbAAgADEAIABTAGMAYQBsAGUAcwAiAH0A)
 * [ ] 🎹 1 Expert Level Piece \(Pirates, Avengers, Chopin Nocturne, your dream piece\)
 
+
+
+
+
 ## ✅ Leveling Up
 
 Each time you upload a new video for feedback in the [Facebook Group](https://www.facebook.com/groups/levelsofpiano/), we assess if you level up!
