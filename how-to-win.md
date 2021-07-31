@@ -31,8 +31,6 @@ You will be granted the **Group Expert** badge.
 
 ![](.gitbook/assets/image%20%28124%29.png)
 
-\*\*\*\*
-
 ### **🥇 GOLD**
 
 If you master the following 3 tasks \(8 weeks+\)  
