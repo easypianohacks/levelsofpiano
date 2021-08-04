@@ -362,7 +362,17 @@ Pedal on the right foot is something to get used to with practice...should only 
 
 ## How do I use the sustain pedal?
 
+This is **wrong**
 
+
+
+![](../.gitbook/assets/image%20%28125%29.png)
+
+The heel must be on the floor at all times, you pedal with the top half of your foot, sometimes just the toes. 
+
+Adjust your seat lower if needed.
+
+This is **correct**
 
 {% embed url="https://youtu.be/dDMy6TRGSF4" %}
 
