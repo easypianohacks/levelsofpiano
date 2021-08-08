@@ -128,7 +128,15 @@ We meet Kenzo and do a refresher on note values, and how to count while playing 
 
 {% embed url="https://youtu.be/YwNxzFpNRks" %}
 
+## Episode 23
 
+{% embed url="https://youtu.be/gg2CAG8mspg" %}
+
+
+
+## Episode 24
+
+{% embed url="https://youtu.be/QjgtYrlbiHg" %}
 
 
 
