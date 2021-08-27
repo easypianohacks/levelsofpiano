@@ -146,5 +146,11 @@ We meet Kenzo and do a refresher on note values, and how to count while playing 
 
 
 
+## Episode 26
+
+{% embed url="https://youtu.be/n49qRa2F8k0" %}
+
+
+
 
 
