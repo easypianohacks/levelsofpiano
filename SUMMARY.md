@@ -54,6 +54,7 @@
 
 ## Feedback Fridays
 
+* [Season 2](feedback-fridays/season-2.md)
 * [Season 1](feedback-fridays/season-1.md)
 
 ## FAQ
