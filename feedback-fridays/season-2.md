@@ -6,5 +6,9 @@
 
 
 
+## Episode 2
+
+{% embed url="https://youtu.be/pa9insP1nh0" %}
+
 
 
