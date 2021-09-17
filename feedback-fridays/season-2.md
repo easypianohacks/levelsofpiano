@@ -10,5 +10,9 @@
 
 {% embed url="https://youtu.be/pa9insP1nh0" %}
 
+## Episode 3
+
+{% embed url="https://youtu.be/tNAFPIndzGs" %}
+
 
 
