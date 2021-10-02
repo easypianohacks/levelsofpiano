@@ -28,3 +28,11 @@
 
 
 
+## Episode 6
+
+{% embed url="https://youtu.be/2UhTrILN-bM" %}
+
+
+
+
+
