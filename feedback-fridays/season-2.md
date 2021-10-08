@@ -34,5 +34,11 @@
 
 
 
+## Episode 7
+
+{% embed url="https://youtu.be/ibR4XMvFf\_k" %}
+
+
+
 
 
