@@ -18,13 +18,13 @@
 
 ## Episode 4
 
-{% embed url="https://youtu.be/\_WfNVdXptis" %}
+{% embed url="https://youtu.be/_WfNVdXptis" %}
 
 
 
 ## Episode 5
 
-{% embed url="https://youtu.be/\_lWq6uNceYQ" %}
+{% embed url="https://youtu.be/_lWq6uNceYQ" %}
 
 
 
@@ -36,9 +36,19 @@
 
 ## Episode 7
 
-{% embed url="https://youtu.be/ibR4XMvFf\_k" %}
+{% embed url="https://youtu.be/ibR4XMvFf_k" %}
 
 
 
+## Episode 8
 
+
+
+{% embed url="https://youtu.be/g_0kXbqbtb8" %}
+
+## Episode 9
+
+
+
+{% embed url="https://youtu.be/ZvESvDol6kU" %}
 
