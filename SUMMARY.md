@@ -31,7 +31,7 @@
     * [🎹 Minuet in F Major](levels/beginner/level-0/minuet-in-f-major/README.md)
       * [Student Feedback ft. Kavinvit @k7n3wt0n](levels/beginner/level-0/minuet-in-f-major/student-feedback-ft.-kavinvit-k7n3wt0n.md)
       * [Intro to Dynamics](levels/beginner/level-0/minuet-in-f-major/intro-to-dynamics.md)
-      * [\# ♭ Key Signatures vs. Accidentals](levels/beginner/level-0/minuet-in-f-major/key-signatures-vs.-accidentals.md)
+      * [# ♭ Key Signatures vs. Accidentals](levels/beginner/level-0/minuet-in-f-major/key-signatures-vs.-accidentals.md)
   * [1️⃣ Level 1](levels/beginner/level-1.md)
   * [2️⃣ Level 2](levels/beginner/level-2.md)
   * [3️⃣ Level 3](levels/beginner/level-3.md)
@@ -47,13 +47,14 @@
   * [🔟 Level 10](levels/advanced/level-10.md)
 * [🔥 Master](levels/master.md)
 
----
+***
 
 * [💖 Viral](viral/README.md)
   * [Pirates of the Caribbean](viral/pirates-of-the-caribbean.md)
 
 ## Feedback Fridays
 
+* [Season 3](feedback-fridays/season-3.md)
 * [Season 2](feedback-fridays/season-2.md)
 * [Season 1](feedback-fridays/season-1.md)
 
@@ -83,4 +84,3 @@
 
 * [💡 How to add FAQs ✅](team/how-to-add-faqs.md)
 * [Uploading Public Domain Sheets to Musescore](team/uploading-public-domain-sheets-to-musescore.md)
-
